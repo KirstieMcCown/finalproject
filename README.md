@@ -63,13 +63,13 @@ Within 'logistic_model_compare.ipynb', we have used all columns (other than the 
 
 ### Created With<hr>
 This project was created using the following:<br>
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* Microsoft Excel
+* VBA
+* Python
+* PySpark
+* PostgreSQL
+* Amazon AWS
+* Amazon S3
 * 
 * 
 * 
