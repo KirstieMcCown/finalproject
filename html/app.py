@@ -14,13 +14,13 @@ conn=engine.connect()
 
 
 # @app.route("/")
-# def home():
+# def datatest():
     
-    # data2 = pd.read_sql("SELECT * FROM spcs",conn)
-    # #print(data2)
-    # var2 = data2.to_json(orient="records")
-    # #print(type(var2))
-    # return var2
+    # data = pd.read_sql("SELECT * FROM spcs",conn)
+    # #print(data)
+    # datatojson = data.to_json(orient="records")
+    # #print(type(datatojson))
+    # return datatojson
 
 @app.route("/index.html")
 def html():
