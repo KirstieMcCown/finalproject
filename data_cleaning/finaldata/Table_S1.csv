@@ -1,34 +1,10 @@
-"Table S1: Number of children adopted, by state and territory, 1994–95 to 2018–19",,,,,,,,,,,,,,,,,,,,,,,,
-Back to Contents,,,,,,,,,,,,,,,,,,,,,,,,
-Year,NSW,Vic,Qld(a),WA,SA,Tas,ACT(a),NT,Australia,,,,,,,,,,,,,,,
-1994–95,260,145,179,127,108,12,18,6,855,,,,,,,,,,,,,,,
-1995–96,204,131,170,75,48,17,19,4,668,,,,,,,,,,,,,,,
-1996–97,263,123,129,56,79,30,26,3,709,,,,,,,,,,,,,,,
-1997–98,200,114,111,69,48,19,15,1,577,,,,,,,,,,,,,,,
-1998–99,185,102,94,64,53,25,16,6,543,,,,,,,,,,,,,,,
-1999–00,154,122,105,79,59,19,24,4,566,,,,,,,,,,,,,,,
-2000–01,166,98,62,74,53,24,27,10,514,,,,,,,,,,,,,,,
-2001–02,207,110,49,79,62,20,23,11,561,,,,,,,,,,,,,,,
-2002–03,122,82,67,76,72,21,25,7,472,,,,,,,,,,,,,,,
-2003–04,115,120,65,59,79,26,33,5,502,,,,,,,,,,,,,,,
-2004–05,154,161,84,49,77,23,20,17,585,,,,,,,,,,,,,,,
-2005–06,149,131,82,62,72,35,30,15,576,,,,,,,,,,,,,,,
-2006–07,165,127,91,65,62,26,22,11,569,,,,,,,,,,,,,,,
-2007–08,125,98,86,41,36,31,14,9,440,,,,,,,,,,,,,,,
-2008–09,155,71,92,43,35,23,13,9,441,,,,,,,,,,,,,,,
-2009–10(b),158,81,68,50,26,9,16,5,413,,,,,,,,,,,,,,,
-2010–11(b)(c),167,86,40,37,30,14,11,1,386,,,,,,,,,,,,,,,
-2011–12(b),157,73,33,26,24,6,11,11,341,,,,,,,,,,,,,,,
-2012–13(b),159,45,48,42,20,14,6,14,348,,,,,,,,,,,,,,,
-2013–14,141,48,34,40,15,12,17,10,317,,,,,,,,,,,,,,,
-2014–15,148,38,38,29,17,11,9,2,292,,,,,,,,,,,,,,,
-2015–16,128,34,48,29,17,8,5,9,278,,,,,,,,,,,,,,,
-2016–17,177,23,33,44,14,7,10,7,315,,,,,,,,,,,,,,,
-2017–18(d),214,22,25,36,7,7,6,13,330,,,,,,,,,,,,,,,
-2018–19,192,20,26,31,8,10,6,17,310,,,,,,,,,,,,,,,
-(a) Data for 1998–99 may differ from previous reports because of updated figures.,,,,,,,,,,,,,,,,,,,,,,,,
-"(b) On 4 March 2014, the Prime Minister and Attorney-General announced the commencement of amendments to the Family Law (Bilateral Arrangements-Intercountry Adoption) Regulations 1998. These amendments have meant that a number of adoptions from Ethiopia and Taiwan, not yet finalised in Australia, were recognised during 2013–14 as being finalised in previous periods. These updated data are reflected in this report: 1 adoption from Ethiopia in 2006–07; 1 adoption from Ethiopia in 2009–10; 1 adoption from Ethiopia and 1 adoption from Taiwan in 2010–11; 1 adoption from Ethiopia and 7 adoptions from Taiwan in 2011–12; and, 9 adoptions from Taiwan in 2012–13.",,,,,,,,,,,,,,,,,,,,,,,,
-"(c) Interim adoption orders made by the Children's Court in Queensland are not captured in these data. Under the Adoption Act 2009 (Qld) that began in February 2010, a final adoption order is normally made at the successful completion of a supervised interim order that is completed over a 12-month period. This requirement has affected final adoption orders made in Queensland in 2010–11.",,,,,,,,,,,,,,,,,,,,,,,,
-"(d) Commencing in 2017-18, known child intercountry adoptions are deemed to be out-of-scope for national reporting and are excluded counts of finalised intercountry adoptions. In previous years, national data may have included some cases of known child intercountry adoption",,,,,,,,,,,,,,,,,,,,,,,,
-Note: Data for years before 1994–95 are included in previous editions of this publication.,,,,,,,,,,,,,,,,,,,,,,,,
-Source: AIHW Adoptions Australia data collection.,,,,,,,,,,,,,,,,,,,,,,,,
+year,nsw,vic,qld,wa,sa,tas,act,nt
+2010,167,86,40,37,30,14,11,1
+2011,157,73,33,26,24,6,11,11
+2012,159,45,48,42,20,14,6,14
+2013,141,48,34,40,15,12,17,10
+2014,148,38,38,29,17,11,9,2
+2015,128,34,48,29,17,8,5,9
+2016,177,23,33,44,14,7,10,7
+2017,214,22,25,36,7,7,6,13
+2018,192,20,26,31,8,10,6,17

@@ -1,41 +1,10 @@
-"Table S9: Intercountry adoption, by age group, 2004–05 to 2018–19",,,,,,,,,,,,,,
-Back to Contents,,,,,,,,,,,,,,
-,All intercountry persons,,,,,,,,Total,,,,,
-Year,Less than 1,,1–4,,5–9,,10 or more,,,,,,,
-,Number,,,,,,,,,,,,,
-2004–05,159,,236,,38,,1,,434,,,,,
-2005–06,199,,178,,40,,4,,421,,,,,
-2006–07(a),168,,204,,31,,3,,406,,,,,
-2007–08,113,,135,,19,,3,,270,,,,,
-2008–09,100,,137,,29,,3,,269,,,,,
-2009–10(a),70,,122,,30,,1,,223,,,,,
-2010–11(a),63,,125,,25,,4,,217,,,,,
-2011–12(a),34,,91,,25,,7,,157,,,,,
-2012–13(a),27,,82,,26,,3,,138,,,,,
-2013–14,16,,66,,31,,1,,114,,,,,
-2014–15,8,,48,,27,,—,,83,,,,,
-2015–16,7,,51,,19,,5,,82,,,,,
-2016–17,6,,45,,14,,4,,69,,,,,
-2017–18,4,,38,,21,,2,,65,,,,,
-2018–19,3,,34,,13,,7,,57,,,,,
-,Per cent,,,,,,,,,,,,,
-2004–05,36.6,,54.4,,8.8,,0.2,,100.0,,,,,
-2005–06,47.3,,42.3,,9.5,,1.0,,100.0,,,,,
-2006–07(a),41.4,,50.2,,7.6,,0.7,,100.0,,,,,
-2007–08,41.9,,50.0,,7.0,,1.1,,100.0,,,,,
-2008–09,37.2,,50.9,,10.8,,1.1,,100.0,,,,,
-2009–10(a),31.4,,54.7,,13.5,,0.4,,100.0,,,,,
-2010–11(a),29.0,,57.6,,11.5,,1.8,,100.0,,,,,
-2011–12(a),21.7,,58.0,,15.9,,4.5,,100.0,,,,,
-2012–13(a),19.6,,59.4,,18.8,,2.2,,100.0,,,,,
-2013–14,14.0,,57.9,,27.2,,0.9,,100.0,,,,,
-2014–15,9.6,,57.8,,32.5,,. .,,100.0,,,,,
-2015–16,8.5,,62.2,,23.2,,6.1,,100.0,,,,,
-2016–17,8.7,,65.2,,20.3,,5.8,,100.0,,,,,
-2017–18,6.2,,58.5,,32.3,,3.1,,100.0,,,,,
-2018–19,5.3,,59.6,,22.8,,12.3,,100.0,,,,,
-"(a) On 4 March 2014, amendments were made to the Family Law (Bilateral Arrangements-Intercountry Adoption) Regulations 1998 began. These have meant that some adoptions from Ethiopia and Taiwan, not yet finalised in Australia, were recognised during 2013–14 as being finalised in previous period. These updated data are reflected in this table: 1 adoption from Ethiopia in 2006–07; 1 adoption from Ethiopia in 2009–10; 1 adoption from Ethiopia and 1 adoption from Taiwan in 2010–11; 1 adoption from Ethiopia and 7 adoptions in Taiwan in 2011–12; and 9 adoptions from Taiwan in 2012–13.",,,,,,,,,,,,,,
-Notes:,,,,,,,,,,,,,,
-1. Percentages may not add to 100 due to rounding.,,,,,,,,,,,,,,
-2. Data for years before 2004–05 are included in previous editions of this publication.,,,,,,,,,,,,,,
-Source: AIHW Adoptions Australia data collection.,,,,,,,,,,,,,,
+year,1,4,9,10,total
+2010,63,125,25,4,217
+2011,34,91,25,7,157
+2012,27,82,26,3,138
+2013,16,66,31,1,114
+2014,8,48,27,—,83
+2015,7,51,19,5,82
+2016,6,45,14,4,69
+2017,4,38,21,2,65
+2018,3,34,13,7,57

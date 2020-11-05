@@ -1,35 +1,10 @@
-"Table S28: Adoptions of Australian children, by relationship to adoptive parent(s), 1994–95 to 2018–19",,,,,,,,,,,
-Back to Contents,,,,,,,,,,,
-Year,Adoptions by relatives,,,Adoptions by non-relatives,,,Total,,,,
-,Number,Per cent,,Number,Per cent,,Number,Per cent,,,
-1994–95,320,50.7,,311,49.3,,631,100.0,,,
-1995–96,177,44.9,,217,55.1,,394,100.0,,,
-1996–97,177,40.2,,263,59.8,,440,100.0,,,
-1997–98,154,46.4,,178,53.6,,332,100.0,,,
-1998–99,124,41.5,,175,58.5,,299,100.0,,,
-1999–00,116,43.8,,149,56.2,,265,100.0,,,
-2000–01(a),102,45.3,,114,50.7,,225,100.0,,,
-2001–02,108,40.4,,159,59.6,,267,100.0,,,
-2002–03(a),74,38.1,,107,55.2,,194,100.0,,,
-2003–04,34,25.8,,98,74.2,,132,100.0,,,
-2004–05,57,37.7,,94,62.3,,151,100.0,,,
-2005–06,74,47.7,,81,52.3,,155,100.0,,,
-2006–07,82,50.3,,81,49.7,,163,100.0,,,
-2007–08,74,43.5,,96,56.5,,170,100.0,,,
-2008–09,69,40.1,,103,59.9,,172,100.0,,,
-2009–10,76,40.0,,114,60.0,,190,100.0,,,
-2010–11,75,44.4,,94,55.6,,169,100.0,,,
-2011–12,59,32.1,,125,67.9,,184,100.0,,,
-2012–13,72,34.3,,138,65.7,,210,100.0,,,
-2013–14,66,32.5,,137,67.5,,203,100.0,,,
-2014–15,56,26.8,,153,73.2,,209,100.0,,,
-2015–16,79,40.3,,117,59.7,,196,100.0,,,
-2016–17,58,23.6,,188,76.4,,246,100.0,,,
-2017–18,85,32.1,,180,67.9,,265,100.0,,,
-2018–19(b),68,27.0,,184,73.0,,253,100.0,,,
-"(a) Totals in 2000–01 and 2002–03 include adoptions involving children with an unknown relationship to the adoptive parent(s). Therefore, numbers and percentages for subcategories may not add to those for the total. ",,,,,,,,,,,
-"(b) Total includes 1 adoption for which there was insufficient information to determine if the child was adopted by a relative or non-relative, excluded from percentages.",,,,,,,,,,,
-Notes:,,,,,,,,,,,
-1. The total number of adoptions of Australian children in 2018–19 (253) includes the sum of local adoptions (42) and known adoptions (211).,,,,,,,,,,,
-"2. ‘Relatives’ includes adoptions by step-parents, other relatives such as grandparents, aunts and uncles and commissioning (surrogate) parents. ‘Non-relatives’ includes adoptions by carers such as foster parents, other known child adoptions by non-relatives and local adoptions.",,,,,,,,,,,
-Source: AIHW Adoptions Australia data collection.,,,,,,,,,,,
+year,adoption_by_relatives,adoption_by_non_relatives,total
+2010,75,94,169
+2011,59,125,184
+2012,72,138,210
+2013,66,137,203
+2014,56,153,209
+2015,79,117,196
+2016,58,188,246
+2017,85,180,265
+2018,68,184,253

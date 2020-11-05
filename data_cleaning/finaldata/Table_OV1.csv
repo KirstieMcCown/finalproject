@@ -1,32 +1,10 @@
-"Table OV1: Adoption, by type of adoption, 1998–99 to 2018–19",,,,,,,,,,
-Back to Contents,,,,,,,,,,
-Year,Type of adoption,,,,,,,,,
-,Intercountry,Local,Known,All adoptions,,Intercountry,Local,Known,All adoptions,
-,Number,,,,,Per cent,,,,
-1998–99,244,127,172,543,,44.9,23.4,31.7,100.0,
-1999–00,301,106,159,566,,53.2,18.7,28.1,100.0,
-2000–01,289,88,137,514,,56.2,17.1,26.7,100.0,
-2001–02,294,107,160,561,,52.4,19.1,28.5,100.0,
-2002–03,278,78,116,472,,58.9,16.5,24.6,100.0,
-2003–04,370,73,59,502,,73.7,14.5,11.8,100.0,
-2004–05,434,65,86,585,,74.2,11.1,14.7,100.0,
-2005–06,421,60,95,576,,73.1,10.4,16.5,100.0,
-2006–07,406,59,104,569,,71.4,10.4,18.3,100.0,
-2007–08,270,70,100,440,,61.4,15.9,22.7,100.0,
-2008–09,269,68,104,441,,61.0,15.4,23.6,100.0,
-2009–10,223,61,129,413,,54.0,14.8,31.2,100.0,
-2010–11,217,45,124,386,,56.2,11.7,32.1,100.0,
-2011–12,157,55,129,341,,46.0,16.1,37.8,100.0,
-2012–13,138,54,156,348,,39.7,15.5,44.8,100.0,
-2013–14,114,46,157,317,,36.0,14.5,49.5,100.0,
-2014–15,83,56,153,292,,28.4,19.2,52.4,100.0,
-2015–16,82,45,151,278,,29.5,16.2,54.3,100.0,
-2016–17,69,42,204,315,,21.9,13.3,64.8,100.0,
-2017–18,65,32,233,330,,19.7,9.7,70.6,100.0,
-2018–19,57,42,211,310,,18.4,13.5,68.1,100.0,
-Notes:,,,,,,,,,,
-1.    Data in this table may not match previously published data due to retrospective data updates to the National Adoptions Australia Data Collection.,,,,,,,,,,
-2.    Percentages may not add to 100 due to rounding.,,,,,,,,,,
-"3.   This table includes all adoptees in Australia who were the subject of a finalised adoption order during each reporting period. These orders create, between the adoptee and the adoptive parent(s), the relationships of parent and child, and severs the relationship between the adoptee and their previous parents.  This includes orders that were made in Australia and, in the case of some intercountry adoptions, where the full adoption order was made in the country of origin. The way in which an adoption is finalised depends on the process used in the country of origin and the procedures of the state or territory departments responsible for adoption in Australia. ",,,,,,,,,,
-Source: AIHW Adoptions Australia data collection.,,,,,,,,,,
-,,,,,,,,,,
+year,intercountry,local,known,total
+2010,217,45,124,386
+2011,157,55,129,341
+2012,138,54,156,348
+2013,114,46,157,317
+2014,83,56,153,292
+2015,82,45,151,278
+2016,69,42,204,315
+2017,65,32,233,330
+2018,57,42,211,310

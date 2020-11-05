@@ -1,34 +1,10 @@
-"Table S27: Adoptions in Australia, by type of adoption, 1994–95 to 2018–19",,,,,,,,,,,,,
-Back to Contents,,,,,,,,,,,,,
-Year,Children adopted from Australia,,,Children adopted from overseas,,,Total(a),,,,,,
-,Number,Per cent,,Number ,Per cent,,Number ,Per cent,,,,,
-1994–95,631,73.8,,224,26.2,,855,100.0,,,,,
-1995–96,394,59.0,,274,41.0,,668,100.0,,,,,
-1996–97,440,62.1,,269,37.9,,709,100.0,,,,,
-1997–98,332,57.5,,245,42.5,,577,100.0,,,,,
-1998–99(b),299,55.1,,244,44.9,,543,100.0,,,,,
-1999–00,265,46.8,,301,53.2,,566,100.0,,,,,
-2000–01,225,43.8,,289,56.2,,514,100.0,,,,,
-2001–02,267,47.6,,294,52.4,,561,100.0,,,,,
-2002–03,194,41.1,,278,58.9,,472,100.0,,,,,
-2003–04,132,26.3,,370,73.7,,502,100.0,,,,,
-2004–05,151,25.8,,434,74.2,,585,100.0,,,,,
-2005–06,155,26.9,,421,73.1,,576,100.0,,,,,
-2006–07(c),163,28.6,,406,71.4,,569,100.0,,,,,
-2007–08,170,38.6,,270,61.4,,440,100.0,,,,,
-2008–09,172,39.0,,269,61.0,,441,100.0,,,,,
-2009–10(c),190,46.0,,223,54.0,,413,100.0,,,,,
-2010–11(c),169,43.8,,217,56.2,,386,100.0,,,,,
-2011–12(c),184,54.0,,157,46.0,,341,100.0,,,,,
-2012–13(c),210,60.3,,138,39.7,,348,100.0,,,,,
-2013–14,203,64.0,,114,36.0,,317,100.0,,,,,
-2014–15,209,71.6,,83,28.4,,292,100.0,,,,,
-2015–16,196,70.5,,82,29.5,,278,100.0,,,,,
-2016–17,246,78.1,,69,21.9,,315,100.0,,,,,
-2017–18,265,80.3,,65,19.7,,330,100.0,,,,,
-2018–19,253,81.6,,57,18.4,,310,100.0,,,,,
-(a) Total includes children of unknown country of origin. Therefore numbers and percentages for subcategories may not add to those for total. ,,,,,,,,,,,,,
-(b) Data for 1998–99 may differ from previous reports because of updated figures.,,,,,,,,,,,,,
-"(c) On 4 March 2014, the Prime Minister and Attorney-General announced the commencement of amendments to the Family Law (Bilateral Arrangements-Intercountry Adoption) Regulations 1998. These amendments have meant that a number of adoptions from Ethiopia and Taiwan, not yet finalised in Australia, were recognised during 2013–14 as being finalised in previous periods. These updated data are reflected in this report: 1 adoption from Ethiopia in 2006–07; 1 adoption from Ethiopia in 2009–10; 1 adoption from Ethiopia and 1 adoption from Taiwan in 2010–11; 1 adoption from Ethiopia and 7 adoptions from Taiwan in 2011–12; and, 9 adoptions from Taiwan in 2012–13.",,,,,,,,,,,,,
-Note: Data for years before 1994–95 are included in previous editions of this publication.,,,,,,,,,,,,,
-Source: AIHW Adoptions Australia data collection.,,,,,,,,,,,,,
+year,children_adopted_from_australia,percent_from_australia,children_adopted_from_overseas,percent_from_overseas
+2010,169,43.8,217,56.2
+2011,184,54,157,46
+2012,210,60.3,138,39.7
+2013,203,64,114,36
+2014,209,71.6,83,28.4
+2015,196,70.5,82,29.5
+2016,246,78.1,69,21.9
+2017,265,80.3,65,19.7
+2018,253,81.6,57,18.4
