@@ -5,22 +5,24 @@ import pandas as pd
 from config import username
 from config import password
 from config import database
+from config import hostname
+import json
 
 app = Flask(__name__)
 
 # create connection to databse
-engine = create_engine(f"postgresql://{username}:{password}@localhost:5432/{database}")
-conn=engine.connect()
+engine = create_engine(f"postgresql://{username}:{password}@{hostname}:5432/{database}")
+connect = engine.connect()
 
 
-# @app.route("/")
-# def datatest():
+@app.route("/data")
+def datatest():
     
-    # data = pd.read_sql("SELECT * FROM spcs",conn)
-    # #print(data)
-    # datatojson = data.to_json(orient="records")
-    # #print(type(datatojson))
-    # return datatojson
+    data = pd.read_sql("select * from mothersbirthcountry", connect)
+    # print(data)
+    datatojson = data.to_json(orient = "index")
+    parsed = json.loads(datatojson)
+    return parsed
 
 @app.route("/index.html")
 def html():
