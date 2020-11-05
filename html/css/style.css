@@ -1,0 +1,254 @@
+
+
+/* Use body tag to set font family */
+body {
+  font-family: "Open Sans", Arial, sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.8;
+  color: darkslategrey;
+}
+
+/* Header */
+header {
+  position: absolute;
+  top: 30px;
+  left: 0;
+  width: 100%;
+  z-index: 5;
+}
+
+header .navbar {
+  padding-top: 0;
+  padding-bottom: 0;
+  background: none !important;
+  position: relative;
+
+}
+
+/* Change 'The Data Divers' to uppercase */
+header .navbar-brand {
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  font-weight: 400;
+}
+
+/* Change all items in the Navigation Bar to uppercase */
+header .navbar .nav-link {
+  padding: 1.7rem 1rem;
+  font-size: 15px;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  font-weight: 400;
+}
+
+/* Drop down menu */
+.dropdown-menu {
+  position: absolute;
+  display: none;
+  font-size: 1rem;
+}
+
+.dropdown-menu.show {
+  display: block;
+} 
+
+/* Navbar Button */
+
+.btn {
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  font-weight: bold;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #e74208;
+  border-color: #e74208;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #c23707;
+  border-color: #b63406;
+}
+
+/* LANDING PAGE SPECIFIC */
+/* Owl Carousel */
+/* Carousel Images and Text */
+.home-slider.home-slider .slider-item {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  min-height: 762px;
+  position: relative;
+}
+
+/* Default Slider Text */
+.home-slider.home-slider .slider-item .slider-text {
+  color: white;
+  min-height: 762px;
+}
+
+
+.home-slider.home-slider .slider-item .slider-text h1 {
+  font-size: 50px;
+  color: white;
+  line-height: 1.2;
+  font-weight: 300;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
+
+.home-slider.home-slider .slider-item .slider-text p {
+  font-size: 20px;
+  line-height: 1.5;
+  font-weight: 400;
+  color: white;
+  margin: 0 auto;
+}
+
+
+/* Carousel Dot Indicators */
+.home-slider .owl-dots {
+  text-align: center;
+}
+
+.home-slider .owl-dots .owl-dot {
+  width: 10px;
+  height: 10px;
+  margin: 5px;
+  border-radius: 50%;
+  background: none;
+  background: #fff;
+}
+
+.home-slider .owl-dots .owl-dot.active {
+  background: none;
+}
+
+.home-slider.home-slider .owl-dots {
+  position: absolute;
+  bottom: 100px;
+  width: 100%;
+}
+
+.home-slider.home-slider .owl-dots .owl-dot {
+  width: 10px;
+  height: 10px;
+  margin: 5px;
+  border-radius: 50%;
+  border: 2px solid white;
+  outline: none;
+  position: relative;
+  -o-transition: .3s all ease;
+  transition: .3s all ease;
+  background: none;
+}
+
+.home-slider.home-slider .owl-dots .owl-dot.active {
+  border: 2px solid white;
+  background: white;
+}
+
+
+/* Slider (Dashboard) Button */
+.btn.btn-outline-white {
+  border-width: 2px;
+  border-color: #fff;
+  color: #fff;
+}
+
+.btn.btn-outline-white:hover, .btn.btn-outline-white:focus {
+  background: #fff;
+  color: #000;
+  border-width: 2px;
+}
+
+
+/* DASHBOARD SPECIFIC */
+
+.col-12 {
+  padding-top: 150px;
+}
+
+.col-lg-12 {
+  padding-top: 20px;
+}
+
+.col-lg-6 {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+/* VISUALISATION SPECIFIC */
+
+.col-12 {
+  padding-top: 150px;
+}
+
+.col-lg-12 {
+  padding-top: 20px;
+}
+
+.col-lg-6 {
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 0px;
+  margin-right: 0px
+}
+
+.row {
+  padding-bottom: 18px;
+}
+
+#bar {
+  width: 90%; 
+}
+
+#bubble {
+  width: 90%; 
+}
+
+#radar {
+  width: 90%; 
+}
+
+
+/* DATA SOURCES SPECIFIC */
+
+.col-md-12 {
+  padding-top: 150px;
+}
+
+h3 {
+  color: white;
+  font-size: 18px;
+  text-transform: uppercase;
+  padding-left: 20px;
+}
+
+p {
+  color: white;
+  font-size: 16px;
+  padding-left: 20px;
+}
+
+table {
+  width: 80%;
+}
+
+
+.data {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  min-height: 700px;
+  position: relative;
+}
