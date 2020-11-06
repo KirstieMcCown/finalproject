@@ -64,14 +64,14 @@ header .navbar .nav-link {
 
 .btn-primary {
   color: #fff;
-  background-color: #e74208;
-  border-color: #e74208;
+  background-color: #e74208 !important;
+  border-color: #e74208 !important;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #c23707;
-  border-color: #b63406;
+  background-color: #c23707 !important;
+  border-color: #b63406 !important;
 }
 
 /* Index PAGE SPECIFIC */

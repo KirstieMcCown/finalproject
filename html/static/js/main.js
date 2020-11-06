@@ -27,6 +27,28 @@ $(".home-slider").owlCarousel({
 // Next button function
 function smoothScroll(){
     document.querySelector('.next').scrollIntoView({
-        behavior: 'smooth'
+      behavior: 'smooth',
+      block:'start',
     });
 }
+
+// Function to scroll from second button
+function scrollNext(){
+    document.querySelector('.end').scrollIntoView({
+      behavior: 'smooth',
+      block:'start',
+    });
+}
+
+// Next button function
+// function scrollTop(){
+//   document.getElementById('.scrolltotop').scrollIntoView({
+//     behavior: 'smooth',
+//     });
+// }
+
+// function scrollTop(){
+//   window.scroll({
+//     top: 0, left: 0, behavior: 'smooth',
+//   });
+// }
