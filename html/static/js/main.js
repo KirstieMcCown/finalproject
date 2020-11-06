@@ -23,3 +23,10 @@ $(".home-slider").owlCarousel({
     },
   },
 });
+
+// Next button function
+function smoothScroll(){
+    document.querySelector('.next').scrollIntoView({
+        behavior: 'smooth'
+    });
+}

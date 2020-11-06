@@ -5,6 +5,8 @@ body {
   font-size: 15px;
   line-height: 1.8;
   color: darkslategrey;
+  overflow-x: hidden;
+
 }
 
 /* Header */
@@ -24,7 +26,7 @@ header .navbar {
 
 }
 
-/* Change 'The Data Divers' to uppercase */
+/* Change 'Where There is Life, There is Love' to uppercase */
 header .navbar-brand {
   text-transform: uppercase;
   letter-spacing: .2em;
@@ -72,7 +74,18 @@ header .navbar .nav-link {
   border-color: #b63406;
 }
 
-/* LANDING PAGE SPECIFIC */
+/* Index PAGE SPECIFIC */
+
+/* Index page scrolling diabled */
+div.wrap {
+  height: 100%;
+  overflow: hidden;
+}
+
+.scrollbar {
+  overflow: hidden;
+}
+
 /* Owl Carousel */
 /* Carousel Images and Text */
 .home-slider.home-slider .slider-item {
@@ -88,6 +101,8 @@ header .navbar .nav-link {
 .home-slider.home-slider .slider-item .slider-text {
   color: white;
   min-height: 762px;
+  overflow: hidden;
+  padding-top: 5%;
 }
 
 
@@ -204,7 +219,7 @@ header .navbar .nav-link {
 .row {
   padding-bottom: 18px;
 }
-
+/* 
 #bar {
   width: 90%; 
 }
@@ -220,27 +235,26 @@ header .navbar .nav-link {
 
 /* DATA SOURCES SPECIFIC */
 
-.col-md-12 {
-  padding-top: 150px;
-}
-
 h3 {
-  color: white;
+  color: black;
   font-size: 18px;
   text-transform: uppercase;
   padding-left: 20px;
 }
 
 p {
-  color: white;
+  color: black;
   font-size: 16px;
   padding-left: 20px;
 }
 
-table {
+/* table {
   width: 80%;
-}
+} */
 
+.data-table {
+  padding-top: 10%;
+} 
 
 .data {
   background-size: cover;
@@ -251,7 +265,9 @@ table {
   position: relative;
 }
 
-
-
+/* Align buttons to centre of the column */
+.button-centre {
+  text-align: center;
+}
 
 
