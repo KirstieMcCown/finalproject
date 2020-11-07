@@ -59,7 +59,7 @@ header .navbar .nav-link {
   font-size: 13px;
   text-transform: uppercase;
   letter-spacing: .2em;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 .btn-primary {
@@ -107,21 +107,23 @@ div.wrap {
 
 
 .home-slider.home-slider .slider-item .slider-text h1 {
-  font-size: 50px;
+  font-size: 52px;
   color: white;
   line-height: 1.2;
   font-weight: 300;
   text-transform: uppercase;
   margin-bottom: 30px;
+  -webkit-text-stroke: 1px #343140;
 }
 
 
 .home-slider.home-slider .slider-item .slider-text p {
-  font-size: 20px;
+  font-size: 26px;
   line-height: 1.5;
-  font-weight: 400;
+  font-weight: 500;
   color: white;
   margin: 0 auto;
+  -webkit-text-stroke: 0.8px #343140;
 }
 
 

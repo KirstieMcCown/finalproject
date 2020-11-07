@@ -18,7 +18,7 @@ connect = engine.connect()
 @app.route("/data")
 def datatest():
     
-    data = pd.read_sql("select * from mothersbirthcountry", connect)
+    data = pd.read_sql("select * from babies", connect)
     # print(data)
     datatojson = data.to_json(orient = "index")
     parsed = json.loads(datatojson)
@@ -43,6 +43,11 @@ def babies():
 def adoptions():
     
     return render_template("adoptions.html")
+
+@app.route("/about.html")
+def adoptions():
+    
+    return render_template("about.html")
 
 @app.route("/data.html")
 def data():

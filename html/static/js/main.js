@@ -40,15 +40,3 @@ function scrollNext(){
     });
 }
 
-// Next button function
-// function scrollTop(){
-//   document.getElementById('.scrolltotop').scrollIntoView({
-//     behavior: 'smooth',
-//     });
-// }
-
-// function scrollTop(){
-//   window.scroll({
-//     top: 0, left: 0, behavior: 'smooth',
-//   });
-// }
