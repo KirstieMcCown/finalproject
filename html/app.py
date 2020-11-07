@@ -34,18 +34,33 @@ def mothers():
     
     return render_template("mothers.html")
 
+@app.route("/mothersfullmap.html")
+def mothersfullmap():
+    
+    return render_template("mothersfullmap.html")
+
 @app.route("/babies.html")
 def babies():
     
     return render_template("babies.html")
+
+@app.route("/babiesfullmap.html")
+def babiesfullmap():
+    
+    return render_template("babiesfullmap.html")
 
 @app.route("/adoptions.html")
 def adoptions():
     
     return render_template("adoptions.html")
 
+@app.route("/adoptionsfullmap.html")
+def adoptionsfullmap():
+    
+    return render_template("adoptionsfullmap.html")
+
 @app.route("/about.html")
-def adoptions():
+def about():
     
     return render_template("about.html")
 
