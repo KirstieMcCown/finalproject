@@ -64,9 +64,6 @@ header .navbar-brand .maps {
   font-size: 1rem;
 }
 
-.dropdown-menu.show {
-  display: block;
-} 
 
 /* Navbar Button */
 
@@ -144,7 +141,7 @@ div.wrap {
 
 
 /* Carousel Dot Indicators */
-.home-slider .owl-dots {
+/* .home-slider .owl-dots {
   text-align: center;
 }
 
@@ -183,7 +180,7 @@ div.wrap {
 .home-slider.home-slider .owl-dots .owl-dot.active {
   border: 2px solid white;
   background: white;
-}
+} */
 
 
 /* Slider (Dashboard) Button */
@@ -209,6 +206,9 @@ div.wrap {
 .col-lg-12 {
   padding-top: 150px;
 }
+
+
+
 /* 
 .col-lg-6 {
   padding-top: 20px;
@@ -237,18 +237,6 @@ div.wrap {
 .row {
   padding-bottom: 18px;
 }
-/* 
-#bar {
-  width: 90%; 
-}
-
-#bubble {
-  width: 90%; 
-}
-
-#radar {
-  width: 90%; 
-} */
 
 
 /* DATA SOURCES SPECIFIC */
@@ -266,9 +254,6 @@ p {
   padding-left: 20px;
 }
 
-/* table {
-  width: 80%;
-} */
 
 .data-table {
   padding-top: 10%;
@@ -288,4 +273,15 @@ p {
   text-align: center;
 }
 
+/* Centre font in div's for Mothers, Babies and Adoptions Pages */
+div.fontstyle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
+/* Add style to the HR's in div's for Mothers, Babies and Adoptions Pages */
+hr.style8 {
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+}

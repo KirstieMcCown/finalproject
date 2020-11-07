@@ -1,25 +1,20 @@
-console.log("Hello")
-
-d3.json("/data"). then((data) => {
-    // console.log(data)
-    data.forEach((element) => {
-        console.log(element)
-    })
-});
+// Set the external datasource for the charts (JSON file from my Flask App (API)) 
+// chart.dataSource.url = "/data/myData.php";
 
 
 
-
-// d3.json("/data", (data) => {
-//     console.log(data)
-//     Object.values(data).forEach((element) => {
-//     console.log(element)
-//     });
-// });
-
-// d3.json("/data", (data) => {
-//     console.log(data)
-//     for (var i = 0; i < 10; i++){
-//         console.log(data[i])
-//     }
-//     });
+function firstplot() {
+    d3.json("/yearcount").then(data => {
+        console.log(data);
+        data.forEach((element) => {
+            // console.log(element.year)
+            year = element.year;
+            count = element.count;
+            year_percent = element.year_percent; 
+            average_age = element.average_age;
+            console.log(year)  
+        });
+    
+    });
+};
+firstplot();

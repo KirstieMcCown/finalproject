@@ -16,10 +16,10 @@ connect = engine.connect()
 
 # Data Routes
 
-@app.route("/data")
-def datatest():
+@app.route("/yearcount")
+def yearcount():
     
-    data = pd.read_sql("select * from mothers", connect)
+    data = pd.read_sql("select * from yearcount", connect)
     # print(data)
     datatojson = data.to_json(orient = "records")
     parsed = json.loads(datatojson)

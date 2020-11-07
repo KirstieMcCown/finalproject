@@ -1,4 +1,4 @@
--- Mothers Tables -- 
+-- Mothers Tables to Hold All Clean Data -- 
 
 create table mothers (
 	index int,
@@ -33,7 +33,25 @@ create table birthlocation (
 	percent_total float
 );
 
--- Babies Tables -- 
+
+-- Mothers Tables to Hold Data for Plots -- 
+-- From mothers table
+
+create table yearcount (
+	index int,
+	year int,
+	count int,
+	year_percent float,
+	average_age float
+);
+
+
+
+
+
+
+
+-- Babies Tables to Hold All Clean Data -- 
 
 create table babies (
 	index int,
@@ -47,7 +65,7 @@ create table babies (
 
 );
 
--- Adoption Tables -- 
+-- Adoption Tables to Hold All Clean Data -- 
 
 create table numberchildrenadopted (
 	index int,
