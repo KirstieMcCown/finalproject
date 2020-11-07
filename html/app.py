@@ -14,15 +14,24 @@ app = Flask(__name__)
 engine = create_engine(f"postgresql://{username}:{password}@{hostname}:5432/{database}")
 connect = engine.connect()
 
+# Data Routes
 
 @app.route("/data")
 def datatest():
     
-    data = pd.read_sql("select * from babies", connect)
+    data = pd.read_sql("select * from mothers", connect)
     # print(data)
     datatojson = data.to_json(orient = "index")
     parsed = json.loads(datatojson)
     return parsed
+
+
+
+
+
+
+
+# HTML Page Routes
 
 @app.route("/index.html")
 def html():

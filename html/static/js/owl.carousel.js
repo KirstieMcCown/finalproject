@@ -134,16 +134,16 @@
 		 * @todo #261
 		 * @protected
 		 */
-		this._drag = {
-			time: null,
-			target: null,
-			pointer: null,
-			stage: {
-				start: null,
-				current: null
-			},
-			direction: null
-		};
+		// this._drag = {
+		// 	time: null,
+		// 	target: null,
+		// 	pointer: null,
+		// 	stage: {
+		// 		start: null,
+		// 		current: null
+		// 	},
+		// 	direction: null
+		// };
 
 		/**
 		 * Current state information and their tags.

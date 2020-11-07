@@ -33,6 +33,7 @@ header .navbar-brand {
   font-weight: 400;
 }
 
+
 /* Change all items in the Navigation Bar to uppercase */
 header .navbar .nav-link {
   padding: 1.7rem 1rem;
@@ -40,6 +41,20 @@ header .navbar .nav-link {
   text-transform: uppercase;
   letter-spacing: .2em;
   font-weight: 400;
+}
+
+/* Change all items in the Navigation Bar on full map pages */
+header .navbar-brand .maps {
+  padding: 1.7rem 1.7rem;
+  font-size: 22px;
+  text-decoration: underline;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  font-weight: 400;
+}
+
+.maps {
+  text-decoration: underline;
 }
 
 /* Drop down menu */
