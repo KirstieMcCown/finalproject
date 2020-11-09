@@ -56,6 +56,13 @@ create table averageage (
 	average_age float
 );
 
+-- Birth state table 
+
+create table birthstate (
+	year int,
+	topic_disaggregation varchar,
+	count int
+);
 
 
 

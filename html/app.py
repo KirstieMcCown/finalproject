@@ -38,6 +38,26 @@ def averageage():
     return returnjson
 
 
+@app.route("/birthstate")
+def birthstate():
+    
+    data = pd.read_sql("select * from birthstate", connect)
+    # print(data)
+    datatojson = data.to_json(orient = "records")
+    parsed = json.loads(datatojson)
+    returnjson = json.dumps(parsed, indent=4)
+    return returnjson
+
+
+
+
+
+
+
+
+
+
+
 
 
 # HTML Page Routes

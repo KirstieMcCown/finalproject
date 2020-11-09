@@ -20,9 +20,8 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
     integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
     crossorigin=""/>
-    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
-    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
-    crossorigin=""></script>
+    <script src=”leaflet.shpfile.js”></script>
+    <script src=”shp.js”></script>
 
     <!-- Owl Carousel Style Sheet -->
     <link rel="stylesheet" href="../static/css/owl.carousel.min.css">
@@ -76,7 +75,7 @@
       <section>
         <div class="row justify-content-md-center">
           <div style="padding-top:8%; padding-left: 5%; padding-right:5%;">
-              <div id="mapid" style="width: 1420px; height: 580px;">
+              <div id="map" style="width: 1420px; height: 580px;">
             </div> 
           </div>
         </div>
@@ -92,6 +91,14 @@
     
     <!-- Script for Bootstrap -->
     <!-- <script src="../static/js/bootstrap.min.js"></script> -->
+
+    
+    <!-- Script for Leaflet -->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+    crossorigin=""></script>
+    <script src='../static/js/leaflet.shpfile.js'></script>
+    <script src='../static/js/shp.js'></script>
 
     <!-- Scripts for Owl Carousel -->
     <script src="../static/OwlCarousel/docs/assets/vendors/jquery.min.js"></script>
@@ -112,7 +119,7 @@
     <!-- Our Javascript Files -->
     
     <script src="../static/js/config.js"></script>
-    <script src="../static/js/map.js"></script>
+    <script src="../static/js/maplogic.js"></script>
     <script src="../static/js/main.js"></script>
 
 
