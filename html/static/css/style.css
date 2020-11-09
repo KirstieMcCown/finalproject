@@ -299,7 +299,7 @@ hr.style8 {
 
 .timeline {
   font-family: 'Open Sans', sans-serif;
-  font-size: 112.5%;
+  font-size: 115%;
   line-height: 1.6em;
   position: relative;
   width: 660px;
@@ -330,7 +330,7 @@ hr.style8 {
 }
 
 .timeline li {
-  padding: 0.5em 0;
+  padding: 1em 0;
 }
 
 .timeline li:after {
@@ -434,10 +434,10 @@ hr.style8 {
 
 .time-wrapper {
   display: inline;
-  
   line-height: 1em;
-  font-size: 0.66666em;
+  font-size: 1;
   color: rgb(250,80,80);
+  font-weight: 500;
   vertical-align: middle;
 }
 
@@ -458,8 +458,9 @@ hr.style8 {
 .desc {
   margin: 1em 0.75em 0 0;
   
-  font-size: 0.77777em;
-  font-style: italic;
+  font-size: 0.98em;
+  font-weight: 600 !important;
+  text-decoration: underline;
   line-height: 1.5em;
 }
 
@@ -521,7 +522,7 @@ hr.style8 {
 	top: -8px;
 	height: 0;
 	width: 0;
-	margin-left: -9px;
+	margin-left: -8px;
 	border: solid transparent;
 	border-bottom-color: rgb(255,255,255);
 	border-width: 8px;
@@ -566,7 +567,7 @@ hr.style8 {
 
 }
 
-@media screen and (min-width: 400px ?? max-width: 660px) {
+@media screen and (min-width: 400px) and (max-width: 660px) {
 
 .direction-l .desc,
 .direction-r .desc {
