@@ -45,7 +45,16 @@ create table yearcount (
 	average_age float
 );
 
+-- Average age table - no need to manipulate to push back
 
+create table averageage (
+	index int,
+	chapter varchar,
+	topic varchar,
+	year int,
+	count int,
+	average_age float
+);
 
 
 
