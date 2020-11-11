@@ -50,16 +50,6 @@ def birthstate():
 
 
 
-
-
-
-
-
-
-
-
-
-
 # HTML Page Routes
 
 @app.route("/")
