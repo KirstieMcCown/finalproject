@@ -62,7 +62,7 @@ def birthstate():
 
 # HTML Page Routes
 
-@app.route("/index.html")
+@app.route("/")
 def html():
     
     return render_template("index.html")
