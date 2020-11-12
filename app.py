@@ -10,7 +10,7 @@ import json
 
 app = Flask(__name__, template_folder='templates')
 
-# Create connection to databse
+# create connection to databse
 engine = create_engine(f"postgresql://{username}:{password}@{hostname}:5432/{database}")
 connect = engine.connect()
 
