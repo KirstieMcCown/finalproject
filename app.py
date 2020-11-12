@@ -8,7 +8,7 @@ from config import database
 from config import hostname
 import json
 
-app = Flask(__name__, template_folder='templates')
+app = Flask(__name__)
 
 # create connection to databse
 engine = create_engine(f"postgresql://{username}:{password}@{hostname}:5432/{database}")
