@@ -83,6 +83,26 @@ create table babies (
 
 );
 
+
+-- Babies Tables to Hold Data For Plots -- 
+
+create table termbabiescount (
+	index int,
+	year int,
+	babies_term varchar,
+	topic_disaggregation varchar,
+	babies_count int
+
+);
+
+create table babiessexcount (
+	index int,
+	babies_term varchar,
+	topic_disaggregation varchar,
+	babies_count int
+
+);
+
 -- Adoption Tables to Hold All Clean Data -- 
 
 create table numberchildrenadopted (

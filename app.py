@@ -48,6 +48,26 @@ def birthstate():
     returnjson = json.dumps(parsed, indent=4)
     return returnjson
 
+@app.route("/termbabiescount")
+def termbabiescount():
+    
+    data = pd.read_sql("select * from termbabiescount", connect)
+    # print(data)
+    datatojson = data.to_json(orient = "records")
+    parsed = json.loads(datatojson)
+    returnjson = json.dumps(parsed, indent=4)
+    return returnjson
+
+@app.route("/babiessexcount")
+def babiessexcount():
+    
+    data = pd.read_sql("select * from babiessexcount", connect)
+    # print(data)
+    datatojson = data.to_json(orient = "split")
+    parsed = json.loads(datatojson)
+    returnjson = json.dumps(parsed, indent=4)
+    return returnjson
+
 
 
 # HTML Page Routes
