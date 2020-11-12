@@ -19,8 +19,7 @@ try:
     from config import hostname
 except:
     print ("No config file")
-# create connection to databse
-from flask-sqlalchemy import SQLAlchemy
+import sqlalchemy
 
 app = Flask(__name__)
 
