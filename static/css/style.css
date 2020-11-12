@@ -1,0 +1,577 @@
+/* Use body tag to set font family */
+body {
+  font-family: "Open Sans", Arial, sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.8;
+  color: darkslategrey;
+  overflow-x: hidden;
+
+}
+
+/* Header */
+header {
+  position: absolute;
+  top: 30px;
+  left: 0;
+  width: 100%;
+  z-index: 5;
+}
+
+header .navbar {
+  padding-top: 0;
+  padding-bottom: 0;
+  background: none !important;
+  position: relative;
+
+}
+
+/* Change 'Where There is Life, There is Love' to uppercase */
+header .navbar-brand {
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  font-weight: 400;
+}
+
+
+/* Change all items in the Navigation Bar to uppercase */
+header .navbar .nav-link {
+  padding: 1.7rem 1rem;
+  font-size: 15px;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  font-weight: 400;
+}
+
+/* Change all items in the Navigation Bar on full map pages */
+header .navbar-brand .maps {
+  padding: 1.7rem 1.7rem;
+  font-size: 22px;
+  text-decoration: underline;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  font-weight: 400;
+}
+
+.maps {
+  text-decoration: underline;
+}
+
+/* Drop down menu */
+.dropdown-menu {
+  position: absolute;
+  display: none;
+  font-size: 1rem;
+}
+
+
+/* Navbar Button */
+
+.btn {
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  font-weight: normal;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #e74208 !important;
+  border-color: #e74208 !important;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #c23707 !important;
+  border-color: #b63406 !important;
+}
+
+
+/* Index PAGE SPECIFIC */
+
+/* Index page scrolling diabled */
+div.wrap {
+  height: 100%;
+  overflow: hidden;
+}
+
+.scrollbar {
+  overflow: hidden;
+}
+
+/* Owl Carousel */
+/* Carousel Images and Text */
+.home-slider.home-slider .slider-item {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  min-height: 762px;
+  position: relative;
+}
+
+/* Default Slider Text */
+.home-slider.home-slider .slider-item .slider-text {
+  color: white;
+  min-height: 762px;
+  overflow: hidden;
+  padding-top: 5%;
+}
+
+
+.home-slider.home-slider .slider-item .slider-text h1 {
+  font-size: 52px;
+  color: white;
+  line-height: 1.2;
+  font-weight: 300;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+  -webkit-text-stroke: 1px #343140;
+}
+
+
+.home-slider.home-slider .slider-item .slider-text p {
+  font-size: 26px;
+  line-height: 1.5;
+  font-weight: 500;
+  color: white;
+  margin: 0 auto;
+  -webkit-text-stroke: 0.8px #343140;
+}
+
+
+/* Carousel Dot Indicators */
+/* .home-slider .owl-dots {
+  text-align: center;
+}
+
+.home-slider .owl-dots .owl-dot {
+  width: 10px;
+  height: 10px;
+  margin: 5px;
+  border-radius: 50%;
+  background: none;
+  background: #fff;
+}
+
+.home-slider .owl-dots .owl-dot.active {
+  background: none;
+}
+
+.home-slider.home-slider .owl-dots {
+  position: absolute;
+  bottom: 100px;
+  width: 100%;
+}
+
+.home-slider.home-slider .owl-dots .owl-dot {
+  width: 10px;
+  height: 10px;
+  margin: 5px;
+  border-radius: 50%;
+  border: 2px solid white;
+  outline: none;
+  position: relative;
+  -o-transition: .3s all ease;
+  transition: .3s all ease;
+  background: none;
+}
+
+.home-slider.home-slider .owl-dots .owl-dot.active {
+  border: 2px solid white;
+  background: white;
+} */
+
+
+/* Slider (Dashboard) Button */
+.btn.btn-outline-white {
+  border-width: 2px;
+  border-color: #fff;
+  color: #fff;
+}
+
+.btn.btn-outline-white:hover, .btn.btn-outline-white:focus {
+  background: #fff;
+  color: #000;
+  border-width: 2px;
+}
+
+
+/* DASHBOARD SPECIFIC */
+
+.col-12 {
+  padding-top: 150px;
+}
+
+.col-lg-12 {
+  padding-top: 150px;
+}
+
+
+
+/* 
+.col-lg-6 {
+  padding-top: 20px;
+  padding-bottom: 30px;
+} */
+
+/* VISUALISATION SPECIFIC */
+
+/* .col-12 {
+  padding-top: 150px;
+}
+
+.col-lg-12 {
+  padding-top: 20px;
+}
+
+.col-lg-6 {
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 0px;
+  margin-right: 0px
+}
+
+.row {
+  padding-bottom: 18px;
+}
+
+
+/* DATA SOURCES SPECIFIC */
+
+h3 {
+  color: black;
+  font-size: 18px;
+  text-transform: uppercase;
+  padding-left: 20px;
+}
+
+p {
+  color: black;
+  font-size: 16px;
+  padding-left: 20px;
+}
+
+
+.data-table {
+  padding-top: 10%;
+} 
+
+.data {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  min-height: 700px;
+  position: relative;
+}
+
+/* Align buttons to centre of the column */
+.button-centre {
+  text-align: center;
+}
+
+/* Centre font in div's for Mothers, Babies and Adoptions Pages */
+div.fontstyle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Add style to the HR's in div's for Mothers, Babies and Adoptions Pages */
+hr.style8 {
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+
+.verticalLine {
+  border-right: thick solid black;
+  margin-top: 10%;
+  margin-bottom: 10%
+}
+
+
+
+/* Timeline */
+
+.timeline {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 115%;
+  line-height: 1.6em;
+  position: relative;
+  width: 660px;
+  margin: 0 auto;
+  margin-top: 0px;
+  padding: 1em 0;
+  list-style-type: none;
+}
+
+.timeline:before {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  content: ' ';
+  display: block;
+  width: 6px;
+  height: 100%;
+  margin-left: -3px;
+  background: rgb(80,80,80);
+  background: -moz-linear-gradient(top, rgba(80,80,80,0) 0%, rgb(80,80,80) 8%, rgb(80,80,80) 92%, rgba(80,80,80,0) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(30,87,153,1)), color-stop(100%,rgba(125,185,232,1)));
+  background: -webkit-linear-gradient(top, rgba(80,80,80,0) 0%, rgb(80,80,80) 8%, rgb(80,80,80) 92%, rgba(80,80,80,0) 100%);
+  background: -o-linear-gradient(top, rgba(80,80,80,0) 0%, rgb(80,80,80) 8%, rgb(80,80,80) 92%, rgba(80,80,80,0) 100%);
+  background: -ms-linear-gradient(top, rgba(80,80,80,0) 0%, rgb(80,80,80) 8%, rgb(80,80,80) 92%, rgba(80,80,80,0) 100%);
+  background: linear-gradient(to bottom, rgba(80,80,80,0) 0%, rgb(80,80,80) 8%, rgb(80,80,80) 92%, rgba(80,80,80,0) 100%);
+  
+  z-index: 5;
+}
+
+.timeline li {
+  padding: 1em 0;
+}
+
+.timeline li:after {
+  content: "";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+.direction-l {
+  position: relative;
+  width: 300px;
+  float: left;
+  text-align: right;
+}
+
+.direction-r {
+  position: relative;
+  width: 300px;
+  float: right;
+}
+
+.flag-wrapper {
+  position: relative;
+  display: inline-block;
+  
+  text-align: center;
+}
+
+.flag {
+  position: relative;
+  display: inline;
+  background: rgb(248,248,248);
+  padding: 6px 10px;
+  border-radius: 5px;
+  
+  font-weight: 600;
+  text-align: left;
+}
+
+.direction-l .flag {
+  -webkit-box-shadow: -1px 1px 1px rgba(0,0,0,0.15), 0 0 1px rgba(0,0,0,0.15);
+  -moz-box-shadow: -1px 1px 1px rgba(0,0,0,0.15), 0 0 1px rgba(0,0,0,0.15);
+  box-shadow: -1px 1px 1px rgba(0,0,0,0.15), 0 0 1px rgba(0,0,0,0.15);
+}
+
+.direction-r .flag {
+  -webkit-box-shadow: 1px 1px 1px rgba(0,0,0,0.15), 0 0 1px rgba(0,0,0,0.15);
+  -moz-box-shadow: 1px 1px 1px rgba(0,0,0,0.15), 0 0 1px rgba(0,0,0,0.15);
+  box-shadow: 1px 1px 1px rgba(0,0,0,0.15), 0 0 1px rgba(0,0,0,0.15);
+}
+
+.direction-l .flag:before,
+.direction-r .flag:before {
+  position: absolute;
+  top: 50%;
+  right: -40px;
+  content: ' ';
+  display: block;
+  width: 20px;
+  height: 20px;
+  margin-top: -10px;
+  background: #fff;
+  border-radius: 10px;
+  border: 4px solid rgb(255,80,80);
+  z-index: 10;
+}
+
+.direction-r .flag:before {
+  left: -40px;
+}
+
+.direction-l .flag:after {
+  content: "";
+  position: absolute;
+  left: 100%;
+  top: 50%;
+  height: 0;
+  width: 0;
+  margin-top: -8px;
+  border: solid transparent;
+  border-left-color: rgb(248,248,248);
+  border-width: 8px;
+  pointer-events: none;
+}
+
+.direction-r .flag:after {
+  content: "";
+  position: absolute;
+  right: 100%;
+  top: 50%;
+  height: 0;
+  width: 0;
+  margin-top: -8px;
+  border: solid transparent;
+  border-right-color: rgb(248,248,248);
+  border-width: 8px;
+  pointer-events: none;
+}
+
+.time-wrapper {
+  display: inline;
+  line-height: 1em;
+  font-size: 1;
+  color: rgb(250,80,80);
+  font-weight: 500;
+  vertical-align: middle;
+}
+
+.direction-l .time-wrapper {
+  float: left;
+}
+
+.direction-r .time-wrapper {
+  float: right;
+}
+
+.time {
+  display: inline-block;
+  padding: 4px 6px;
+  background: rgb(248,248,248);
+}
+
+.desc {
+  margin: 1em 0.75em 0 0;
+  
+  font-size: 0.98em;
+  font-weight: 600 !important;
+  text-decoration: underline;
+  line-height: 1.5em;
+}
+
+.direction-r .desc {
+  margin: 1em 0 0 0.75em;
+}
+
+/* ================ Timeline Media Queries ================ */
+
+@media screen and (max-width: 660px) {
+
+.timeline {
+ 	width: 100%;
+	padding: 4em 0 1em 0;
+}
+
+.timeline li {
+	padding: 2em 0;
+}
+
+.direction-l,
+.direction-r {
+	float: none;
+	width: 100%;
+
+	text-align: center;
+}
+
+.flag-wrapper {
+	text-align: center;
+}
+
+.flag {
+	background: rgb(255,255,255);
+	z-index: 15;
+}
+
+.direction-l .flag:before,
+.direction-r .flag:before {
+  position: absolute;
+  top: -30px;
+	left: 50%;
+	content: ' ';
+	display: block;
+	width: 12px;
+	height: 12px;
+	margin-left: -9px;
+	background: #fff;
+	border-radius: 10px;
+	border: 4px solid rgb(255,80,80);
+	z-index: 10;
+}
+
+.direction-l .flag:after,
+.direction-r .flag:after {
+	content: "";
+	position: absolute;
+	left: 50%;
+	top: -8px;
+	height: 0;
+	width: 0;
+	margin-left: -8px;
+	border: solid transparent;
+	border-bottom-color: rgb(255,255,255);
+	border-width: 8px;
+	pointer-events: none;
+}
+
+.time-wrapper {
+	display: block;
+	position: relative;
+	margin: 4px 0 0 0;
+	z-index: 14;
+}
+
+.direction-l .time-wrapper {
+	float: none;
+}
+
+.direction-r .time-wrapper {
+	float: none;
+}
+
+.desc {
+	position: relative;
+	margin: 1em 0 0 0;
+	padding: 1em;
+	background: rgb(245,245,245);
+	-webkit-box-shadow: 0 0 1px rgba(0,0,0,0.20);
+	-moz-box-shadow: 0 0 1px rgba(0,0,0,0.20);
+	box-shadow: 0 0 1px rgba(0,0,0,0.20);
+	
+  z-index: 15;
+}
+
+.direction-l .desc,
+.direction-r .desc {
+	position: relative;
+	margin: 1em 1em 0 1em;
+	padding: 1em;
+	
+  z-index: 15;
+}
+
+}
+
+@media screen and (min-width: 400px) and (max-width: 660px) {
+
+.direction-l .desc,
+.direction-r .desc {
+	margin: 1em 4em 0 4em;
+}
+
+}
