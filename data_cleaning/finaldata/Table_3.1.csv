@@ -1,0 +1,1731 @@
+place_of_birth,topic,topic_disaggregation,year,count,year_total,percent_total
+Hospital,Country of birth (mother),Born in Australia,2018,184638,192172,96.1
+Hospital,Country of birth (mother),Born overseas,2018,102141,105383,96.9
+Hospital,Country of birth (mother),Not stated,2018,810,1075,75.3
+Birth centre,Country of birth (mother),Born in Australia,2018,5631,192172,2.9
+Birth centre,Country of birth (mother),Born overseas,2018,2552,105383,2.4
+Birth centre,Country of birth (mother),Not stated,2018,26,1075,2.4
+Home,Country of birth (mother),Born in Australia,2018,602,192172,0.3
+Home,Country of birth (mother),Born overseas,2018,148,105383,0.1
+Home,Country of birth (mother),Not stated,2018,194,1075,18
+Other,Country of birth (mother),Born in Australia,2018,1295,192172,0.7
+Other,Country of birth (mother),Born overseas,2018,542,105383,0.5
+Other,Country of birth (mother),Not stated,2018,23,1075,2.1
+Not stated,Country of birth (mother),Born in Australia,2018,6,192172,0
+Not stated,Country of birth (mother),Born overseas,2018,0,105383,0
+Not stated,Country of birth (mother),Not stated,2018,22,1075,2
+Hospital,Indigenous status (mother),Indigenous,2018,13232,13754,96.2
+Hospital,Indigenous status (mother),Non-Indigenous,2018,273672,284168,96.3
+Hospital,Indigenous status (mother),Not stated,2018,685,708,96.8
+Birth centre,Indigenous status (mother),Indigenous,2018,338,13754,2.5
+Birth centre,Indigenous status (mother),Non-Indigenous,2018,7863,284168,2.8
+Birth centre,Indigenous status (mother),Not stated,2018,8,708,1.1
+Home,Indigenous status (mother),Indigenous,2018,8,13754,0.1
+Home,Indigenous status (mother),Non-Indigenous,2018,930,284168,0.3
+Home,Indigenous status (mother),Not stated,2018,6,708,0.8
+Other,Indigenous status (mother),Indigenous,2018,176,13754,1.3
+Other,Indigenous status (mother),Non-Indigenous,2018,1675,284168,0.6
+Other,Indigenous status (mother),Not stated,2018,9,708,1.3
+Not stated,Indigenous status (mother),Indigenous,2018,0,13754,0
+Not stated,Indigenous status (mother),Non-Indigenous,2018,28,284168,0
+Not stated,Indigenous status (mother),Not stated,2018,0,708,0
+Hospital,Maternal age,Less than 20,2018,5761,6014,95.8
+Hospital,Maternal age,20-24,2018,32390,33734,96
+Hospital,Maternal age,25-29,2018,75938,79091,96
+Hospital,Maternal age,30-34,2018,103512,107485,96.3
+Hospital,Maternal age,35-39,2018,57204,59196,96.6
+Hospital,Maternal age,40 and over,2018,12770,13092,97.5
+Hospital,Maternal age,Not stated,2018,14,18,0.8
+Birth centre,Maternal age,Less than 20,2018,202,6014,3.4
+Birth centre,Maternal age,20-24,2018,1040,33734,3.1
+Birth centre,Maternal age,25-29,2018,2416,79091,3.1
+Birth centre,Maternal age,30-34,2018,2946,107485,2.7
+Birth centre,Maternal age,35-39,2018,1391,59196,2.3
+Birth centre,Maternal age,40 and over,2018,214,13092,1.6
+Birth centre,Maternal age,Not stated,2018,0,18,0
+Home,Maternal age,20-24,2018,45,33734,0.1
+Home,Maternal age,25-29,2018,242,79091,0.3
+Home,Maternal age,30-34,2018,368,107485,0.3
+Home,Maternal age,35-39,2018,240,59196,0.4
+Home,Maternal age,Not stated,2018,3,18,0.2
+Other,Maternal age,Less than 20,2018,48,6014,0.8
+Other,Maternal age,20-24,2018,258,33734,0.8
+Other,Maternal age,25-29,2018,486,79091,0.6
+Other,Maternal age,30-34,2018,645,107485,0.6
+Other,Maternal age,35-39,2018,359,59196,0.6
+Other,Maternal age,40 and over,2018,63,13092,0.5
+Other,Maternal age,Not stated,2018,1,18,0.1
+Not stated,Maternal age,20-24,2018,1,33734,0
+Not stated,Maternal age,25-29,2018,9,79091,0
+Not stated,Maternal age,30-34,2018,14,107485,0
+Not stated,Maternal age,35-39,2018,2,59196,0
+Not stated,Maternal age,Not stated,2018,0,18,0
+Hospital,Parity,None,2018,123066,126605,97.2
+Hospital,Parity,One,2018,100526,104993,95.7
+Hospital,Parity,Two,2018,40516,42400,95.6
+Hospital,Parity,Three,2018,13792,14443,95.5
+Hospital,Parity,Four or more,2018,9577,10066,95.1
+Hospital,Parity,Not stated,2018,112,123,91.1
+Birth centre,Parity,None,2018,3069,126605,2.4
+Birth centre,Parity,One,2018,3170,104993,3
+Birth centre,Parity,Two,2018,1311,42400,3.1
+Birth centre,Parity,Three,2018,394,14443,2.7
+Birth centre,Parity,Four or more,2018,257,10066,2.6
+Birth centre,Parity,Not stated,2018,8,123,6.5
+Home,Parity,None,2018,228,126605,0.2
+Home,Parity,One,2018,399,104993,0.4
+Home,Parity,Two,2018,191,42400,0.5
+Home,Parity,Three,2018,80,14443,0.6
+Home,Parity,Four or more,2018,45,10066,0.4
+Home,Parity,Not stated,2018,1,123,0.8
+Other,Parity,None,2018,236,126605,0.2
+Other,Parity,One,2018,886,104993,0.8
+Other,Parity,Two,2018,376,42400,0.9
+Other,Parity,Three,2018,175,14443,1.2
+Other,Parity,Four or more,2018,185,10066,1.8
+Other,Parity,Not stated,2018,2,123,1.6
+Not stated,Parity,None,2018,6,126605,0
+Not stated,Parity,One,2018,12,104993,0
+Not stated,Parity,Two,2018,6,42400,0
+Not stated,Parity,Three,2018,2,14443,0
+Not stated,Parity,Four or more,2018,2,10066,0
+Not stated,Parity,Not stated,2018,0,123,0
+Hospital,Remoteness area,Major cities,2018,207211,215333,96.2
+Hospital,Remoteness area,Inner regional,2018,46651,48283,96.6
+Hospital,Remoteness area,Outer regional,2018,22603,23507,96.2
+Hospital,Remoteness area,Remote,2018,4077,4173,97.7
+Hospital,Remoteness area,Very remote,2018,2496,2549,97.9
+Birth centre,Remoteness area,Major cities,2018,6224,215333,2.9
+Birth centre,Remoteness area,Inner regional,2018,1059,48283,2.2
+Birth centre,Remoteness area,Outer regional,2018,689,23507,2.9
+Birth centre,Remoteness area,Remote,2018,45,4173,1.1
+Birth centre,Remoteness area,Very remote,2018,12,2549,0.5
+Home,Remoteness area,Major cities,2018,657,215333,0.3
+Home,Remoteness area,Inner regional,2018,184,48283,0.4
+Home,Remoteness area,Outer regional,2018,55,23507,0.2
+Home,Remoteness area,Remote,2018,20,4173,0.5
+Home,Remoteness area,Very remote,2018,0,2549,0
+Other,Remoteness area,Major cities,2018,1240,215333,0.6
+Other,Remoteness area,Inner regional,2018,362,48283,0.7
+Other,Remoteness area,Outer regional,2018,160,23507,0.7
+Other,Remoteness area,Remote,2018,31,4173,0.7
+Other,Remoteness area,Very remote,2018,40,2549,1.6
+Not stated,Remoteness area,Major cities,2018,1,215333,0
+Not stated,Remoteness area,Inner regional,2018,27,48283,0.1
+Not stated,Remoteness area,Outer regional,2018,0,23507,0
+Not stated,Remoteness area,Remote,2018,0,4173,0
+Not stated,Remoteness area,Very remote,2018,0,2549,0
+Hospital,Socioeconomic status,Q1 (most disadvantaged),2018,56641,58726,96.4
+Hospital,Socioeconomic status,Q2,2018,55031,57197,96.2
+Hospital,Socioeconomic status,Q3,2018,61363,63881,96.1
+Hospital,Socioeconomic status,Q4,2018,57692,59767,96.5
+Hospital,Socioeconomic status,Q5 (least disadvantaged),2018,52073,54031,96.4
+Hospital,Socioeconomic status,Not stated,2018,3540,3746,94.5
+Birth centre,Socioeconomic status,Q1 (most disadvantaged),2018,1484,58726,2.5
+Birth centre,Socioeconomic status,Q2,2018,1654,57197,2.9
+Birth centre,Socioeconomic status,Q3,2018,1855,63881,2.9
+Birth centre,Socioeconomic status,Q4,2018,1526,59767,2.6
+Birth centre,Socioeconomic status,Q5 (least disadvantaged),2018,1507,54031,2.8
+Birth centre,Socioeconomic status,Not stated,2018,170,3746,4.5
+Home,Socioeconomic status,Q1 (most disadvantaged),2018,107,58726,0.2
+Home,Socioeconomic status,Q2,2018,148,57197,0.3
+Home,Socioeconomic status,Q3,2018,223,63881,0.3
+Home,Socioeconomic status,Q4,2018,240,59767,0.4
+Home,Socioeconomic status,Q5 (least disadvantaged),2018,198,54031,0.4
+Home,Socioeconomic status,Not stated,2018,17,3746,0.5
+Other,Socioeconomic status,Q1 (most disadvantaged),2018,493,58726,0.8
+Other,Socioeconomic status,Q2,2018,361,57197,0.6
+Other,Socioeconomic status,Q3,2018,419,63881,0.7
+Other,Socioeconomic status,Q4,2018,307,59767,0.5
+Other,Socioeconomic status,Q5 (least disadvantaged),2018,252,54031,0.5
+Other,Socioeconomic status,Not stated,2018,19,3746,0.5
+Not stated,Socioeconomic status,Q1 (most disadvantaged),2018,1,58726,0
+Not stated,Socioeconomic status,Q2,2018,3,57197,0
+Not stated,Socioeconomic status,Q3,2018,21,63881,0
+Not stated,Socioeconomic status,Q4,2018,2,59767,0
+Not stated,Socioeconomic status,Q5 (least disadvantaged),2018,1,54031,0
+Not stated,Socioeconomic status,Not stated,2018,0,3746,0
+Hospital,State and territory of birth,NSW,2018,88452,94163,93.9
+Hospital,State and territory of birth,Vic,2018,77033,77733,99.1
+Hospital,State and territory of birth,Qld,2018,57725,59624,96.8
+Hospital,State and territory of birth,WA,2018,32067,32974,97.2
+Hospital,State and territory of birth,SA,2018,17943,19044,94.2
+Hospital,State and territory of birth,Tas,2018,5359,5436,98.6
+Hospital,State and territory of birth,ACT,2018,5409,5929,91.2
+Hospital,State and territory of birth,NT,2018,3601,3727,96.6
+Birth centre,State and territory of birth,NSW,2018,4936,94163,5.2
+Birth centre,State and territory of birth,Vic,2018,0,77733,0
+Birth centre,State and territory of birth,Qld,2018,1344,59624,2.3
+Birth centre,State and territory of birth,WA,2018,540,32974,1.6
+Birth centre,State and territory of birth,SA,2018,876,19044,4.6
+Birth centre,State and territory of birth,Tas,2018,0,5436,0
+Birth centre,State and territory of birth,ACT,2018,477,5929,8
+Birth centre,State and territory of birth,NT,2018,36,3727,1
+Home,State and territory of birth,NSW,2018,140,94163,0.1
+Home,State and territory of birth,Vic,2018,302,77733,0.4
+Home,State and territory of birth,Qld,2018,129,59624,0.2
+Home,State and territory of birth,WA,2018,181,32974,0.5
+Home,State and territory of birth,SA,2018,97,19044,0.5
+Home,State and territory of birth,Tas,2018,47,5436,0.9
+Home,State and territory of birth,ACT,2018,15,5929,0.3
+Home,State and territory of birth,NT,2018,33,3727,0.9
+Other,State and territory of birth,NSW,2018,629,94163,0.7
+Other,State and territory of birth,Vic,2018,398,77733,0.5
+Other,State and territory of birth,Qld,2018,426,59624,0.7
+Other,State and territory of birth,WA,2018,164,32974,0.5
+Other,State and territory of birth,SA,2018,128,19044,0.7
+Other,State and territory of birth,Tas,2018,30,5436,0.6
+Other,State and territory of birth,ACT,2018,28,5929,0.5
+Other,State and territory of birth,NT,2018,57,3727,1.5
+Not stated,State and territory of birth,NSW,2018,6,94163,0
+Not stated,State and territory of birth,Vic,2018,0,77733,0
+Not stated,State and territory of birth,Qld,2018,0,59624,0
+Not stated,State and territory of birth,WA,2018,22,32974,0.1
+Not stated,State and territory of birth,SA,2018,0,19044,0
+Not stated,State and territory of birth,Tas,2018,0,5436,0
+Not stated,State and territory of birth,ACT,2018,0,5929,0
+Not stated,State and territory of birth,NT,2018,0,3727,0
+Hospital,Country of birth (mother),Born in Australia,2010,204195,210896,96.8
+Hospital,Country of birth (mother),Born overseas,2010,80627,82826,97.3
+Hospital,Country of birth (mother),Not stated,2010,1416,1733,81.7
+Birth centre,Country of birth (mother),Born in Australia,2010,4747,210896,2.3
+Birth centre,Country of birth (mother),Born overseas,2010,1610,82826,1.9
+Birth centre,Country of birth (mother),Not stated,2010,4,1733,0.2
+Home,Country of birth (mother),Born in Australia,2010,785,210896,0.4
+Home,Country of birth (mother),Born overseas,2010,219,82826,0.3
+Home,Country of birth (mother),Not stated,2010,277,1733,16
+Other,Country of birth (mother),Born in Australia,2010,959,210896,0.5
+Other,Country of birth (mother),Born overseas,2010,299,82826,0.4
+Other,Country of birth (mother),Not stated,2010,29,1733,1.7
+Not stated,Country of birth (mother),Born in Australia,2010,210,210896,0.1
+Not stated,Country of birth (mother),Born overseas,2010,71,82826,0.1
+Not stated,Country of birth (mother),Not stated,2010,7,1733,0.4
+Hospital,Indigenous status (mother),Indigenous,2010,11152,11488,97.1
+Hospital,Indigenous status (mother),Non-Indigenous,2010,274348,283172,96.9
+Hospital,Indigenous status (mother),Not stated,2010,738,795,92.8
+Birth centre,Indigenous status (mother),Indigenous,2010,151,11488,1.3
+Birth centre,Indigenous status (mother),Non-Indigenous,2010,6200,283172,2.2
+Birth centre,Indigenous status (mother),Not stated,2010,10,795,1.3
+Home,Indigenous status (mother),Indigenous,2010,12,11488,0.1
+Home,Indigenous status (mother),Non-Indigenous,2010,1234,283172,0.4
+Home,Indigenous status (mother),Not stated,2010,35,795,4.4
+Other,Indigenous status (mother),Indigenous,2010,168,11488,1.5
+Other,Indigenous status (mother),Non-Indigenous,2010,1116,283172,0.4
+Other,Indigenous status (mother),Not stated,2010,3,795,0.4
+Not stated,Indigenous status (mother),Indigenous,2010,5,11488,0
+Not stated,Indigenous status (mother),Non-Indigenous,2010,274,283172,0.1
+Not stated,Indigenous status (mother),Not stated,2010,9,795,1.1
+Hospital,Maternal age,Less than 20,2010,11096,11370,97.6
+Hospital,Maternal age,20-24,2010,40548,41834,96.9
+Hospital,Maternal age,25-29,2010,78858,81492,96.8
+Hospital,Maternal age,30-34,2010,89657,92674,96.7
+Hospital,Maternal age,35-39,2010,54196,55907,96.9
+Hospital,Maternal age,40 and over,2010,11809,12082,97.7
+Hospital,Maternal age,Not stated,2010,74,96,0.8
+Birth centre,Maternal age,Less than 20,2010,185,11370,1.6
+Birth centre,Maternal age,20-24,2010,907,41834,2.2
+Birth centre,Maternal age,25-29,2010,1913,81492,2.3
+Birth centre,Maternal age,30-34,2010,2058,92674,2.2
+Birth centre,Maternal age,35-39,2010,1133,55907,2
+Birth centre,Maternal age,40 and over,2010,165,12082,1.4
+Birth centre,Maternal age,Not stated,2010,0,96,0
+Home,Maternal age,Less than 20,2010,13,11370,0.1
+Home,Maternal age,20-24,2010,84,41834,0.2
+Home,Maternal age,25-29,2010,290,81492,0.4
+Home,Maternal age,30-34,2010,518,92674,0.6
+Home,Maternal age,35-39,2010,303,55907,0.5
+Home,Maternal age,40 and over,2010,61,12082,0.5
+Home,Maternal age,Not stated,2010,12,96,0.1
+Other,Maternal age,Less than 20,2010,72,11370,0.6
+Other,Maternal age,20-24,2010,263,41834,0.6
+Other,Maternal age,25-29,2010,353,81492,0.4
+Other,Maternal age,30-34,2010,358,92674,0.4
+Other,Maternal age,35-39,2010,208,55907,0.4
+Other,Maternal age,40 and over,2010,33,12082,0.3
+Other,Maternal age,Not stated,2010,0,96,0
+Not stated,Maternal age,Less than 20,2010,4,11370,0
+Not stated,Maternal age,20-24,2010,32,41834,0.1
+Not stated,Maternal age,25-29,2010,78,81492,0.1
+Not stated,Maternal age,30-34,2010,83,92674,0.1
+Not stated,Maternal age,35-39,2010,67,55907,0.1
+Not stated,Maternal age,40 and over,2010,14,12082,0.1
+Not stated,Maternal age,Not stated,2010,10,96,0.1
+Hospital,Parity,None,2010,122738,125521,97.8
+Hospital,Parity,One,2010,94889,98510,96.3
+Hospital,Parity,Two,2010,42133,43835,96.1
+Hospital,Parity,Three,2010,15056,15721,95.8
+Hospital,Parity,Four or more,2010,10662,11098,96.1
+Hospital,Parity,Not stated,2010,760,770,98.7
+Birth centre,Parity,None,2010,2220,125521,1.8
+Birth centre,Parity,One,2010,2482,98510,2.5
+Birth centre,Parity,Two,2010,1118,43835,2.6
+Birth centre,Parity,Three,2010,362,15721,2.3
+Birth centre,Parity,Four or more,2010,177,11098,1.6
+Birth centre,Parity,Not stated,2010,2,770,0.3
+Home,Parity,None,2010,299,125521,0.2
+Home,Parity,One,2010,514,98510,0.5
+Home,Parity,Two,2010,277,43835,0.6
+Home,Parity,Three,2010,109,15721,0.7
+Home,Parity,Four or more,2010,75,11098,0.7
+Home,Parity,Not stated,2010,7,770,0.9
+Other,Parity,None,2010,187,125521,0.1
+Other,Parity,One,2010,510,98510,0.5
+Other,Parity,Two,2010,257,43835,0.6
+Other,Parity,Three,2010,173,15721,1.1
+Other,Parity,Four or more,2010,160,11098,1.4
+Other,Parity,Not stated,2010,0,770,0
+Not stated,Parity,None,2010,77,125521,0.1
+Not stated,Parity,One,2010,115,98510,0.1
+Not stated,Parity,Two,2010,50,43835,0.1
+Not stated,Parity,Three,2010,21,15721,0.1
+Not stated,Parity,Four or more,2010,24,11098,0.2
+Not stated,Parity,Not stated,2010,1,770,0.1
+Hospital,State and territory of birth,NSW,2010,91575,94993,96.4
+Hospital,State and territory of birth,Vic,2010,71511,73258,97.6
+Hospital,State and territory of birth,Qld,2010,59829,61020,98
+Hospital,State and territory of birth,WA,2010,30125,30842,97.7
+Hospital,State and territory of birth,SA,2010,18223,19666,92.7
+Hospital,State and territory of birth,Tas,2010,5916,6020,98.3
+Hospital,State and territory of birth,ACT,2010,5475,5826,94
+Hospital,State and territory of birth,NT,2010,3584,3830,93.6
+Birth centre,State and territory of birth,NSW,2010,2651,94993,2.8
+Birth centre,State and territory of birth,Vic,2010,984,73258,1.3
+Birth centre,State and territory of birth,Qld,2010,691,61020,1.1
+Birth centre,State and territory of birth,WA,2010,333,30842,1.1
+Birth centre,State and territory of birth,SA,2010,1214,19666,6.2
+Birth centre,State and territory of birth,Tas,2010,42,6020,0.7
+Birth centre,State and territory of birth,ACT,2010,320,5826,5.5
+Birth centre,State and territory of birth,NT,2010,126,3830,3.3
+Home,State and territory of birth,NSW,2010,246,94993,0.3
+Home,State and territory of birth,Vic,2010,503,73258,0.7
+Home,State and territory of birth,Qld,2010,85,61020,0.1
+Home,State and territory of birth,WA,2010,255,30842,0.8
+Home,State and territory of birth,SA,2010,142,19666,0.7
+Home,State and territory of birth,Tas,2010,13,6020,0.2
+Home,State and territory of birth,ACT,2010,6,5826,0.1
+Home,State and territory of birth,NT,2010,31,3830,0.8
+Other,State and territory of birth,NSW,2010,465,94993,0.5
+Other,State and territory of birth,Vic,2010,28,73258,0
+Other,State and territory of birth,Qld,2010,415,61020,0.7
+Other,State and territory of birth,WA,2010,129,30842,0.4
+Other,State and territory of birth,SA,2010,87,19666,0.4
+Other,State and territory of birth,Tas,2010,49,6020,0.8
+Other,State and territory of birth,ACT,2010,25,5826,0.4
+Other,State and territory of birth,NT,2010,89,3830,2.3
+Not stated,State and territory of birth,NSW,2010,56,94993,0.1
+Not stated,State and territory of birth,Vic,2010,232,73258,0.3
+Not stated,State and territory of birth,Qld,2010,0,61020,0
+Not stated,State and territory of birth,WA,2010,0,30842,0
+Not stated,State and territory of birth,SA,2010,0,19666,0
+Not stated,State and territory of birth,Tas,2010,0,6020,0
+Not stated,State and territory of birth,ACT,2010,0,5826,0
+Not stated,State and territory of birth,NT,2010,0,3830,0
+Hospital,Country of birth (mother),Born in Australia,2011,202700,209383,96.8
+Hospital,Country of birth (mother),Born overseas,2011,84294,86509,97.4
+Hospital,Country of birth (mother),Not stated,2011,1188,1451,81.9
+Birth centre,Country of birth (mother),Born in Australia,2011,4897,209383,2.3
+Birth centre,Country of birth (mother),Born overseas,2011,1714,86509,2
+Birth centre,Country of birth (mother),Not stated,2011,3,1451,0.2
+Home,Country of birth (mother),Born in Australia,2011,758,209383,0.4
+Home,Country of birth (mother),Born overseas,2011,216,86509,0.2
+Home,Country of birth (mother),Not stated,2011,249,1451,17.2
+Other,Country of birth (mother),Born in Australia,2011,886,209383,0.4
+Other,Country of birth (mother),Born overseas,2011,234,86509,0.3
+Other,Country of birth (mother),Not stated,2011,2,1451,0.1
+Not stated,Country of birth (mother),Born in Australia,2011,142,209383,0.1
+Not stated,Country of birth (mother),Born overseas,2011,51,86509,0.1
+Not stated,Country of birth (mother),Not stated,2011,9,1451,0.6
+Hospital,Indigenous status (mother),Indigenous,2011,11449,11731,97.6
+Hospital,Indigenous status (mother),Non-Indigenous,2011,276069,284909,96.9
+Hospital,Indigenous status (mother),Not stated,2011,664,703,94.5
+Birth centre,Indigenous status (mother),Indigenous,2011,126,11731,1.1
+Birth centre,Indigenous status (mother),Non-Indigenous,2011,6481,284909,2.3
+Birth centre,Indigenous status (mother),Not stated,2011,7,703,1
+Home,Indigenous status (mother),Indigenous,2011,14,11731,0.1
+Home,Indigenous status (mother),Non-Indigenous,2011,1183,284909,0.4
+Home,Indigenous status (mother),Not stated,2011,26,703,3.7
+Other,Indigenous status (mother),Indigenous,2011,137,11731,1.2
+Other,Indigenous status (mother),Non-Indigenous,2011,983,284909,0.3
+Other,Indigenous status (mother),Not stated,2011,2,703,0.3
+Not stated,Indigenous status (mother),Indigenous,2011,5,11731,0
+Not stated,Indigenous status (mother),Non-Indigenous,2011,193,284909,0.1
+Not stated,Indigenous status (mother),Not stated,2011,4,703,0.6
+Hospital,Maternal age,Less than 20,2011,10775,11016,97.8
+Hospital,Maternal age,20-24,2011,39946,41108,97.2
+Hospital,Maternal age,25-29,2011,80504,83163,96.8
+Hospital,Maternal age,30-34,2011,91528,94580,96.8
+Hospital,Maternal age,35-39,2011,52896,54581,96.9
+Hospital,Maternal age,40 and over,2011,12433,12778,97.3
+Hospital,Maternal age,Not stated,2011,100,117,85.5
+Birth centre,Maternal age,Less than 20,2011,173,11016,1.6
+Birth centre,Maternal age,20-24,2011,870,41108,2.1
+Birth centre,Maternal age,25-29,2011,1984,83163,2.4
+Birth centre,Maternal age,30-34,2011,2208,94580,2.3
+Birth centre,Maternal age,35-39,2011,1168,54581,2.1
+Birth centre,Maternal age,40 and over,2011,211,12778,1.7
+Birth centre,Maternal age,Not stated,2011,0,117,0
+Home,Maternal age,Less than 20,2011,16,11016,0.1
+Home,Maternal age,20-24,2011,87,41108,0.2
+Home,Maternal age,25-29,2011,298,83163,0.4
+Home,Maternal age,30-34,2011,439,94580,0.5
+Home,Maternal age,35-39,2011,299,54581,0.5
+Home,Maternal age,40 and over,2011,72,12778,0.6
+Home,Maternal age,Not stated,2011,12,117,10.3
+Other,Maternal age,Less than 20,2011,47,11016,0.4
+Other,Maternal age,20-24,2011,189,41108,0.5
+Other,Maternal age,25-29,2011,325,83163,0.4
+Other,Maternal age,30-34,2011,331,94580,0.3
+Other,Maternal age,35-39,2011,181,54581,0.3
+Other,Maternal age,40 and over,2011,49,12778,0.4
+Other,Maternal age,Not stated,2011,0,117,0
+Not stated,Maternal age,Less than 20,2011,5,11016,0
+Not stated,Maternal age,20-24,2011,16,41108,0
+Not stated,Maternal age,25-29,2011,52,83163,0.1
+Not stated,Maternal age,30-34,2011,74,94580,0.1
+Not stated,Maternal age,35-39,2011,37,54581,0.1
+Not stated,Maternal age,40 and over,2011,13,12778,0.1
+Not stated,Maternal age,Not stated,2011,5,117,4.3
+Hospital,Parity,None,2011,124979,127759,97.8
+Hospital,Parity,One,2011,95757,99438,96.3
+Hospital,Parity,Two,2011,41530,43211,96.1
+Hospital,Parity,Three,2011,14531,15114,96.1
+Hospital,Parity,Four or more,2011,10177,10588,96.1
+Hospital,Parity,Not stated,2011,1208,1233,98
+Birth centre,Parity,None,2011,2341,127759,1.8
+Birth centre,Parity,One,2011,2641,99438,2.7
+Birth centre,Parity,Two,2011,1128,43211,2.6
+Birth centre,Parity,Three,2011,328,15114,2.2
+Birth centre,Parity,Four or more,2011,167,10588,1.6
+Birth centre,Parity,Not stated,2011,9,1233,0.7
+Home,Parity,None,2011,259,127759,0.2
+Home,Parity,One,2011,495,99438,0.5
+Home,Parity,Two,2011,276,43211,0.6
+Home,Parity,Three,2011,97,15114,0.6
+Home,Parity,Four or more,2011,89,10588,0.8
+Home,Parity,Not stated,2011,7,1233,0.6
+Other,Parity,None,2011,128,127759,0.1
+Other,Parity,One,2011,464,99438,0.5
+Other,Parity,Two,2011,243,43211,0.6
+Other,Parity,Three,2011,140,15114,0.9
+Other,Parity,Four or more,2011,145,10588,1.4
+Other,Parity,Not stated,2011,2,1233,0.2
+Not stated,Parity,None,2011,52,127759,0
+Not stated,Parity,One,2011,81,99438,0.1
+Not stated,Parity,Two,2011,34,43211,0.1
+Not stated,Parity,Three,2011,18,15114,0.1
+Not stated,Parity,Four or more,2011,10,10588,0.1
+Not stated,Parity,Not stated,2011,7,1233,0.6
+Hospital,State and territory of birth,NSW,2011,92305,95819,96.3
+Hospital,State and territory of birth,Vic,2011,71326,72939,97.8
+Hospital,State and territory of birth,Qld,2011,59779,61117,97.8
+Hospital,State and territory of birth,WA,2011,31144,31747,98.1
+Hospital,State and territory of birth,SA,2011,18634,20043,93
+Hospital,State and territory of birth,Tas,2011,6142,6220,98.7
+Hospital,State and territory of birth,ACT,2011,5204,5584,93.2
+Hospital,State and territory of birth,NT,2011,3648,3874,94.2
+Birth centre,State and territory of birth,NSW,2011,2804,95819,2.9
+Birth centre,State and territory of birth,Vic,2011,890,72939,1.2
+Birth centre,State and territory of birth,Qld,2011,840,61117,1.4
+Birth centre,State and territory of birth,WA,2011,362,31747,1.1
+Birth centre,State and territory of birth,SA,2011,1235,20043,6.2
+Birth centre,State and territory of birth,Tas,2011,23,6220,0.4
+Birth centre,State and territory of birth,ACT,2011,343,5584,6.1
+Birth centre,State and territory of birth,NT,2011,117,3874,3
+Home,State and territory of birth,NSW,2011,223,95819,0.2
+Home,State and territory of birth,Vic,2011,535,72939,0.7
+Home,State and territory of birth,Qld,2011,69,61117,0.1
+Home,State and territory of birth,WA,2011,241,31747,0.8
+Home,State and territory of birth,SA,2011,96,20043,0.5
+Home,State and territory of birth,Tas,2011,10,6220,0.2
+Home,State and territory of birth,ACT,2011,9,5584,0.2
+Home,State and territory of birth,NT,2011,40,3874,1
+Other,State and territory of birth,NSW,2011,450,95819,0.5
+Other,State and territory of birth,Vic,2011,24,72939,0
+Other,State and territory of birth,Qld,2011,429,61117,0.7
+Other,State and territory of birth,WA,2011,0,31747,0
+Other,State and territory of birth,SA,2011,78,20043,0.4
+Other,State and territory of birth,Tas,2011,45,6220,0.7
+Other,State and territory of birth,ACT,2011,27,5584,0.5
+Other,State and territory of birth,NT,2011,69,3874,1.8
+Not stated,State and territory of birth,NSW,2011,37,95819,0
+Not stated,State and territory of birth,Vic,2011,164,72939,0.2
+Not stated,State and territory of birth,Qld,2011,0,61117,0
+Not stated,State and territory of birth,WA,2011,0,31747,0
+Not stated,State and territory of birth,SA,2011,0,20043,0
+Not stated,State and territory of birth,Tas,2011,0,6220,0
+Not stated,State and territory of birth,ACT,2011,1,5584,0
+Not stated,State and territory of birth,NT,2011,0,3874,0
+Hospital,Country of birth (mother),Born in Australia,2012,204845,211609,96.8
+Hospital,Country of birth (mother),Born overseas,2012,91838,94283,97.4
+Hospital,Country of birth (mother),Not stated,2012,1400,1678,83.4
+Birth centre,Country of birth (mother),Born in Australia,2012,4989,211609,2.4
+Birth centre,Country of birth (mother),Born overseas,2012,1925,94283,2
+Birth centre,Country of birth (mother),Not stated,2012,28,1678,1.7
+Home,Country of birth (mother),Born in Australia,2012,734,211609,0.3
+Home,Country of birth (mother),Born overseas,2012,199,94283,0.2
+Home,Country of birth (mother),Not stated,2012,244,1678,14.5
+Other,Country of birth (mother),Born in Australia,2012,1015,211609,0.5
+Other,Country of birth (mother),Born overseas,2012,312,94283,0.3
+Other,Country of birth (mother),Not stated,2012,6,1678,0.4
+Not stated,Country of birth (mother),Born in Australia,2012,26,211609,0
+Not stated,Country of birth (mother),Born overseas,2012,9,94283,0
+Not stated,Country of birth (mother),Not stated,2012,0,1678,0
+Hospital,Indigenous status (mother),Indigenous,2012,11956,12286,97.3
+Hospital,Indigenous status (mother),Non-Indigenous,2012,285485,294619,96.9
+Hospital,Indigenous status (mother),Not stated,2012,642,665,96.5
+Birth centre,Indigenous status (mother),Indigenous,2012,152,12286,1.2
+Birth centre,Indigenous status (mother),Non-Indigenous,2012,6782,294619,2.3
+Birth centre,Indigenous status (mother),Not stated,2012,8,665,1.2
+Home,Indigenous status (mother),Indigenous,2012,14,12286,0.1
+Home,Indigenous status (mother),Non-Indigenous,2012,1152,294619,0.4
+Home,Indigenous status (mother),Not stated,2012,11,665,1.7
+Other,Indigenous status (mother),Indigenous,2012,162,12286,1.3
+Other,Indigenous status (mother),Non-Indigenous,2012,1167,294619,0.4
+Other,Indigenous status (mother),Not stated,2012,4,665,0.6
+Not stated,Indigenous status (mother),Indigenous,2012,2,12286,0
+Not stated,Indigenous status (mother),Non-Indigenous,2012,33,294619,0
+Not stated,Indigenous status (mother),Not stated,2012,0,665,0
+Hospital,Maternal age,Less than 20,2012,10739,11059,97.1
+Hospital,Maternal age,20-24,2012,40568,41805,97
+Hospital,Maternal age,25-29,2012,82746,85537,96.7
+Hospital,Maternal age,30-34,2012,96952,100094,96.9
+Hospital,Maternal age,35-39,2012,54021,55685,97
+Hospital,Maternal age,40 and over,2012,12999,13323,97.6
+Hospital,Maternal age,Not stated,2012,58,67,0.9
+Birth centre,Maternal age,Less than 20,2012,225,11059,2
+Birth centre,Maternal age,20-24,2012,918,41805,2.2
+Birth centre,Maternal age,25-29,2012,2130,85537,2.5
+Birth centre,Maternal age,30-34,2012,2324,100094,2.3
+Birth centre,Maternal age,35-39,2012,1138,55685,2
+Birth centre,Maternal age,40 and over,2012,206,13323,1.5
+Birth centre,Maternal age,Not stated,2012,1,67,0
+Home,Maternal age,Less than 20,2012,10,11059,0.1
+Home,Maternal age,20-24,2012,75,41805,0.2
+Home,Maternal age,25-29,2012,293,85537,0.3
+Home,Maternal age,30-34,2012,427,100094,0.4
+Home,Maternal age,35-39,2012,303,55685,0.5
+Home,Maternal age,40 and over,2012,61,13323,0.5
+Home,Maternal age,Not stated,2012,8,67,0.1
+Other,Maternal age,Less than 20,2012,84,11059,0.8
+Other,Maternal age,20-24,2012,242,41805,0.6
+Other,Maternal age,25-29,2012,356,85537,0.4
+Other,Maternal age,30-34,2012,378,100094,0.4
+Other,Maternal age,35-39,2012,218,55685,0.4
+Other,Maternal age,40 and over,2012,55,13323,0.4
+Other,Maternal age,Not stated,2012,0,67,0
+Not stated,Maternal age,Less than 20,2012,1,11059,0
+Not stated,Maternal age,20-24,2012,2,41805,0
+Not stated,Maternal age,25-29,2012,12,85537,0
+Not stated,Maternal age,30-34,2012,13,100094,0
+Not stated,Maternal age,35-39,2012,5,55685,0
+Not stated,Maternal age,40 and over,2012,2,13323,0
+Not stated,Maternal age,Not stated,2012,0,67,0
+Hospital,Parity,None,2012,127663,130567,97.8
+Hospital,Parity,One,2012,98241,101961,96.4
+Hospital,Parity,Two,2012,41765,43390,96.3
+Hospital,Parity,Three,2012,14759,15337,96.2
+Hospital,Parity,Four or more,2012,10319,10721,96.3
+Hospital,Parity,Not stated,2012,5336,5594,95.4
+Birth centre,Parity,None,2012,2489,130567,1.9
+Birth centre,Parity,One,2012,2780,101961,2.7
+Birth centre,Parity,Two,2012,1146,43390,2.6
+Birth centre,Parity,Three,2012,342,15337,2.2
+Birth centre,Parity,Four or more,2012,180,10721,1.7
+Birth centre,Parity,Not stated,2012,5,5594,0.1
+Home,Parity,None,2012,203,130567,0.2
+Home,Parity,One,2012,365,101961,0.4
+Home,Parity,Two,2012,203,43390,0.5
+Home,Parity,Three,2012,90,15337,0.6
+Home,Parity,Four or more,2012,74,10721,0.7
+Home,Parity,Not stated,2012,242,5594,4.3
+Other,Parity,None,2012,201,130567,0.2
+Other,Parity,One,2012,562,101961,0.6
+Other,Parity,Two,2012,274,43390,0.6
+Other,Parity,Three,2012,143,15337,0.9
+Other,Parity,Four or more,2012,147,10721,1.4
+Other,Parity,Not stated,2012,6,5594,0.1
+Not stated,Parity,None,2012,11,130567,0
+Not stated,Parity,One,2012,13,101961,0
+Not stated,Parity,Two,2012,2,43390,0
+Not stated,Parity,Three,2012,3,15337,0
+Not stated,Parity,Four or more,2012,1,10721,0
+Not stated,Parity,Not stated,2012,5,5594,0.1
+Hospital,Remoteness area,Major cities,2012,206094,213575,96.5
+Hospital,Remoteness area,Inner regional,2012,49293,50432,97.7
+Hospital,Remoteness area,Outer regional,2012,26081,26757,97.5
+Hospital,Remoteness area,Remote,2012,4734,4792,98.8
+Hospital,Remoteness area,Very remote,2012,3054,3131,97.5
+Birth centre,Remoteness area,Major cities,2012,5768,213575,2.7
+Birth centre,Remoteness area,Inner regional,2012,683,50432,1.4
+Birth centre,Remoteness area,Outer regional,2012,434,26757,1.6
+Birth centre,Remoteness area,Remote,2012,18,4792,0.4
+Birth centre,Remoteness area,Very remote,2012,17,3131,0.6
+Home,Remoteness area,Major cities,2012,877,213575,0.4
+Home,Remoteness area,Inner regional,2012,198,50432,0.4
+Home,Remoteness area,Outer regional,2012,73,26757,0.3
+Other,Remoteness area,Major cities,2012,811,213575,0.4
+Other,Remoteness area,Inner regional,2012,252,50432,0.5
+Other,Remoteness area,Outer regional,2012,164,26757,0.6
+Not stated,Remoteness area,Major cities,2012,25,213575,0
+Not stated,Remoteness area,Inner regional,2012,5,50432,0
+Not stated,Remoteness area,Outer regional,2012,5,26757,0
+Not stated,Remoteness area,Remote,2012,0,4792,0
+Not stated,Remoteness area,Very remote,2012,0,3131,0
+Hospital,Socioeconomic status,Q1 (most disadvantaged),2012,63239,65029,97.2
+Hospital,Socioeconomic status,Q2,2012,58360,60246,96.9
+Hospital,Socioeconomic status,Q3,2012,57361,59220,96.9
+Hospital,Socioeconomic status,Q4,2012,56871,58812,96.7
+Hospital,Socioeconomic status,Q5 (least disadvantaged),2012,53385,55338,96.5
+Hospital,Socioeconomic status,Not stated,2012,8659,8706,99.5
+Birth centre,Socioeconomic status,Q1 (most disadvantaged),2012,1167,65029,1.8
+Birth centre,Socioeconomic status,Q2,2012,1404,60246,2.3
+Birth centre,Socioeconomic status,Q3,2012,1335,59220,2.3
+Birth centre,Socioeconomic status,Q4,2012,1478,58812,2.5
+Birth centre,Socioeconomic status,Q5 (least disadvantaged),2012,1536,55338,2.8
+Birth centre,Socioeconomic status,Not stated,2012,22,8706,0.3
+Home,Socioeconomic status,Q1 (most disadvantaged),2012,155,65029,0.2
+Home,Socioeconomic status,Q2,2012,220,60246,0.4
+Home,Socioeconomic status,Q3,2012,277,59220,0.5
+Home,Socioeconomic status,Q4,2012,273,58812,0.5
+Home,Socioeconomic status,Q5 (least disadvantaged),2012,241,55338,0.4
+Home,Socioeconomic status,Not stated,2012,6,8706,0.1
+Other,Socioeconomic status,Q1 (most disadvantaged),2012,456,65029,0.7
+Other,Socioeconomic status,Q2,2012,257,60246,0.4
+Other,Socioeconomic status,Q3,2012,239,59220,0.4
+Other,Socioeconomic status,Q4,2012,184,58812,0.3
+Other,Socioeconomic status,Q5 (least disadvantaged),2012,172,55338,0.3
+Other,Socioeconomic status,Not stated,2012,19,8706,0.2
+Not stated,Socioeconomic status,Q1 (most disadvantaged),2012,12,65029,0
+Not stated,Socioeconomic status,Q2,2012,5,60246,0
+Not stated,Socioeconomic status,Q3,2012,8,59220,0
+Not stated,Socioeconomic status,Q4,2012,6,58812,0
+Not stated,Socioeconomic status,Q5 (least disadvantaged),2012,4,55338,0
+Not stated,Socioeconomic status,Not stated,2012,0,8706,0
+Hospital,State and territory of birth,NSW,2012,94588,98138,96.4
+Hospital,State and territory of birth,Vic,2012,75611,77170,98
+Hospital,State and territory of birth,Qld,2012,61089,62650,97.5
+Hospital,State and territory of birth,WA,2012,32858,33393,98.4
+Hospital,State and territory of birth,SA,2012,18767,20338,92.3
+Hospital,State and territory of birth,Tas,2012,5799,5863,98.9
+Hospital,State and territory of birth,ACT,2012,5618,6035,93.1
+Hospital,State and territory of birth,NT,2012,3753,3983,94.2
+Birth centre,State and territory of birth,NSW,2012,2837,98138,2.9
+Birth centre,State and territory of birth,Vic,2012,845,77170,1.1
+Birth centre,State and territory of birth,Qld,2012,1027,62650,1.6
+Birth centre,State and territory of birth,WA,2012,325,33393,1
+Birth centre,State and territory of birth,SA,2012,1378,20338,6.8
+Birth centre,State and territory of birth,Tas,2012,27,5863,0.5
+Birth centre,State and territory of birth,ACT,2012,375,6035,6.2
+Birth centre,State and territory of birth,NT,2012,128,3983,3.2
+Home,State and territory of birth,NSW,2012,191,98138,0.2
+Home,State and territory of birth,Vic,2012,547,77170,0.7
+Home,State and territory of birth,Qld,2012,84,62650,0.1
+Home,State and territory of birth,WA,2012,210,33393,0.6
+Home,State and territory of birth,SA,2012,95,20338,0.5
+Home,State and territory of birth,Tas,2012,11,5863,0.2
+Home,State and territory of birth,ACT,2012,7,6035,0.1
+Home,State and territory of birth,NT,2012,32,3983,0.8
+Other,State and territory of birth,NSW,2012,497,98138,0.5
+Other,State and territory of birth,Vic,2012,158,77170,0.2
+Other,State and territory of birth,Qld,2012,449,62650,0.7
+Other,State and territory of birth,WA,2012,0,33393,0
+Other,State and territory of birth,SA,2012,98,20338,0.5
+Other,State and territory of birth,Tas,2012,26,5863,0.4
+Other,State and territory of birth,ACT,2012,35,6035,0.6
+Other,State and territory of birth,NT,2012,70,3983,1.8
+Not stated,State and territory of birth,NSW,2012,25,98138,0
+Not stated,State and territory of birth,Vic,2012,9,77170,0
+Not stated,State and territory of birth,Qld,2012,1,62650,0
+Not stated,State and territory of birth,WA,2012,0,33393,0
+Not stated,State and territory of birth,SA,2012,0,20338,0
+Not stated,State and territory of birth,Tas,2012,0,5863,0
+Not stated,State and territory of birth,ACT,2012,0,6035,0
+Not stated,State and territory of birth,NT,2012,0,3983,0
+Hospital,Country of birth (mother),Born in Australia,2013,202592,208402,97.2
+Hospital,Country of birth (mother),Born overseas,2013,92597,94697,97.8
+Hospital,Country of birth (mother),Not stated,2013,1422,1678,84.7
+Birth centre,Country of birth (mother),Born in Australia,2013,4395,208402,2.1
+Birth centre,Country of birth (mother),Born overseas,2013,1671,94697,1.8
+Birth centre,Country of birth (mother),Not stated,2013,19,1678,1.1
+Home,Country of birth (mother),Born in Australia,2013,581,208402,0.3
+Home,Country of birth (mother),Born overseas,2013,145,94697,0.2
+Home,Country of birth (mother),Not stated,2013,232,1678,13.8
+Other,Country of birth (mother),Born in Australia,2013,749,208402,0.4
+Other,Country of birth (mother),Born overseas,2013,230,94697,0.2
+Other,Country of birth (mother),Not stated,2013,5,1678,0.3
+Not stated,Country of birth (mother),Born in Australia,2013,85,208402,0
+Not stated,Country of birth (mother),Born overseas,2013,54,94697,0.1
+Not stated,Country of birth (mother),Not stated,2013,0,1678,0
+Hospital,Indigenous status (mother),Indigenous,2013,12082,12380,97.6
+Hospital,Indigenous status (mother),Non-Indigenous,2013,283871,291700,97.3
+Hospital,Indigenous status (mother),Not stated,2013,658,697,94.4
+Birth centre,Indigenous status (mother),Indigenous,2013,170,12380,1.4
+Birth centre,Indigenous status (mother),Non-Indigenous,2013,5907,291700,2
+Birth centre,Indigenous status (mother),Not stated,2013,8,697,1.1
+Home,Indigenous status (mother),Indigenous,2013,7,12380,0.1
+Home,Indigenous status (mother),Non-Indigenous,2013,926,291700,0.3
+Home,Indigenous status (mother),Not stated,2013,25,697,3.6
+Other,Indigenous status (mother),Indigenous,2013,118,12380,1
+Other,Indigenous status (mother),Non-Indigenous,2013,862,291700,0.3
+Other,Indigenous status (mother),Not stated,2013,4,697,0.6
+Not stated,Indigenous status (mother),Indigenous,2013,3,12380,0
+Not stated,Indigenous status (mother),Non-Indigenous,2013,134,291700,0
+Not stated,Indigenous status (mother),Not stated,2013,2,697,0.3
+Hospital,Maternal age,Less than 20,2013,9975,10186,97.9
+Hospital,Maternal age,20-24,2013,40136,41163,97.5
+Hospital,Maternal age,25-29,2013,81559,83916,97.2
+Hospital,Maternal age,30-34,2013,98759,101618,97.2
+Hospital,Maternal age,35-39,2013,53011,54444,97.4
+Hospital,Maternal age,40 and over,2013,13129,13389,98.1
+Hospital,Maternal age,Not stated,2013,42,61,0.7
+Birth centre,Maternal age,Less than 20,2013,159,10186,1.6
+Birth centre,Maternal age,20-24,2013,783,41163,1.9
+Birth centre,Maternal age,25-29,2013,1795,83916,2.1
+Birth centre,Maternal age,30-34,2013,2165,101618,2.1
+Birth centre,Maternal age,35-39,2013,1013,54444,1.9
+Birth centre,Maternal age,40 and over,2013,170,13389,1.3
+Birth centre,Maternal age,Not stated,2013,0,61,0
+Home,Maternal age,Less than 20,2013,5,10186,0
+Home,Maternal age,20-24,2013,47,41163,0.1
+Home,Maternal age,25-29,2013,248,83916,0.3
+Home,Maternal age,30-34,2013,337,101618,0.3
+Home,Maternal age,35-39,2013,247,54444,0.5
+Home,Maternal age,40 and over,2013,55,13389,0.4
+Home,Maternal age,Not stated,2013,19,61,0.3
+Other,Maternal age,Less than 20,2013,43,10186,0.4
+Other,Maternal age,20-24,2013,175,41163,0.4
+Other,Maternal age,25-29,2013,279,83916,0.3
+Other,Maternal age,30-34,2013,305,101618,0.3
+Other,Maternal age,35-39,2013,152,54444,0.3
+Other,Maternal age,40 and over,2013,30,13389,0.2
+Other,Maternal age,Not stated,2013,0,61,0
+Not stated,Maternal age,Less than 20,2013,4,10186,0
+Not stated,Maternal age,20-24,2013,22,41163,0.1
+Not stated,Maternal age,25-29,2013,35,83916,0
+Not stated,Maternal age,30-34,2013,52,101618,0.1
+Not stated,Maternal age,35-39,2013,21,54444,0
+Not stated,Maternal age,40 and over,2013,5,13389,0
+Not stated,Maternal age,Not stated,2013,0,61,0
+Hospital,Parity,None,2013,130295,132797,98.1
+Hospital,Parity,One,2013,99297,102623,96.8
+Hospital,Parity,Two,2013,41419,42906,96.5
+Hospital,Parity,Three,2013,14525,15033,96.6
+Hospital,Parity,Four or more,2013,10070,10400,96.8
+Hospital,Parity,Not stated,2013,1005,1018,98.7
+Birth centre,Parity,None,2013,2108,132797,1.6
+Birth centre,Parity,One,2013,2479,102623,2.4
+Birth centre,Parity,Two,2013,1043,42906,2.4
+Birth centre,Parity,Three,2013,315,15033,2.1
+Birth centre,Parity,Four or more,2013,140,10400,1.3
+Birth centre,Parity,Not stated,2013,0,1018,0
+Home,Parity,None,2013,243,132797,0.2
+Home,Parity,One,2013,359,102623,0.3
+Home,Parity,Two,2013,220,42906,0.5
+Home,Parity,Three,2013,74,15033,0.5
+Home,Parity,Four or more,2013,58,10400,0.6
+Home,Parity,Not stated,2013,4,1018,0.4
+Other,Parity,None,2013,123,132797,0.1
+Other,Parity,One,2013,435,102623,0.4
+Other,Parity,Two,2013,190,42906,0.4
+Other,Parity,Three,2013,109,15033,0.7
+Other,Parity,Four or more,2013,120,10400,1.2
+Other,Parity,Not stated,2013,7,1018,0.7
+Not stated,Parity,None,2013,28,132797,0
+Not stated,Parity,One,2013,53,102623,0.1
+Not stated,Parity,Two,2013,34,42906,0.1
+Not stated,Parity,Three,2013,10,15033,0.1
+Not stated,Parity,Four or more,2013,12,10400,0.1
+Not stated,Parity,Not stated,2013,2,1018,0.2
+Hospital,Remoteness area,Major cities,2013,209803,216208,97
+Hospital,Remoteness area,Inner regional,2013,49207,50215,98
+Hospital,Remoteness area,Outer regional,2013,25991,26547,97.9
+Hospital,Remoteness area,Remote,2013,4483,4540,98.7
+Hospital,Remoteness area,Very remote,2013,2965,3041,97.5
+Birth centre,Remoteness area,Major cities,2013,5044,216208,2.3
+Birth centre,Remoteness area,Inner regional,2013,599,50215,1.2
+Birth centre,Remoteness area,Outer regional,2013,354,26547,1.3
+Birth centre,Remoteness area,Remote,2013,14,4540,0.3
+Birth centre,Remoteness area,Very remote,2013,18,3041,0.6
+Home,Remoteness area,Major cities,2013,668,216208,0.3
+Home,Remoteness area,Inner regional,2013,196,50215,0.4
+Home,Remoteness area,Outer regional,2013,63,26547,0.2
+Other,Remoteness area,Major cities,2013,592,216208,0.3
+Other,Remoteness area,Inner regional,2013,190,50215,0.4
+Other,Remoteness area,Outer regional,2013,126,26547,0.5
+Not stated,Remoteness area,Major cities,2013,101,216208,0
+Not stated,Remoteness area,Inner regional,2013,24,50215,0
+Not stated,Remoteness area,Outer regional,2013,13,26547,0
+Not stated,Remoteness area,Remote,2013,1,4540,0
+Not stated,Remoteness area,Very remote,2013,0,3041,0
+Hospital,Socioeconomic status,Q1 (most disadvantaged),2013,62473,63939,97.7
+Hospital,Socioeconomic status,Q2,2013,58267,59888,97.3
+Hospital,Socioeconomic status,Q3,2013,58692,60322,97.3
+Hospital,Socioeconomic status,Q4,2013,58882,60538,97.3
+Hospital,Socioeconomic status,Q5 (least disadvantaged),2013,54091,55820,96.9
+Hospital,Socioeconomic status,Not stated,2013,3579,3624,98.8
+Birth centre,Socioeconomic status,Q1 (most disadvantaged),2013,1003,63939,1.6
+Birth centre,Socioeconomic status,Q2,2013,1269,59888,2.1
+Birth centre,Socioeconomic status,Q3,2013,1163,60322,1.9
+Birth centre,Socioeconomic status,Q4,2013,1220,60538,2
+Birth centre,Socioeconomic status,Q5 (least disadvantaged),2013,1373,55820,2.5
+Birth centre,Socioeconomic status,Not stated,2013,41,3624,1.1
+Home,Socioeconomic status,Q1 (most disadvantaged),2013,112,63939,0.2
+Home,Socioeconomic status,Q2,2013,152,59888,0.3
+Home,Socioeconomic status,Q3,2013,231,60322,0.4
+Home,Socioeconomic status,Q4,2013,228,60538,0.4
+Home,Socioeconomic status,Q5 (least disadvantaged),2013,231,55820,0.4
+Home,Socioeconomic status,Not stated,2013,4,3624,0.1
+Other,Socioeconomic status,Q1 (most disadvantaged),2013,319,63939,0.5
+Other,Socioeconomic status,Q2,2013,171,59888,0.3
+Other,Socioeconomic status,Q3,2013,201,60322,0.3
+Other,Socioeconomic status,Q4,2013,185,60538,0.3
+Other,Socioeconomic status,Q5 (least disadvantaged),2013,105,55820,0.2
+Other,Socioeconomic status,Not stated,2013,0,3624,0
+Not stated,Socioeconomic status,Q1 (most disadvantaged),2013,32,63939,0.1
+Not stated,Socioeconomic status,Q2,2013,29,59888,0
+Not stated,Socioeconomic status,Q3,2013,35,60322,0.1
+Not stated,Socioeconomic status,Q4,2013,23,60538,0
+Not stated,Socioeconomic status,Q5 (least disadvantaged),2013,20,55820,0
+Not stated,Socioeconomic status,Not stated,2013,0,3624,0
+Hospital,State and territory of birth,NSW,2013,93038,95535,97.4
+Hospital,State and territory of birth,Vic,2013,75842,77122,98.3
+Hospital,State and territory of birth,Qld,2013,60585,62168,97.5
+Hospital,State and territory of birth,WA,2013,33376,33928,98.4
+Hospital,State and territory of birth,SA,2013,18431,19925,92.5
+Hospital,State and territory of birth,Tas,2013,5867,5936,98.8
+Hospital,State and territory of birth,ACT,2013,5673,6145,92.3
+Hospital,State and territory of birth,NT,2013,3799,4018,94.5
+Birth centre,State and territory of birth,NSW,2013,2392,95535,2.5
+Birth centre,State and territory of birth,Vic,2013,502,77122,0.7
+Birth centre,State and territory of birth,Qld,2013,1002,62168,1.6
+Birth centre,State and territory of birth,WA,2013,347,33928,1
+Birth centre,State and territory of birth,SA,2013,1291,19925,6.5
+Birth centre,State and territory of birth,Tas,2013,10,5936,0.2
+Birth centre,State and territory of birth,ACT,2013,433,6145,7
+Birth centre,State and territory of birth,NT,2013,108,4018,2.7
+Home,State and territory of birth,NSW,2013,104,95535,0.1
+Home,State and territory of birth,Vic,2013,358,77122,0.5
+Home,State and territory of birth,Qld,2013,104,62168,0.2
+Home,State and territory of birth,SA,2013,114,19925,0.6
+Home,State and territory of birth,Tas,2013,24,5936,0.4
+Home,State and territory of birth,NT,2013,44,4018,1.1
+Other,State and territory of birth,NSW,2013,0,95535,0
+Other,State and territory of birth,Vic,2013,282,77122,0.4
+Other,State and territory of birth,Qld,2013,477,62168,0.8
+Other,State and territory of birth,SA,2013,89,19925,0.4
+Other,State and territory of birth,Tas,2013,35,5936,0.6
+Other,State and territory of birth,NT,2013,67,4018,1.7
+Not stated,State and territory of birth,NSW,2013,1,95535,0
+Not stated,State and territory of birth,Vic,2013,138,77122,0.2
+Not stated,State and territory of birth,Qld,2013,0,62168,0
+Not stated,State and territory of birth,WA,2013,0,33928,0
+Not stated,State and territory of birth,SA,2013,0,19925,0
+Not stated,State and territory of birth,Tas,2013,0,5936,0
+Not stated,State and territory of birth,ACT,2013,0,6145,0
+Not stated,State and territory of birth,NT,2013,0,4018,0
+Hospital,Country of birth (mother),Born in Australia,2014,200490,205844,97.4
+Hospital,Country of birth (mother),Born overseas,2014,98335,100296,98
+Hospital,Country of birth (mother),Not stated,2014,1457,1704,85.5
+Birth centre,Country of birth (mother),Born in Australia,2014,4023,205844,2
+Birth centre,Country of birth (mother),Born overseas,2014,1509,100296,1.5
+Birth centre,Country of birth (mother),Not stated,2014,14,1704,0.8
+Home,Country of birth (mother),Born in Australia,2014,551,205844,0.3
+Home,Country of birth (mother),Born overseas,2014,146,100296,0.1
+Home,Country of birth (mother),Not stated,2014,226,1704,13.3
+Other,Country of birth (mother),Born in Australia,2014,772,205844,0.4
+Other,Country of birth (mother),Born overseas,2014,305,100296,0.3
+Other,Country of birth (mother),Not stated,2014,3,1704,0.2
+Not stated,Country of birth (mother),Born in Australia,2014,8,205844,0
+Not stated,Country of birth (mother),Born overseas,2014,1,100296,0
+Not stated,Country of birth (mother),Not stated,2014,4,1704,0.2
+Hospital,Indigenous status (mother),Indigenous,2014,12566,12817,98
+Hospital,Indigenous status (mother),Non-Indigenous,2014,287235,294521,97.5
+Hospital,Indigenous status (mother),Not stated,2014,481,506,95.1
+Birth centre,Indigenous status (mother),Indigenous,2014,129,12817,1
+Birth centre,Indigenous status (mother),Non-Indigenous,2014,5414,294521,1.8
+Birth centre,Indigenous status (mother),Not stated,2014,3,506,0.6
+Home,Indigenous status (mother),Non-Indigenous,2014,905,294521,0.3
+Other,Indigenous status (mother),Indigenous,2014,117,12817,0.9
+Other,Indigenous status (mother),Non-Indigenous,2014,958,294521,0.3
+Other,Indigenous status (mother),Not stated,2014,5,506,1
+Not stated,Indigenous status (mother),Non-Indigenous,2014,9,294521,0
+Hospital,Maternal age,Less than 20,2014,9144,9332,98
+Hospital,Maternal age,20-24,2014,38947,39904,97.6
+Hospital,Maternal age,25-29,2014,83055,85296,97.4
+Hospital,Maternal age,30-34,2014,102676,105300,97.5
+Hospital,Maternal age,35-39,2014,53571,54890,97.6
+Hospital,Maternal age,40 and over,2014,12882,13102,98.3
+Hospital,Maternal age,Not stated,2014,7,20,0.4
+Birth centre,Maternal age,Less than 20,2014,145,9332,1.6
+Birth centre,Maternal age,20-24,2014,724,39904,1.8
+Birth centre,Maternal age,25-29,2014,1692,85296,2
+Birth centre,Maternal age,30-34,2014,1937,105300,1.8
+Birth centre,Maternal age,35-39,2014,909,54890,1.7
+Birth centre,Maternal age,40 and over,2014,139,13102,1.1
+Birth centre,Maternal age,Not stated,2014,0,20,0
+Home,Maternal age,20-24,2014,62,39904,0.2
+Home,Maternal age,25-29,2014,241,85296,0.3
+Home,Maternal age,30-34,2014,346,105300,0.3
+Home,Maternal age,35-39,2014,218,54890,0.4
+Home,Maternal age,40 and over,2014,41,13102,0.3
+Other,Maternal age,Less than 20,2014,38,9332,0.4
+Other,Maternal age,20-24,2014,169,39904,0.4
+Other,Maternal age,25-29,2014,305,85296,0.4
+Other,Maternal age,30-34,2014,338,105300,0.3
+Other,Maternal age,35-39,2014,190,54890,0.3
+Other,Maternal age,40 and over,2014,40,13102,0.3
+Other,Maternal age,Not stated,2014,0,20,0
+Not stated,Maternal age,20-24,2014,2,39904,0
+Not stated,Maternal age,25-29,2014,3,85296,0
+Not stated,Maternal age,30-34,2014,3,105300,0
+Not stated,Maternal age,35-39,2014,2,54890,0
+Not stated,Maternal age,40 and over,2014,0,13102,0
+Hospital,Parity,None,2014,131478,133867,98.2
+Hospital,Parity,One,2014,101736,104804,97.1
+Hospital,Parity,Two,2014,41827,43133,97
+Hospital,Parity,Three,2014,14741,15211,96.9
+Hospital,Parity,Four or more,2014,10338,10656,97
+Hospital,Parity,Not stated,2014,162,173,93.6
+Birth centre,Parity,None,2014,2023,133867,1.5
+Birth centre,Parity,One,2014,2235,104804,2.1
+Birth centre,Parity,Two,2014,853,43133,2
+Birth centre,Parity,Three,2014,288,15211,1.9
+Birth centre,Parity,Four or more,2014,145,10656,1.4
+Birth centre,Parity,Not stated,2014,2,173,1.2
+Home,Parity,None,2014,220,133867,0.2
+Home,Parity,One,2014,368,104804,0.4
+Home,Parity,Two,2014,192,43133,0.4
+Home,Parity,Three,2014,83,15211,0.5
+Home,Parity,Four or more,2014,54,10656,0.5
+Home,Parity,Not stated,2014,6,173,3.5
+Other,Parity,None,2014,137,133867,0.1
+Other,Parity,One,2014,464,104804,0.4
+Other,Parity,Two,2014,261,43133,0.6
+Other,Parity,Three,2014,99,15211,0.7
+Other,Parity,Four or more,2014,119,10656,1.1
+Other,Parity,Not stated,2014,0,173,0
+Not stated,Parity,None,2014,9,133867,0
+Not stated,Parity,One,2014,1,104804,0
+Not stated,Parity,Two,2014,0,43133,0
+Not stated,Parity,Three,2014,0,15211,0
+Not stated,Parity,Four or more,2014,0,10656,0
+Not stated,Parity,Not stated,2014,3,173,1.7
+Hospital,Remoteness area,Major cities,2014,215704,221618,97.3
+Hospital,Remoteness area,Inner regional,2014,49148,50093,98.1
+Hospital,Remoteness area,Outer regional,2014,25818,26389,97.8
+Hospital,Remoteness area,Remote,2014,4652,4705,98.9
+Hospital,Remoteness area,Very remote,2014,3040,3092,98.3
+Birth centre,Remoteness area,Major cities,2014,4569,221618,2.1
+Birth centre,Remoteness area,Inner regional,2014,574,50093,1.1
+Birth centre,Remoteness area,Outer regional,2014,366,26389,1.4
+Home,Remoteness area,Major cities,2014,667,221618,0.3
+Home,Remoteness area,Inner regional,2014,167,50093,0.3
+Home,Remoteness area,Outer regional,2014,64,26389,0.2
+Other,Remoteness area,Major cities,2014,672,221618,0.3
+Other,Remoteness area,Inner regional,2014,201,50093,0.4
+Other,Remoteness area,Outer regional,2014,140,26389,0.5
+Other,Remoteness area,Remote,2014,17,4705,0.4
+Other,Remoteness area,Very remote,2014,47,3092,1.5
+Not stated,Remoteness area,Major cities,2014,6,221618,0
+Not stated,Remoteness area,Inner regional,2014,3,50093,0
+Not stated,Remoteness area,Outer regional,2014,1,26389,0
+Not stated,Remoteness area,Remote,2014,0,4705,0
+Not stated,Remoteness area,Very remote,2014,0,3092,0
+Hospital,Socioeconomic status,Q1 (most disadvantaged),2014,62528,63872,97.9
+Hospital,Socioeconomic status,Q2,2014,59296,60773,97.6
+Hospital,Socioeconomic status,Q3,2014,60259,61759,97.6
+Hospital,Socioeconomic status,Q4,2014,60718,62261,97.5
+Hospital,Socioeconomic status,Q5 (least disadvantaged),2014,55384,57050,97.1
+Hospital,Socioeconomic status,Not stated,2014,1390,1407,98.8
+Birth centre,Socioeconomic status,Q1 (most disadvantaged),2014,932,63872,1.5
+Birth centre,Socioeconomic status,Q2,2014,1110,60773,1.8
+Birth centre,Socioeconomic status,Q3,2014,1070,61759,1.7
+Birth centre,Socioeconomic status,Q4,2014,1091,62261,1.8
+Birth centre,Socioeconomic status,Q5 (least disadvantaged),2014,1323,57050,2.3
+Birth centre,Socioeconomic status,Not stated,2014,9,1407,0.6
+Home,Socioeconomic status,Q1 (most disadvantaged),2014,102,63872,0.2
+Home,Socioeconomic status,Q2,2014,161,60773,0.3
+Home,Socioeconomic status,Q3,2014,208,61759,0.3
+Home,Socioeconomic status,Q4,2014,243,62261,0.4
+Home,Socioeconomic status,Q5 (least disadvantaged),2014,202,57050,0.4
+Home,Socioeconomic status,Not stated,2014,7,1407,0.5
+Other,Socioeconomic status,Q1 (most disadvantaged),2014,307,63872,0.5
+Other,Socioeconomic status,Q2,2014,204,60773,0.3
+Other,Socioeconomic status,Q3,2014,218,61759,0.4
+Other,Socioeconomic status,Q4,2014,208,62261,0.3
+Other,Socioeconomic status,Q5 (least disadvantaged),2014,141,57050,0.2
+Other,Socioeconomic status,Not stated,2014,1,1407,0.1
+Not stated,Socioeconomic status,Q1 (most disadvantaged),2014,3,63872,0
+Not stated,Socioeconomic status,Q2,2014,2,60773,0
+Not stated,Socioeconomic status,Q3,2014,4,61759,0
+Not stated,Socioeconomic status,Q4,2014,1,62261,0
+Not stated,Socioeconomic status,Q5 (least disadvantaged),2014,0,57050,0
+Not stated,Socioeconomic status,Not stated,2014,0,1407,0
+Hospital,State and territory of birth,NSW,2014,93608,95923,97.6
+Hospital,State and territory of birth,Vic,2014,77133,77921,99
+Hospital,State and territory of birth,Qld,2014,61181,62799,97.4
+Hospital,State and territory of birth,WA,2014,34110,34686,98.3
+Hospital,State and territory of birth,SA,2014,19024,20448,93
+Hospital,State and territory of birth,Tas,2014,5733,5818,98.5
+Hospital,State and territory of birth,ACT,2014,5769,6325,91.2
+Hospital,State and territory of birth,NT,2014,3724,3924,94.9
+Birth centre,State and territory of birth,NSW,2014,2202,95923,2.3
+Birth centre,State and territory of birth,Vic,2014,43,77921,0.1
+Birth centre,State and territory of birth,Qld,2014,1054,62799,1.7
+Birth centre,State and territory of birth,WA,2014,378,34686,1.1
+Birth centre,State and territory of birth,SA,2014,1232,20448,6
+Birth centre,State and territory of birth,Tas,2014,8,5818,0.1
+Birth centre,State and territory of birth,ACT,2014,507,6325,8
+Birth centre,State and territory of birth,NT,2014,122,3924,3.1
+Home,State and territory of birth,NSW,2014,110,95923,0.1
+Home,State and territory of birth,Vic,2014,348,77921,0.4
+Home,State and territory of birth,Qld,2014,98,62799,0.2
+Home,State and territory of birth,WA,2014,198,34686,0.6
+Home,State and territory of birth,SA,2014,96,20448,0.5
+Home,State and territory of birth,Tas,2014,39,5818,0.7
+Home,State and territory of birth,ACT,2014,7,6325,0.1
+Home,State and territory of birth,NT,2014,27,3924,0.7
+Other,State and territory of birth,Qld,2014,466,62799,0.7
+Other,State and territory of birth,WA,2014,0,34686,0
+Other,State and territory of birth,SA,2014,96,20448,0.5
+Other,State and territory of birth,Tas,2014,38,5818,0.7
+Other,State and territory of birth,ACT,2014,42,6325,0.7
+Other,State and territory of birth,NT,2014,51,3924,1.3
+Not stated,State and territory of birth,Qld,2014,0,62799,0
+Not stated,State and territory of birth,WA,2014,0,34686,0
+Not stated,State and territory of birth,SA,2014,0,20448,0
+Not stated,State and territory of birth,Tas,2014,0,5818,0
+Not stated,State and territory of birth,ACT,2014,0,6325,0
+Not stated,State and territory of birth,NT,2014,0,3924,0
+Hospital,Country of birth (mother),Born in Australia,2015,197177,202532,97.4
+Hospital,Country of birth (mother),Born overseas,2015,98150,100189,98
+Hospital,Country of birth (mother),Not stated,2015,1275,1547,82.4
+Birth centre,Country of birth (mother),Born in Australia,2015,3902,202532,1.9
+Birth centre,Country of birth (mother),Born overseas,2015,1570,100189,1.6
+Birth centre,Country of birth (mother),Not stated,2015,19,1547,1.2
+Home,Country of birth (mother),Born in Australia,2015,561,202532,0.3
+Home,Country of birth (mother),Born overseas,2015,127,100189,0.1
+Home,Country of birth (mother),Not stated,2015,222,1547,14.4
+Other,Country of birth (mother),Born in Australia,2015,892,202532,0.4
+Other,Country of birth (mother),Born overseas,2015,342,100189,0.3
+Other,Country of birth (mother),Not stated,2015,31,1547,2
+Not stated,Country of birth (mother),Born in Australia,2015,0,202532,0
+Not stated,Country of birth (mother),Born overseas,2015,0,100189,0
+Not stated,Country of birth (mother),Not stated,2015,0,1547,0
+Hospital,Indigenous status (mother),Indigenous,2015,12738,13017,97.9
+Hospital,Indigenous status (mother),Non-Indigenous,2015,283519,290888,97.5
+Hospital,Indigenous status (mother),Not stated,2015,345,363,95
+Birth centre,Indigenous status (mother),Indigenous,2015,135,13017,1
+Birth centre,Indigenous status (mother),Non-Indigenous,2015,5356,290888,1.8
+Birth centre,Indigenous status (mother),Not stated,2015,0,363,0
+Home,Indigenous status (mother),Indigenous,2015,5,13017,0
+Home,Indigenous status (mother),Non-Indigenous,2015,892,290888,0.3
+Home,Indigenous status (mother),Not stated,2015,13,363,3.6
+Other,Indigenous status (mother),Indigenous,2015,139,13017,1.1
+Other,Indigenous status (mother),Non-Indigenous,2015,1121,290888,0.4
+Other,Indigenous status (mother),Not stated,2015,5,363,1.4
+Not stated,Indigenous status (mother),Indigenous,2015,0,13017,0
+Not stated,Indigenous status (mother),Non-Indigenous,2015,0,290888,0
+Not stated,Indigenous status (mother),Not stated,2015,0,363,0
+Hospital,Maternal age,Less than 20,2015,8017,8203,97.7
+Hospital,Maternal age,20-24,2015,37550,38462,97.6
+Hospital,Maternal age,25-29,2015,80677,82873,97.4
+Hospital,Maternal age,30-34,2015,103917,106740,97.4
+Hospital,Maternal age,35-39,2015,53731,55066,97.6
+Hospital,Maternal age,40 and over,2015,12702,12903,98.4
+Hospital,Maternal age,Not stated,2015,8,21,0.4
+Birth centre,Maternal age,Less than 20,2015,132,8203,1.6
+Birth centre,Maternal age,20-24,2015,679,38462,1.8
+Birth centre,Maternal age,25-29,2015,1616,82873,1.9
+Birth centre,Maternal age,30-34,2015,2032,106740,1.9
+Birth centre,Maternal age,35-39,2015,917,55066,1.7
+Birth centre,Maternal age,40 and over,2015,115,12903,0.9
+Birth centre,Maternal age,Not stated,2015,0,21,0
+Home,Maternal age,20-24,2015,49,38462,0.1
+Home,Maternal age,25-29,2015,226,82873,0.3
+Home,Maternal age,30-34,2015,355,106740,0.3
+Home,Maternal age,35-39,2015,219,55066,0.4
+Home,Maternal age,Not stated,2015,13,21,0.6
+Other,Maternal age,20-24,2015,184,38462,0.5
+Other,Maternal age,25-29,2015,354,82873,0.4
+Other,Maternal age,30-34,2015,436,106740,0.4
+Other,Maternal age,35-39,2015,199,55066,0.4
+Other,Maternal age,Not stated,2015,0,21,0
+Not stated,Maternal age,Less than 20,2015,0,8203,0
+Not stated,Maternal age,20-24,2015,0,38462,0
+Not stated,Maternal age,25-29,2015,0,82873,0
+Not stated,Maternal age,30-34,2015,0,106740,0
+Not stated,Maternal age,35-39,2015,0,55066,0
+Not stated,Maternal age,40 and over,2015,0,12903,0
+Not stated,Maternal age,Not stated,2015,0,21,0
+Hospital,Parity,None,2015,128161,130537,98.2
+Hospital,Parity,One,2015,103034,106248,97
+Hospital,Parity,Two,2015,41179,42435,97
+Hospital,Parity,Three,2015,14202,14689,96.7
+Hospital,Parity,Four or more,2015,9966,10294,96.8
+Hospital,Parity,Not stated,2015,60,65,0.9
+Birth centre,Parity,None,2015,1968,130537,1.5
+Birth centre,Parity,One,2015,2294,106248,2.2
+Birth centre,Parity,Two,2015,827,42435,1.9
+Birth centre,Parity,Three,2015,265,14689,1.8
+Birth centre,Parity,Four or more,2015,137,10294,1.3
+Birth centre,Parity,Not stated,2015,0,65,0
+Home,Parity,None,2015,234,130537,0.2
+Home,Parity,One,2015,371,106248,0.3
+Home,Parity,Two,2015,178,42435,0.4
+Home,Parity,Three,2015,77,14689,0.5
+Home,Parity,Four or more,2015,45,10294,0.4
+Home,Parity,Not stated,2015,5,65,0.1
+Other,Parity,None,2015,174,130537,0.1
+Other,Parity,One,2015,549,106248,0.5
+Other,Parity,Two,2015,251,42435,0.6
+Other,Parity,Three,2015,145,14689,1
+Other,Parity,Four or more,2015,146,10294,1.4
+Other,Parity,Not stated,2015,0,65,0
+Not stated,Parity,None,2015,0,130537,0
+Not stated,Parity,One,2015,0,106248,0
+Not stated,Parity,Two,2015,0,42435,0
+Not stated,Parity,Three,2015,0,14689,0
+Not stated,Parity,Four or more,2015,0,10294,0
+Not stated,Parity,Not stated,2015,0,65,0
+Hospital,Remoteness area,Major cities,2015,213322,219258,97.3
+Hospital,Remoteness area,Inner regional,2015,48476,49453,98
+Hospital,Remoteness area,Outer regional,2015,24864,25440,97.7
+Hospital,Remoteness area,Remote,2015,4392,4453,98.6
+Hospital,Remoteness area,Very remote,2015,2874,2924,98.3
+Birth centre,Remoteness area,Major cities,2015,4549,219258,2.1
+Birth centre,Remoteness area,Inner regional,2015,538,49453,1.1
+Birth centre,Remoteness area,Outer regional,2015,359,25440,1.4
+Birth centre,Remoteness area,Remote,2015,16,4453,0.4
+Birth centre,Remoteness area,Very remote,2015,10,2924,0.3
+Home,Remoteness area,Major cities,2015,622,219258,0.3
+Home,Remoteness area,Inner regional,2015,189,49453,0.4
+Home,Remoteness area,Outer regional,2015,56,25440,0.2
+Other,Remoteness area,Major cities,2015,765,219258,0.3
+Other,Remoteness area,Inner regional,2015,251,49453,0.5
+Other,Remoteness area,Outer regional,2015,160,25440,0.6
+Not stated,Remoteness area,Major cities,2015,0,219258,0
+Not stated,Remoteness area,Inner regional,2015,0,49453,0
+Not stated,Remoteness area,Outer regional,2015,0,25440,0
+Not stated,Remoteness area,Remote,2015,0,4453,0
+Not stated,Remoteness area,Very remote,2015,0,2924,0
+Hospital,Socioeconomic status,Q1 (most disadvantaged),2015,61014,62276,98
+Hospital,Socioeconomic status,Q2,2015,58439,59918,97.5
+Hospital,Socioeconomic status,Q3,2015,58806,60463,97.3
+Hospital,Socioeconomic status,Q4,2015,60722,62323,97.4
+Hospital,Socioeconomic status,Q5 (least disadvantaged),2015,54698,56284,97.2
+Hospital,Socioeconomic status,Not stated,2015,2129,2199,96.8
+Birth centre,Socioeconomic status,Q1 (most disadvantaged),2015,825,62276,1.3
+Birth centre,Socioeconomic status,Q2,2015,1071,59918,1.8
+Birth centre,Socioeconomic status,Q3,2015,1166,60463,1.9
+Birth centre,Socioeconomic status,Q4,2015,1151,62323,1.8
+Birth centre,Socioeconomic status,Q5 (least disadvantaged),2015,1245,56284,2.2
+Birth centre,Socioeconomic status,Not stated,2015,25,2199,1.1
+Home,Socioeconomic status,Q1 (most disadvantaged),2015,114,62276,0.2
+Home,Socioeconomic status,Q2,2015,144,59918,0.2
+Home,Socioeconomic status,Q3,2015,243,60463,0.4
+Home,Socioeconomic status,Q4,2015,215,62323,0.3
+Home,Socioeconomic status,Q5 (least disadvantaged),2015,170,56284,0.3
+Home,Socioeconomic status,Not stated,2015,24,2199,1.1
+Other,Socioeconomic status,Q1 (most disadvantaged),2015,323,62276,0.5
+Other,Socioeconomic status,Q2,2015,264,59918,0.4
+Other,Socioeconomic status,Q3,2015,248,60463,0.4
+Other,Socioeconomic status,Q4,2015,235,62323,0.4
+Other,Socioeconomic status,Q5 (least disadvantaged),2015,171,56284,0.3
+Other,Socioeconomic status,Not stated,2015,21,2199,1
+Not stated,Socioeconomic status,Q1 (most disadvantaged),2015,0,62276,0
+Not stated,Socioeconomic status,Q2,2015,0,59918,0
+Not stated,Socioeconomic status,Q3,2015,0,60463,0
+Not stated,Socioeconomic status,Q4,2015,0,62323,0
+Not stated,Socioeconomic status,Q5 (least disadvantaged),2015,0,56284,0
+Not stated,Socioeconomic status,Not stated,2015,0,2199,0
+Hospital,State and territory of birth,NSW,2015,92813,94988,97.7
+Hospital,State and territory of birth,Vic,2015,77380,78134,99
+Hospital,State and territory of birth,Qld,2015,59123,60929,97
+Hospital,State and territory of birth,WA,2015,33716,34484,97.8
+Hospital,State and territory of birth,SA,2015,18490,19818,93.3
+Hospital,State and territory of birth,Tas,2015,5526,5610,98.5
+Hospital,State and territory of birth,ACT,2015,5775,6346,91
+Hospital,State and territory of birth,NT,2015,3779,3959,95.5
+Birth centre,State and territory of birth,NSW,2015,2095,94988,2.2
+Birth centre,State and territory of birth,Vic,2015,0,78134,0
+Birth centre,State and territory of birth,Qld,2015,1228,60929,2
+Birth centre,State and territory of birth,WA,2015,400,34484,1.2
+Birth centre,State and territory of birth,SA,2015,1144,19818,5.8
+Birth centre,State and territory of birth,NT,2015,97,3959,2.5
+Home,State and territory of birth,NSW,2015,80,94988,0.1
+Home,State and territory of birth,Vic,2015,358,78134,0.5
+Home,State and territory of birth,Qld,2015,115,60929,0.2
+Home,State and territory of birth,WA,2015,195,34484,0.6
+Home,State and territory of birth,SA,2015,95,19818,0.5
+Home,State and territory of birth,NT,2015,22,3959,0.6
+Other,State and territory of birth,NSW,2015,0,94988,0
+Other,State and territory of birth,Vic,2015,396,78134,0.5
+Other,State and territory of birth,Qld,2015,463,60929,0.8
+Other,State and territory of birth,WA,2015,173,34484,0.5
+Other,State and territory of birth,SA,2015,89,19818,0.4
+Other,State and territory of birth,Tas,2015,38,5610,0.7
+Other,State and territory of birth,ACT,2015,45,6346,0.7
+Other,State and territory of birth,NT,2015,61,3959,1.5
+Not stated,State and territory of birth,NSW,2015,0,94988,0
+Not stated,State and territory of birth,Vic,2015,0,78134,0
+Not stated,State and territory of birth,Qld,2015,0,60929,0
+Not stated,State and territory of birth,WA,2015,0,34484,0
+Not stated,State and territory of birth,SA,2015,0,19818,0
+Not stated,State and territory of birth,Tas,2015,0,5610,0
+Not stated,State and territory of birth,ACT,2015,0,6346,0
+Not stated,State and territory of birth,NT,2015,0,3959,0
+Hospital,Country of birth (mother),Born in Australia,2016,196544,201984,97.3
+Hospital,Country of birth (mother),Born overseas,2016,104531,106572,98.1
+Hospital,Country of birth (mother),Not stated,2016,1388,1691,82.1
+Birth centre,Country of birth (mother),Born in Australia,2016,4031,201984,2
+Birth centre,Country of birth (mother),Born overseas,2016,1566,106572,1.5
+Birth centre,Country of birth (mother),Not stated,2016,43,1691,2.5
+Home,Country of birth (mother),Born in Australia,2016,511,201984,0.3
+Home,Country of birth (mother),Born overseas,2016,172,106572,0.2
+Home,Country of birth (mother),Not stated,2016,222,1691,13.1
+Other,Country of birth (mother),Born in Australia,2016,896,201984,0.4
+Other,Country of birth (mother),Born overseas,2016,303,106572,0.3
+Other,Country of birth (mother),Not stated,2016,38,1691,2.2
+Not stated,Country of birth (mother),Born in Australia,2016,2,201984,0
+Not stated,Country of birth (mother),Born overseas,2016,0,106572,0
+Not stated,Country of birth (mother),Not stated,2016,0,1691,0
+Hospital,Indigenous status (mother),Indigenous,2016,13291,13608,97.7
+Hospital,Indigenous status (mother),Non-Indigenous,2016,288215,295629,97.5
+Hospital,Indigenous status (mother),Not stated,2016,957,1010,94.8
+Birth centre,Indigenous status (mother),Indigenous,2016,174,13608,1.3
+Birth centre,Indigenous status (mother),Non-Indigenous,2016,5462,295629,1.8
+Birth centre,Indigenous status (mother),Not stated,2016,4,1010,0.4
+Home,Indigenous status (mother),Indigenous,2016,8,13608,0.1
+Home,Indigenous status (mother),Non-Indigenous,2016,854,295629,0.3
+Home,Indigenous status (mother),Not stated,2016,43,1010,4.3
+Other,Indigenous status (mother),Indigenous,2016,135,13608,1
+Other,Indigenous status (mother),Non-Indigenous,2016,1096,295629,0.4
+Other,Indigenous status (mother),Not stated,2016,6,1010,0.6
+Not stated,Indigenous status (mother),Indigenous,2016,0,13608,0
+Not stated,Indigenous status (mother),Non-Indigenous,2016,2,295629,0
+Not stated,Indigenous status (mother),Not stated,2016,0,1010,0
+Hospital,Maternal age,Less than 20,2016,7243,7395,97.9
+Hospital,Maternal age,20-24,2016,36473,37421,97.5
+Hospital,Maternal age,25-29,2016,81488,83667,97.4
+Hospital,Maternal age,30-34,2016,108027,110946,97.4
+Hospital,Maternal age,35-39,2016,56150,57511,97.6
+Hospital,Maternal age,40 and over,2016,13050,13265,98.4
+Hospital,Maternal age,Not stated,2016,32,42,0.8
+Birth centre,Maternal age,Less than 20,2016,116,7395,1.6
+Birth centre,Maternal age,20-24,2016,717,37421,1.9
+Birth centre,Maternal age,25-29,2016,1619,83667,1.9
+Birth centre,Maternal age,30-34,2016,2139,110946,1.9
+Birth centre,Maternal age,35-39,2016,927,57511,1.6
+Birth centre,Maternal age,40 and over,2016,122,13265,0.9
+Birth centre,Maternal age,Not stated,2016,0,42,0
+Home,Maternal age,20-24,2016,42,37421,0.1
+Home,Maternal age,25-29,2016,241,83667,0.3
+Home,Maternal age,30-34,2016,337,110946,0.3
+Home,Maternal age,35-39,2016,225,57511,0.4
+Home,Maternal age,Not stated,2016,10,42,0.2
+Other,Maternal age,20-24,2016,189,37421,0.5
+Other,Maternal age,25-29,2016,318,83667,0.4
+Other,Maternal age,30-34,2016,442,110946,0.4
+Other,Maternal age,35-39,2016,209,57511,0.4
+Other,Maternal age,Not stated,2016,0,42,0
+Not stated,Maternal age,Less than 20,2016,0,7395,0
+Not stated,Maternal age,20-24,2016,0,37421,0
+Not stated,Maternal age,25-29,2016,1,83667,0
+Not stated,Maternal age,30-34,2016,1,110946,0
+Not stated,Maternal age,35-39,2016,0,57511,0
+Not stated,Maternal age,40 and over,2016,0,13265,0
+Not stated,Maternal age,Not stated,2016,0,42,0
+Hospital,Parity,None,2016,130464,132842,98.2
+Hospital,Parity,One,2016,105437,108637,97.1
+Hospital,Parity,Two,2016,41285,42648,96.8
+Hospital,Parity,Three,2016,14564,15034,96.9
+Hospital,Parity,Four or more,2016,9988,10352,96.5
+Hospital,Parity,Not stated,2016,725,734,98.8
+Birth centre,Parity,None,2016,2009,132842,1.5
+Birth centre,Parity,One,2016,2314,108637,2.1
+Birth centre,Parity,Two,2016,917,42648,2.2
+Birth centre,Parity,Three,2016,246,15034,1.6
+Birth centre,Parity,Four or more,2016,151,10352,1.5
+Birth centre,Parity,Not stated,2016,3,734,0.4
+Home,Parity,None,2016,232,132842,0.2
+Home,Parity,One,2016,357,108637,0.3
+Home,Parity,Two,2016,199,42648,0.5
+Home,Parity,Three,2016,77,15034,0.5
+Home,Parity,Four or more,2016,38,10352,0.4
+Home,Parity,Not stated,2016,2,734,0.3
+Other,Parity,None,2016,137,132842,0.1
+Other,Parity,One,2016,529,108637,0.5
+Other,Parity,Two,2016,246,42648,0.6
+Other,Parity,Three,2016,147,15034,1
+Other,Parity,Four or more,2016,175,10352,1.7
+Other,Parity,Not stated,2016,3,734,0.4
+Not stated,Parity,None,2016,0,132842,0
+Not stated,Parity,One,2016,0,108637,0
+Not stated,Parity,Two,2016,1,42648,0
+Not stated,Parity,Three,2016,0,15034,0
+Not stated,Parity,Four or more,2016,0,10352,0
+Not stated,Parity,Not stated,2016,1,734,0.1
+Hospital,Remoteness area,Major cities,2016,219840,225763,97.4
+Hospital,Remoteness area,Inner regional,2016,48799,49790,98
+Hospital,Remoteness area,Outer regional,2016,24695,25322,97.5
+Hospital,Remoteness area,Remote,2016,4443,4507,98.6
+Hospital,Remoteness area,Very remote,2016,2803,2854,98.2
+Birth centre,Remoteness area,Major cities,2016,4558,225763,2
+Birth centre,Remoteness area,Inner regional,2016,570,49790,1.1
+Birth centre,Remoteness area,Outer regional,2016,417,25322,1.6
+Birth centre,Remoteness area,Remote,2016,15,4507,0.3
+Birth centre,Remoteness area,Very remote,2016,11,2854,0.4
+Home,Remoteness area,Major cities,2016,594,225763,0.3
+Home,Remoteness area,Inner regional,2016,185,49790,0.4
+Home,Remoteness area,Outer regional,2016,55,25322,0.2
+Other,Remoteness area,Major cities,2016,772,225763,0.3
+Other,Remoteness area,Inner regional,2016,235,49790,0.5
+Other,Remoteness area,Outer regional,2016,154,25322,0.6
+Not stated,Remoteness area,Major cities,2016,0,225763,0
+Not stated,Remoteness area,Inner regional,2016,1,49790,0
+Not stated,Remoteness area,Outer regional,2016,1,25322,0
+Not stated,Remoteness area,Remote,2016,0,4507,0
+Not stated,Remoteness area,Very remote,2016,0,2854,0
+Hospital,Socioeconomic status,Q1 (most disadvantaged),2016,60714,61888,98.1
+Hospital,Socioeconomic status,Q2,2016,59059,60588,97.5
+Hospital,Socioeconomic status,Q3,2016,61578,63226,97.4
+Hospital,Socioeconomic status,Q4,2016,63002,64715,97.4
+Hospital,Socioeconomic status,Q5 (least disadvantaged),2016,56059,57648,97.2
+Hospital,Socioeconomic status,Not stated,2016,1018,1102,92.4
+Birth centre,Socioeconomic status,Q1 (most disadvantaged),2016,761,61888,1.2
+Birth centre,Socioeconomic status,Q2,2016,1153,60588,1.9
+Birth centre,Socioeconomic status,Q3,2016,1166,63226,1.8
+Birth centre,Socioeconomic status,Q4,2016,1246,64715,1.9
+Birth centre,Socioeconomic status,Q5 (least disadvantaged),2016,1244,57648,2.2
+Birth centre,Socioeconomic status,Not stated,2016,52,1102,4.7
+Home,Socioeconomic status,Q1 (most disadvantaged),2016,94,61888,0.2
+Home,Socioeconomic status,Q2,2016,135,60588,0.2
+Home,Socioeconomic status,Q3,2016,214,63226,0.3
+Home,Socioeconomic status,Q4,2016,223,64715,0.3
+Home,Socioeconomic status,Q5 (least disadvantaged),2016,182,57648,0.3
+Home,Socioeconomic status,Not stated,2016,28,1102,2.5
+Other,Socioeconomic status,Q1 (most disadvantaged),2016,318,61888,0.5
+Other,Socioeconomic status,Q2,2016,241,60588,0.4
+Other,Socioeconomic status,Q3,2016,267,63226,0.4
+Other,Socioeconomic status,Q4,2016,244,64715,0.4
+Other,Socioeconomic status,Q5 (least disadvantaged),2016,163,57648,0.3
+Other,Socioeconomic status,Not stated,2016,4,1102,0.4
+Not stated,Socioeconomic status,Q1 (most disadvantaged),2016,1,61888,0
+Not stated,Socioeconomic status,Q2,2016,0,60588,0
+Not stated,Socioeconomic status,Q3,2016,1,63226,0
+Not stated,Socioeconomic status,Q4,2016,0,64715,0
+Not stated,Socioeconomic status,Q5 (least disadvantaged),2016,0,57648,0
+Not stated,Socioeconomic status,Not stated,2016,0,1102,0
+Hospital,State and territory of birth,NSW,2016,95109,97290,97.8
+Hospital,State and territory of birth,Vic,2016,79014,79710,99.1
+Hospital,State and territory of birth,Qld,2016,59868,61858,96.8
+Hospital,State and territory of birth,WA,2016,34603,35396,97.8
+Hospital,State and territory of birth,SA,2016,18430,19758,93.3
+Hospital,State and territory of birth,Tas,2016,5750,5818,98.8
+Hospital,State and territory of birth,ACT,2016,5913,6457,91.6
+Hospital,State and territory of birth,NT,2016,3776,3960,95.4
+Birth centre,State and territory of birth,NSW,2016,2099,97290,2.2
+Birth centre,State and territory of birth,Vic,2016,0,79710,0
+Birth centre,State and territory of birth,Qld,2016,1324,61858,2.1
+Birth centre,State and territory of birth,WA,2016,467,35396,1.3
+Birth centre,State and territory of birth,SA,2016,1135,19758,5.7
+Birth centre,State and territory of birth,Tas,2016,0,5818,0
+Birth centre,State and territory of birth,ACT,2016,503,6457,7.8
+Birth centre,State and territory of birth,NT,2016,112,3960,2.8
+Home,State and territory of birth,NSW,2016,82,97290,0.1
+Home,State and territory of birth,Vic,2016,336,79710,0.4
+Home,State and territory of birth,Qld,2016,164,61858,0.3
+Home,State and territory of birth,WA,2016,169,35396,0.5
+Home,State and territory of birth,SA,2016,89,19758,0.5
+Home,State and territory of birth,NT,2016,22,3960,0.6
+Other,State and territory of birth,NSW,2016,0,97290,0
+Other,State and territory of birth,Vic,2016,358,79710,0.4
+Other,State and territory of birth,Qld,2016,502,61858,0.8
+Other,State and territory of birth,WA,2016,157,35396,0.4
+Other,State and territory of birth,SA,2016,104,19758,0.5
+Other,State and territory of birth,NT,2016,50,3960,1.3
+Not stated,State and territory of birth,NSW,2016,0,97290,0
+Not stated,State and territory of birth,Vic,2016,2,79710,0
+Not stated,State and territory of birth,Qld,2016,0,61858,0
+Not stated,State and territory of birth,WA,2016,0,35396,0
+Not stated,State and territory of birth,SA,2016,0,19758,0
+Not stated,State and territory of birth,Tas,2016,0,5818,0
+Not stated,State and territory of birth,ACT,2016,0,6457,0
+Not stated,State and territory of birth,NT,2016,0,3960,0
+Hospital,Country of birth (mother),Born in Australia,2017,187034,194012,96.4
+Hospital,Country of birth (mother),Born overseas,2017,102982,105767,97.4
+Hospital,Country of birth (mother),Not stated,2017,1036,1316,78.7
+Birth centre,Country of birth (mother),Born in Australia,2017,5078,194012,2.6
+Birth centre,Country of birth (mother),Born overseas,2017,2139,105767,2
+Birth centre,Country of birth (mother),Not stated,2017,30,1316,2.3
+Home,Country of birth (mother),Born in Australia,2017,467,194012,0.2
+Home,Country of birth (mother),Born overseas,2017,115,105767,0.1
+Home,Country of birth (mother),Not stated,2017,224,1316,17
+Other,Country of birth (mother),Born in Australia,2017,1420,194012,0.7
+Other,Country of birth (mother),Born overseas,2017,529,105767,0.5
+Other,Country of birth (mother),Not stated,2017,25,1316,1.9
+Not stated,Country of birth (mother),Born in Australia,2017,13,194012,0
+Not stated,Country of birth (mother),Born overseas,2017,2,105767,0
+Not stated,Country of birth (mother),Not stated,2017,1,1316,0.1
+Hospital,Indigenous status (mother),Indigenous,2017,13015,13551,96
+Hospital,Indigenous status (mother),Non-Indigenous,2017,277289,286762,96.7
+Hospital,Indigenous status (mother),Not stated,2017,748,782,95.7
+Birth centre,Indigenous status (mother),Indigenous,2017,338,13551,2.5
+Birth centre,Indigenous status (mother),Non-Indigenous,2017,6903,286762,2.4
+Birth centre,Indigenous status (mother),Not stated,2017,6,782,0.8
+Home,Indigenous status (mother),Indigenous,2017,7,13551,0.1
+Home,Indigenous status (mother),Non-Indigenous,2017,781,286762,0.3
+Home,Indigenous status (mother),Not stated,2017,18,782,2.3
+Other,Indigenous status (mother),Indigenous,2017,191,13551,1.4
+Other,Indigenous status (mother),Non-Indigenous,2017,1773,286762,0.6
+Other,Indigenous status (mother),Not stated,2017,10,782,1.3
+Not stated,Indigenous status (mother),Indigenous,2017,0,13551,0
+Not stated,Indigenous status (mother),Non-Indigenous,2017,16,286762,0
+Not stated,Indigenous status (mother),Not stated,2017,0,782,0
+Hospital,Maternal age,Less than 20,2017,6456,6677,96.7
+Hospital,Maternal age,20-24,2017,33687,34942,96.4
+Hospital,Maternal age,25-29,2017,78055,80895,96.5
+Hospital,Maternal age,30-34,2017,103507,107122,96.6
+Hospital,Maternal age,35-39,2017,56603,58411,96.9
+Hospital,Maternal age,40 and over,2017,12722,13020,97.7
+Hospital,Maternal age,Not stated,2017,22,28,0.8
+Birth centre,Maternal age,Less than 20,2017,161,6677,2.4
+Birth centre,Maternal age,20-24,2017,942,34942,2.7
+Birth centre,Maternal age,25-29,2017,2112,80895,2.6
+Birth centre,Maternal age,30-34,2017,2585,107122,2.4
+Birth centre,Maternal age,35-39,2017,1253,58411,2.1
+Birth centre,Maternal age,40 and over,2017,194,13020,1.5
+Birth centre,Maternal age,Not stated,2017,0,28,0
+Home,Maternal age,Less than 20,2017,8,6677,0.1
+Home,Maternal age,20-24,2017,46,34942,0.1
+Home,Maternal age,25-29,2017,192,80895,0.2
+Home,Maternal age,30-34,2017,329,107122,0.3
+Home,Maternal age,35-39,2017,196,58411,0.3
+Home,Maternal age,40 and over,2017,31,13020,0.2
+Home,Maternal age,Not stated,2017,4,28,0.1
+Other,Maternal age,Less than 20,2017,52,6677,0.8
+Other,Maternal age,20-24,2017,267,34942,0.8
+Other,Maternal age,25-29,2017,529,80895,0.7
+Other,Maternal age,30-34,2017,696,107122,0.6
+Other,Maternal age,35-39,2017,355,58411,0.6
+Other,Maternal age,40 and over,2017,73,13020,0.6
+Other,Maternal age,Not stated,2017,2,28,0.1
+Not stated,Maternal age,Less than 20,2017,0,6677,0
+Not stated,Maternal age,20-24,2017,0,34942,0
+Not stated,Maternal age,25-29,2017,7,80895,0
+Not stated,Maternal age,30-34,2017,5,107122,0
+Not stated,Maternal age,35-39,2017,4,58411,0
+Not stated,Maternal age,40 and over,2017,0,13020,0
+Not stated,Maternal age,Not stated,2017,0,28,0
+Hospital,Parity,None,2017,124226,127344,97.6
+Hospital,Parity,One,2017,101754,105775,96.2
+Hospital,Parity,Two,2017,40655,42415,95.9
+Hospital,Parity,Three,2017,13992,14624,95.7
+Hospital,Parity,Four or more,2017,9619,10091,95.3
+Hospital,Parity,Not stated,2017,806,846,95.3
+Birth centre,Parity,None,2017,2627,127344,2.1
+Birth centre,Parity,One,2017,2806,105775,2.7
+Birth centre,Parity,Two,2017,1219,42415,2.9
+Birth centre,Parity,Three,2017,359,14624,2.5
+Birth centre,Parity,Four or more,2017,221,10091,2.2
+Birth centre,Parity,Not stated,2017,15,846,1.8
+Home,Parity,None,2017,203,127344,0.2
+Home,Parity,One,2017,328,105775,0.3
+Home,Parity,Two,2017,170,42415,0.4
+Home,Parity,Three,2017,63,14624,0.4
+Home,Parity,Four or more,2017,34,10091,0.3
+Home,Parity,Not stated,2017,8,846,0.9
+Other,Parity,None,2017,288,127344,0.2
+Other,Parity,One,2017,877,105775,0.8
+Other,Parity,Two,2017,367,42415,0.9
+Other,Parity,Three,2017,208,14624,1.4
+Other,Parity,Four or more,2017,217,10091,2.2
+Other,Parity,Not stated,2017,17,846,2
+Not stated,Parity,None,2017,0,127344,0
+Not stated,Parity,One,2017,10,105775,0
+Not stated,Parity,Two,2017,4,42415,0
+Not stated,Parity,Three,2017,2,14624,0
+Not stated,Parity,Four or more,2017,0,10091,0
+Not stated,Parity,Not stated,2017,0,846,0
+Hospital,Remoteness area,Major cities,2017,209546,216928,96.6
+Hospital,Remoteness area,Inner regional,2017,46499,47921,97
+Hospital,Remoteness area,Outer regional,2017,23449,24349,96.3
+Hospital,Remoteness area,Remote,2017,4575,4663,98.1
+Hospital,Remoteness area,Very remote,2017,2853,2910,98.1
+Birth centre,Remoteness area,Major cities,2017,5550,216928,2.6
+Birth centre,Remoteness area,Inner regional,2017,882,47921,1.8
+Birth centre,Remoteness area,Outer regional,2017,639,24349,2.6
+Birth centre,Remoteness area,Remote,2017,42,4663,0.9
+Birth centre,Remoteness area,Very remote,2017,13,2910,0.4
+Home,Remoteness area,Major cities,2017,529,216928,0.2
+Home,Remoteness area,Inner regional,2017,163,47921,0.3
+Home,Remoteness area,Outer regional,2017,65,24349,0.3
+Home,Remoteness area,Remote,2017,13,4663,0.3
+Home,Remoteness area,Very remote,2017,0,2910,0
+Other,Remoteness area,Major cities,2017,1303,216928,0.6
+Other,Remoteness area,Inner regional,2017,362,47921,0.8
+Other,Remoteness area,Outer regional,2017,196,24349,0.8
+Other,Remoteness area,Remote,2017,33,4663,0.7
+Other,Remoteness area,Very remote,2017,43,2910,1.5
+Not stated,Remoteness area,Major cities,2017,1,216928,0
+Not stated,Remoteness area,Inner regional,2017,14,47921,0
+Not stated,Remoteness area,Outer regional,2017,1,24349,0
+Not stated,Remoteness area,Remote,2017,0,4663,0
+Not stated,Remoteness area,Very remote,2017,0,2910,0
+Hospital,Socioeconomic status,Q1 (most disadvantaged),2017,58325,60265,96.8
+Hospital,Socioeconomic status,Q2,2017,55032,57016,96.5
+Hospital,Socioeconomic status,Q3,2017,63037,65258,96.6
+Hospital,Socioeconomic status,Q4,2017,58594,60488,96.9
+Hospital,Socioeconomic status,Q5 (least disadvantaged),2017,51654,53460,96.6
+Hospital,Socioeconomic status,Not stated,2017,3325,3488,95.3
+Birth centre,Socioeconomic status,Q1 (most disadvantaged),2017,1326,60265,2.2
+Birth centre,Socioeconomic status,Q2,2017,1426,57016,2.5
+Birth centre,Socioeconomic status,Q3,2017,1590,65258,2.4
+Birth centre,Socioeconomic status,Q4,2017,1403,60488,2.3
+Birth centre,Socioeconomic status,Q5 (least disadvantaged),2017,1378,53460,2.6
+Birth centre,Socioeconomic status,Not stated,2017,110,3488,3.2
+Home,Socioeconomic status,Q1 (most disadvantaged),2017,99,60265,0.2
+Home,Socioeconomic status,Q2,2017,126,57016,0.2
+Home,Socioeconomic status,Q3,2017,200,65258,0.3
+Home,Socioeconomic status,Q4,2017,186,60488,0.3
+Home,Socioeconomic status,Q5 (least disadvantaged),2017,158,53460,0.3
+Home,Socioeconomic status,Not stated,2017,26,3488,0.7
+Other,Socioeconomic status,Q1 (most disadvantaged),2017,513,60265,0.9
+Other,Socioeconomic status,Q2,2017,426,57016,0.7
+Other,Socioeconomic status,Q3,2017,423,65258,0.6
+Other,Socioeconomic status,Q4,2017,305,60488,0.5
+Other,Socioeconomic status,Q5 (least disadvantaged),2017,270,53460,0.5
+Other,Socioeconomic status,Not stated,2017,27,3488,0.8
+Not stated,Socioeconomic status,Q1 (most disadvantaged),2017,2,60265,0
+Not stated,Socioeconomic status,Q2,2017,6,57016,0
+Not stated,Socioeconomic status,Q3,2017,8,65258,0
+Not stated,Socioeconomic status,Q4,2017,0,60488,0
+Not stated,Socioeconomic status,Q5 (least disadvantaged),2017,0,53460,0
+Not stated,Socioeconomic status,Not stated,2017,0,3488,0
+Hospital,State and territory of birth,NSW,2017,89872,94434,95.2
+Hospital,State and territory of birth,Vic,2017,77961,78584,99.2
+Hospital,State and territory of birth,Qld,2017,57478,59387,96.8
+Hospital,State and territory of birth,WA,2017,33127,34016,97.4
+Hospital,State and territory of birth,SA,2017,17922,19195,93.4
+Hospital,State and territory of birth,Tas,2017,5416,5496,98.5
+Hospital,State and territory of birth,ACT,2017,5671,6185,91.7
+Hospital,State and territory of birth,NT,2017,3605,3798,94.9
+Birth centre,State and territory of birth,NSW,2017,3816,94434,4
+Birth centre,State and territory of birth,Vic,2017,0,78584,0
+Birth centre,State and territory of birth,Qld,2017,1266,59387,2.1
+Birth centre,State and territory of birth,WA,2017,513,34016,1.5
+Birth centre,State and territory of birth,SA,2017,1081,19195,5.6
+Birth centre,State and territory of birth,Tas,2017,0,5496,0
+Birth centre,State and territory of birth,ACT,2017,467,6185,7.6
+Birth centre,State and territory of birth,NT,2017,104,3798,2.7
+Home,State and territory of birth,NSW,2017,19,94434,0
+Home,State and territory of birth,Vic,2017,246,78584,0.3
+Home,State and territory of birth,Qld,2017,163,59387,0.3
+Home,State and territory of birth,WA,2017,207,34016,0.6
+Home,State and territory of birth,SA,2017,73,19195,0.4
+Home,State and territory of birth,Tas,2017,52,5496,0.9
+Home,State and territory of birth,ACT,2017,12,6185,0.2
+Home,State and territory of birth,NT,2017,34,3798,0.9
+Other,State and territory of birth,NSW,2017,727,94434,0.8
+Other,State and territory of birth,Vic,2017,377,78584,0.5
+Other,State and territory of birth,Qld,2017,479,59387,0.8
+Other,State and territory of birth,WA,2017,154,34016,0.5
+Other,State and territory of birth,SA,2017,119,19195,0.6
+Other,State and territory of birth,Tas,2017,28,5496,0.5
+Other,State and territory of birth,ACT,2017,35,6185,0.6
+Other,State and territory of birth,NT,2017,55,3798,1.4
+Not stated,State and territory of birth,NSW,2017,0,94434,0
+Not stated,State and territory of birth,Vic,2017,0,78584,0
+Not stated,State and territory of birth,Qld,2017,1,59387,0
+Not stated,State and territory of birth,WA,2017,15,34016,0
+Not stated,State and territory of birth,SA,2017,0,19195,0
+Not stated,State and territory of birth,Tas,2017,0,5496,0
+Not stated,State and territory of birth,ACT,2017,0,6185,0
+Not stated,State and territory of birth,NT,2017,0,3798,0
+Hospital,Country of birth (mother),Born in Australia,2018,184638,192172,96.1
+Hospital,Country of birth (mother),Born overseas,2018,102141,105383,96.9
+Hospital,Country of birth (mother),Not stated,2018,810,1075,75.3
+Birth centre,Country of birth (mother),Born in Australia,2018,5631,192172,2.9
+Birth centre,Country of birth (mother),Born overseas,2018,2552,105383,2.4
+Birth centre,Country of birth (mother),Not stated,2018,26,1075,2.4
+Home,Country of birth (mother),Born in Australia,2018,602,192172,0.3
+Home,Country of birth (mother),Born overseas,2018,148,105383,0.1
+Home,Country of birth (mother),Not stated,2018,194,1075,18
+Other,Country of birth (mother),Born in Australia,2018,1295,192172,0.7
+Other,Country of birth (mother),Born overseas,2018,542,105383,0.5
+Other,Country of birth (mother),Not stated,2018,23,1075,2.1
+Not stated,Country of birth (mother),Born in Australia,2018,6,192172,0
+Not stated,Country of birth (mother),Born overseas,2018,0,105383,0
+Not stated,Country of birth (mother),Not stated,2018,22,1075,2
+Hospital,Indigenous status (mother),Indigenous,2018,13232,13754,96.2
+Hospital,Indigenous status (mother),Non-Indigenous,2018,273672,284168,96.3
+Hospital,Indigenous status (mother),Not stated,2018,685,708,96.8
+Birth centre,Indigenous status (mother),Indigenous,2018,338,13754,2.5
+Birth centre,Indigenous status (mother),Non-Indigenous,2018,7863,284168,2.8
+Birth centre,Indigenous status (mother),Not stated,2018,8,708,1.1
+Home,Indigenous status (mother),Indigenous,2018,8,13754,0.1
+Home,Indigenous status (mother),Non-Indigenous,2018,930,284168,0.3
+Home,Indigenous status (mother),Not stated,2018,6,708,0.8
+Other,Indigenous status (mother),Indigenous,2018,176,13754,1.3
+Other,Indigenous status (mother),Non-Indigenous,2018,1675,284168,0.6
+Other,Indigenous status (mother),Not stated,2018,9,708,1.3
+Not stated,Indigenous status (mother),Indigenous,2018,0,13754,0
+Not stated,Indigenous status (mother),Non-Indigenous,2018,28,284168,0
+Not stated,Indigenous status (mother),Not stated,2018,0,708,0
+Hospital,Maternal age,Less than 20,2018,5761,6014,95.8
+Hospital,Maternal age,20-24,2018,32390,33734,96
+Hospital,Maternal age,25-29,2018,75938,79091,96
+Hospital,Maternal age,30-34,2018,103512,107485,96.3
+Hospital,Maternal age,35-39,2018,57204,59196,96.6
+Hospital,Maternal age,40 and over,2018,12770,13092,97.5
+Hospital,Maternal age,Not stated,2018,14,18,0.8
+Birth centre,Maternal age,Less than 20,2018,202,6014,3.4
+Birth centre,Maternal age,20-24,2018,1040,33734,3.1
+Birth centre,Maternal age,25-29,2018,2416,79091,3.1
+Birth centre,Maternal age,30-34,2018,2946,107485,2.7
+Birth centre,Maternal age,35-39,2018,1391,59196,2.3
+Birth centre,Maternal age,40 and over,2018,214,13092,1.6
+Birth centre,Maternal age,Not stated,2018,0,18,0
+Home,Maternal age,20-24,2018,45,33734,0.1
+Home,Maternal age,25-29,2018,242,79091,0.3
+Home,Maternal age,30-34,2018,368,107485,0.3
+Home,Maternal age,35-39,2018,240,59196,0.4
+Home,Maternal age,Not stated,2018,3,18,0.2
+Other,Maternal age,Less than 20,2018,48,6014,0.8
+Other,Maternal age,20-24,2018,258,33734,0.8
+Other,Maternal age,25-29,2018,486,79091,0.6
+Other,Maternal age,30-34,2018,645,107485,0.6
+Other,Maternal age,35-39,2018,359,59196,0.6
+Other,Maternal age,40 and over,2018,63,13092,0.5
+Other,Maternal age,Not stated,2018,1,18,0.1
+Not stated,Maternal age,20-24,2018,1,33734,0
+Not stated,Maternal age,25-29,2018,9,79091,0
+Not stated,Maternal age,30-34,2018,14,107485,0
+Not stated,Maternal age,35-39,2018,2,59196,0
+Not stated,Maternal age,Not stated,2018,0,18,0
+Hospital,Parity,None,2018,123066,126605,97.2
+Hospital,Parity,One,2018,100526,104993,95.7
+Hospital,Parity,Two,2018,40516,42400,95.6
+Hospital,Parity,Three,2018,13792,14443,95.5
+Hospital,Parity,Four or more,2018,9577,10066,95.1
+Hospital,Parity,Not stated,2018,112,123,91.1
+Birth centre,Parity,None,2018,3069,126605,2.4
+Birth centre,Parity,One,2018,3170,104993,3
+Birth centre,Parity,Two,2018,1311,42400,3.1
+Birth centre,Parity,Three,2018,394,14443,2.7
+Birth centre,Parity,Four or more,2018,257,10066,2.6
+Birth centre,Parity,Not stated,2018,8,123,6.5
+Home,Parity,None,2018,228,126605,0.2
+Home,Parity,One,2018,399,104993,0.4
+Home,Parity,Two,2018,191,42400,0.5
+Home,Parity,Three,2018,80,14443,0.6
+Home,Parity,Four or more,2018,45,10066,0.4
+Home,Parity,Not stated,2018,1,123,0.8
+Other,Parity,None,2018,236,126605,0.2
+Other,Parity,One,2018,886,104993,0.8
+Other,Parity,Two,2018,376,42400,0.9
+Other,Parity,Three,2018,175,14443,1.2
+Other,Parity,Four or more,2018,185,10066,1.8
+Other,Parity,Not stated,2018,2,123,1.6
+Not stated,Parity,None,2018,6,126605,0
+Not stated,Parity,One,2018,12,104993,0
+Not stated,Parity,Two,2018,6,42400,0
+Not stated,Parity,Three,2018,2,14443,0
+Not stated,Parity,Four or more,2018,2,10066,0
+Not stated,Parity,Not stated,2018,0,123,0
+Hospital,Remoteness area,Major cities,2018,207211,215333,96.2
+Hospital,Remoteness area,Inner regional,2018,46651,48283,96.6
+Hospital,Remoteness area,Outer regional,2018,22603,23507,96.2
+Hospital,Remoteness area,Remote,2018,4077,4173,97.7
+Hospital,Remoteness area,Very remote,2018,2496,2549,97.9
+Birth centre,Remoteness area,Major cities,2018,6224,215333,2.9
+Birth centre,Remoteness area,Inner regional,2018,1059,48283,2.2
+Birth centre,Remoteness area,Outer regional,2018,689,23507,2.9
+Birth centre,Remoteness area,Remote,2018,45,4173,1.1
+Birth centre,Remoteness area,Very remote,2018,12,2549,0.5
+Home,Remoteness area,Major cities,2018,657,215333,0.3
+Home,Remoteness area,Inner regional,2018,184,48283,0.4
+Home,Remoteness area,Outer regional,2018,55,23507,0.2
+Home,Remoteness area,Remote,2018,20,4173,0.5
+Home,Remoteness area,Very remote,2018,0,2549,0
+Other,Remoteness area,Major cities,2018,1240,215333,0.6
+Other,Remoteness area,Inner regional,2018,362,48283,0.7
+Other,Remoteness area,Outer regional,2018,160,23507,0.7
+Other,Remoteness area,Remote,2018,31,4173,0.7
+Other,Remoteness area,Very remote,2018,40,2549,1.6
+Not stated,Remoteness area,Major cities,2018,1,215333,0
+Not stated,Remoteness area,Inner regional,2018,27,48283,0.1
+Not stated,Remoteness area,Outer regional,2018,0,23507,0
+Not stated,Remoteness area,Remote,2018,0,4173,0
+Not stated,Remoteness area,Very remote,2018,0,2549,0
+Hospital,Socioeconomic status,Q1 (most disadvantaged),2018,56641,58726,96.4
+Hospital,Socioeconomic status,Q2,2018,55031,57197,96.2
+Hospital,Socioeconomic status,Q3,2018,61363,63881,96.1
+Hospital,Socioeconomic status,Q4,2018,57692,59767,96.5
+Hospital,Socioeconomic status,Q5 (least disadvantaged),2018,52073,54031,96.4
+Hospital,Socioeconomic status,Not stated,2018,3540,3746,94.5
+Birth centre,Socioeconomic status,Q1 (most disadvantaged),2018,1484,58726,2.5
+Birth centre,Socioeconomic status,Q2,2018,1654,57197,2.9
+Birth centre,Socioeconomic status,Q3,2018,1855,63881,2.9
+Birth centre,Socioeconomic status,Q4,2018,1526,59767,2.6
+Birth centre,Socioeconomic status,Q5 (least disadvantaged),2018,1507,54031,2.8
+Birth centre,Socioeconomic status,Not stated,2018,170,3746,4.5
+Home,Socioeconomic status,Q1 (most disadvantaged),2018,107,58726,0.2
+Home,Socioeconomic status,Q2,2018,148,57197,0.3
+Home,Socioeconomic status,Q3,2018,223,63881,0.3
+Home,Socioeconomic status,Q4,2018,240,59767,0.4
+Home,Socioeconomic status,Q5 (least disadvantaged),2018,198,54031,0.4
+Home,Socioeconomic status,Not stated,2018,17,3746,0.5
+Other,Socioeconomic status,Q1 (most disadvantaged),2018,493,58726,0.8
+Other,Socioeconomic status,Q2,2018,361,57197,0.6
+Other,Socioeconomic status,Q3,2018,419,63881,0.7
+Other,Socioeconomic status,Q4,2018,307,59767,0.5
+Other,Socioeconomic status,Q5 (least disadvantaged),2018,252,54031,0.5
+Other,Socioeconomic status,Not stated,2018,19,3746,0.5
+Not stated,Socioeconomic status,Q1 (most disadvantaged),2018,1,58726,0
+Not stated,Socioeconomic status,Q2,2018,3,57197,0
+Not stated,Socioeconomic status,Q3,2018,21,63881,0
+Not stated,Socioeconomic status,Q4,2018,2,59767,0
+Not stated,Socioeconomic status,Q5 (least disadvantaged),2018,1,54031,0
+Not stated,Socioeconomic status,Not stated,2018,0,3746,0
+Hospital,State and territory of birth,NSW,2018,88452,94163,93.9
+Hospital,State and territory of birth,Vic,2018,77033,77733,99.1
+Hospital,State and territory of birth,Qld,2018,57725,59624,96.8
+Hospital,State and territory of birth,WA,2018,32067,32974,97.2
+Hospital,State and territory of birth,SA,2018,17943,19044,94.2
+Hospital,State and territory of birth,Tas,2018,5359,5436,98.6
+Hospital,State and territory of birth,ACT,2018,5409,5929,91.2
+Hospital,State and territory of birth,NT,2018,3601,3727,96.6
+Birth centre,State and territory of birth,NSW,2018,4936,94163,5.2
+Birth centre,State and territory of birth,Vic,2018,0,77733,0
+Birth centre,State and territory of birth,Qld,2018,1344,59624,2.3
+Birth centre,State and territory of birth,WA,2018,540,32974,1.6
+Birth centre,State and territory of birth,SA,2018,876,19044,4.6
+Birth centre,State and territory of birth,Tas,2018,0,5436,0
+Birth centre,State and territory of birth,ACT,2018,477,5929,8
+Birth centre,State and territory of birth,NT,2018,36,3727,1
+Home,State and territory of birth,NSW,2018,140,94163,0.1
+Home,State and territory of birth,Vic,2018,302,77733,0.4
+Home,State and territory of birth,Qld,2018,129,59624,0.2
+Home,State and territory of birth,WA,2018,181,32974,0.5
+Home,State and territory of birth,SA,2018,97,19044,0.5
+Home,State and territory of birth,Tas,2018,47,5436,0.9
+Home,State and territory of birth,ACT,2018,15,5929,0.3
+Home,State and territory of birth,NT,2018,33,3727,0.9
+Other,State and territory of birth,NSW,2018,629,94163,0.7
+Other,State and territory of birth,Vic,2018,398,77733,0.5
+Other,State and territory of birth,Qld,2018,426,59624,0.7
+Other,State and territory of birth,WA,2018,164,32974,0.5
+Other,State and territory of birth,SA,2018,128,19044,0.7
+Other,State and territory of birth,Tas,2018,30,5436,0.6
+Other,State and territory of birth,ACT,2018,28,5929,0.5
+Other,State and territory of birth,NT,2018,57,3727,1.5
+Not stated,State and territory of birth,NSW,2018,6,94163,0
+Not stated,State and territory of birth,Vic,2018,0,77733,0
+Not stated,State and territory of birth,Qld,2018,0,59624,0
+Not stated,State and territory of birth,WA,2018,22,32974,0.1
+Not stated,State and territory of birth,SA,2018,0,19044,0
+Not stated,State and territory of birth,Tas,2018,0,5436,0
+Not stated,State and territory of birth,ACT,2018,0,5929,0
+Not stated,State and territory of birth,NT,2018,0,3727,0
