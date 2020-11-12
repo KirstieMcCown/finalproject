@@ -1,1 +1,1 @@
-heroku-php-apache2
+web: gunicorn app:app
