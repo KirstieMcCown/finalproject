@@ -20,7 +20,7 @@ try:
 except:
     print ("No config file")
 # create connection to databse
-from flask_sqlalchemy import SQLAlchemy
+from flask-sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
 
