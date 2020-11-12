@@ -8,7 +8,7 @@ create table mothers (
 	year int,
 	count int,
 	year_total int,
-	percent_total float
+	percent_total float,
 );
 
 create table mothersbirthcountry (
@@ -61,6 +61,8 @@ create table averageage (
 create table birthstate (
 	year int,
 	topic_disaggregation varchar,
+	lat float, 
+	long float,
 	count int
 );
 
@@ -78,6 +80,26 @@ create table babies (
 	count int,
 	year_total int,
 	percent_total float
+
+);
+
+
+-- Babies Tables to Hold Data For Plots -- 
+
+create table termbabiescount (
+	index int,
+	year int,
+	babies_term varchar,
+	topic_disaggregation varchar,
+	babies_count int
+
+);
+
+create table babiessexcount (
+	index int,
+	babies_term varchar,
+	topic_disaggregation varchar,
+	babies_count int
 
 );
 
