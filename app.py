@@ -63,7 +63,7 @@ def index():
     
     return render_template("index.html")
 
-@app.route("/mothers.html")
+@app.route("/#mothers.html")
 def mothers():
     
     return render_template("mothers.html")
