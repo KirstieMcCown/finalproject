@@ -11,50 +11,42 @@ import json
 app = Flask(__name__)
 
 # create connection to databse
-engine = create_engine(f"postgresql://{username}:{password}@{hostname}:5432/{database}")
-connect = engine.connect()
+# engine = create_engine(f"postgresql://{username}:{password}@{hostname}:5432/{database}")
+# connect = engine.connect()
 
 # Data Routes
 
-@app.route("/yearcount")
-def yearcount():
+# @app.route("/yearcount")
+# def yearcount():
     
-    data = pd.read_sql("select * from yearcount", connect)
-    # print(data)
-    datatojson = data.to_json(orient = "records")
-    parsed = json.loads(datatojson)
-    returnjson = json.dumps(parsed, indent=4)
-    return returnjson
+#     data = pd.read_sql("select * from yearcount", connect)
+#     # print(data)
+#     datatojson = data.to_json(orient = "records")
+#     parsed = json.loads(datatojson)
+#     returnjson = json.dumps(parsed, indent=4)
+#     return returnjson
 
 
-@app.route("/averageage")
-def averageage():
+# @app.route("/averageage")
+# def averageage():
     
-    data = pd.read_sql("select * from averageage", connect)
-    # print(data)
-    datatojson = data.to_json(orient = "records")
-    parsed = json.loads(datatojson)
-    returnjson = json.dumps(parsed, indent=4)
-    return returnjson
+#     data = pd.read_sql("select * from averageage", connect)
+#     # print(data)
+#     datatojson = data.to_json(orient = "records")
+#     parsed = json.loads(datatojson)
+#     returnjson = json.dumps(parsed, indent=4)
+#     return returnjson
 
 
-@app.route("/birthstate")
-def birthstate():
+# @app.route("/birthstate")
+# def birthstate():
     
-    data = pd.read_sql("select * from birthstate", connect)
-    # print(data)
-    datatojson = data.to_json(orient = "records")
-    parsed = json.loads(datatojson)
-    returnjson = json.dumps(parsed, indent=4)
-    return returnjson
-
-
-
-
-
-
-
-
+#     data = pd.read_sql("select * from birthstate", connect)
+#     # print(data)
+#     datatojson = data.to_json(orient = "records")
+#     parsed = json.loads(datatojson)
+#     returnjson = json.dumps(parsed, indent=4)
+#     return returnjson
 
 
 

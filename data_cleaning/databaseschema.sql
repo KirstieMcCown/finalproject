@@ -103,6 +103,16 @@ create table babiessexcount (
 
 );
 
+-- Babies birth state table 
+
+create table babiesbirthstate (
+	year int,
+	topic_disaggregation varchar,
+	lat float, 
+	long float,
+	count int
+);
+
 -- Adoption Tables to Hold All Clean Data -- 
 
 create table numberchildrenadopted (

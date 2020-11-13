@@ -90,9 +90,9 @@ var year2018;
 
 
 // Load in data
-d3.json("/birthstate").then(datafromdb => {
-  data = datafromdb
+d3.csv("static/js/birthstate.csv").then(function(data) {
   // console.log(data);
+  data = data
   state = data[0].topic_disaggregation
   // console.log(state)
 
