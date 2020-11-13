@@ -29,9 +29,9 @@ from sqlalchemy import create_engine
 
 Base = automap_base()
 
-DB_URI = app.config['SQLALCHEMY_DATABASE_URI']
+
 # Create the engine
-engine = create_engine(DB_URI)
+engine = create_engine()
 
 # Create session
 session = Session(engine)
