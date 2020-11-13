@@ -25,7 +25,7 @@ Base = automap_base()
 # reflect the tables
 Base.prepare(engine, reflect=True)
 
-mapped classes are now created with names by default matching that of the table name.
+# mapped classes are now created with names by default matching that of the table name.
 yearCount = Base.classes.yearcount
 
 app = Flask(__name__)
