@@ -8,13 +8,13 @@ from flask import (
     redirect)
 
 
-# try:
-#     from config import username
-#     from config import password
-#     from config import database
-#     from config import hostname
-# except:
-#     print("No config file")
+try:
+    from config import username
+    from config import password
+    from config import database
+    from config import hostname
+except:
+    print("No config file")
 
 
 
@@ -46,12 +46,11 @@ yearcount = Base.classes.yearcount
 # Birthstate = Base.classes.birthstate
 # Termbabiescount = Base.classes.termbabiescount
 # Babiessexcount = Base.classes.babiessexcount
-
+adoptionbyageandgender = Base.classes.adoptionbyageandgender
 
 
 # App config & DB URL
-app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '')
-# or (f"postgresql://{username}:{password}@{hostname}:5432/{database}")
+app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or (f"postgresql://{username}:{password}@{hostname}:5432/{database}")
 
 # Remove tracking modifications
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
@@ -92,6 +91,13 @@ db = SQLAlchemy(app)
     
 #     results = db.session.query(Babiessexcount).all()
 #     return jsonify(results)
+
+
+@app.route("/adoptionbyageandgender", methods=["GET", "POST"])
+def adoptionbyageandgender():
+    
+    results = db.session.query(adoptionbyageandgender).all()
+    return jsonify(results)
 
 
 
