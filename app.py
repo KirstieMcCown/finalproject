@@ -30,7 +30,7 @@ from sqlalchemy import create_engine
 Base = automap_base()
 
 # Create the engine
-engine = create_engine('project.cdgek8t95yas.ap-southeast-2.rds.amazonaws.com')
+engine = create_engine("project.cdgek8t95yas.ap-southeast-2.rds.amazonaws.com")
 
 # Create session
 session = Session(engine)
