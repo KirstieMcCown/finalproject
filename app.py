@@ -19,7 +19,7 @@ from sqlalchemy.orm import Session
 from sqlalchemy import create_engine
 
 # Create the engine
-engine = create_engine("postgresql://master:HJC2019DKSTDH@project.cdgek8t95yas.ap-southeast-2.rds.amazonaws.com:5432/mothersandbabies")
+engine = create_engine("postgresql:///mothersandbabies.db")
 
 # Create session
 session = Session(engine)
