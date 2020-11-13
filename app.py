@@ -1,3 +1,8 @@
+class Config(object):
+    ...
+    SQLALCHEMY_DATABASE_URI = os.environ['DATABASE_URL']
+
+
 # Import requirements
 import os
 from flask import (
@@ -7,15 +12,17 @@ from flask import (
     request)
 
 
-app = Flask(__name__)
-
-
 # create connection to databse
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine
 
+
+
+
+app = Flask(__name__)
+app.config.from_object(os.environ['APP_SETTINGS'])
 
 # Create the engine
 engine = create_engine("postgresql://master:HJC2019DKSTDH@project.cdgek8t95yas.ap-southeast-2.rds.amazonaws.com:5432/mothersandbabies")
@@ -32,7 +39,7 @@ Base.prepare(engine, reflect=True)
 yearCount = Base.classes.yearcount
 
 # App config & DB URL
-app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or ("postgresql:///mothersandbabies")
+# app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or ("postgresql:///mothersandbabies")
 
 # SQLALCHEMY_DATABASE_URI = os.environ.get('DATABASE_URL', '') or ("postgres://fajrsjljuyknwp:9c8f96a71116dcef2ff1f166542724869d8490f7d7e7e52e299b57ae5c5ac133@ec2-34-237-166-54.compute-1.amazonaws.com:5432/dfnqlpg5f66n80")
 
