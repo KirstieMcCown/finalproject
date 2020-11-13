@@ -1,6 +1,6 @@
-class Config(object):
-    ...
-    SQLALCHEMY_DATABASE_URI = os.environ['DATABASE_URL']
+# class Config(object):
+#     ...
+#     SQLALCHEMY_DATABASE_URI = os.environ['DATABASE_URL']
 
 
 # Import requirements
