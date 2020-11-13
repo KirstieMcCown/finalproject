@@ -41,7 +41,7 @@ Base.prepare(engine, reflect=True)
 
 # mapped classes are now created with names by default
 # matching that of the table name.
-yearcount = Base.classes.yearcount
+yearCount = Base.classes.yearcount
 # Averageage = Base.classes.averageage
 # Birthstate = Base.classes.birthstate
 # Termbabiescount = Base.classes.termbabiescount
@@ -63,7 +63,7 @@ db = SQLAlchemy(app)
 @app.route("/yearcount", methods=["GET", "POST"])
 def yearcount():
 
-    results = db.session.query(yearcount).all()
+    results = db.session.query(yearCount).all()
     return jsonify(results)
 
 
