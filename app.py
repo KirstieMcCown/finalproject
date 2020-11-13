@@ -46,7 +46,7 @@ yearcount = Base.classes.yearcount
 # Birthstate = Base.classes.birthstate
 # Termbabiescount = Base.classes.termbabiescount
 # Babiessexcount = Base.classes.babiessexcount
-adoptionbyageandgender = Base.classes.adoptionbyageandgender
+# adoptionbyageandgender = Base.classes.adoptionbyageandgender
 
 
 # App config & DB URL
@@ -93,11 +93,11 @@ def yearcount():
 #     return jsonify(results)
 
 
-@app.route("/adoptionbyageandgender", methods=["GET", "POST"])
-def adoptionbyageandgender():
+# @app.route("/adoptionbyageandgender", methods=["GET", "POST"])
+# def adoptionbyageandgender():
     
-    results = db.session.query(adoptionbyageandgender).all()
-    return jsonify(results)
+#     results = db.session.query(adoptionbyageandgender).all()
+#     return jsonify(results)
 
 
 
