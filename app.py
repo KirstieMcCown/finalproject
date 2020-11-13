@@ -16,17 +16,17 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine
 
-Base = automap_base()
+# Base = automap_base()
 
 
 # Create the engine
-engine = create_engine("postgresql://master:HJC2019DKSTDH@project.cdgek8t95yas.ap-southeast-2.rds.amazonaws.com:5432/mothersandbabies")
+# engine = create_engine("postgresql://master:HJC2019DKSTDH@project.cdgek8t95yas.ap-southeast-2.rds.amazonaws.com:5432/mothersandbabies")
 
-# Create session
-session = Session(engine)
+# # Create session
+# session = Session(engine)
 
-# reflect the tables
-Base.prepare(engine, reflect=True)
+# # reflect the tables
+# Base.prepare(engine, reflect=True)
 
 # mapped classes are now created with names by default matching that of the table name.
 # yearCount = Base.classes.yearcount
