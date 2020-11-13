@@ -41,7 +41,7 @@ Base.prepare(engine, reflect=True)
 
 # mapped classes are now created with names by default
 # matching that of the table name.
-# Yearcount = Base.classes.yearcount
+yearcount = Base.classes.yearcount
 # Averageage = Base.classes.averageage
 # Birthstate = Base.classes.birthstate
 # Termbabiescount = Base.classes.termbabiescount
