@@ -14,11 +14,15 @@ try:
     from config import database
     from config import hostname
 except:
-    print ("No config file")
+    print("No config file")
+    
 # create connection to databse
 from flask_sqlalchemy import SQLAlchemy
-import pandas as pd
-import json
+# import pandas as pd
+# import json
+from sqlalchemy.orm import Session
+session = Session(engine)
+
 
 app = Flask(__name__)
 
@@ -35,15 +39,17 @@ db = SQLAlchemy(app)
 
 # # Data Routes
 
-# @app.route("/yearcount")
-# def yearcount():
-    
-#     data = pd.read_sql("select * from yearcount")
-#     # print(data)
-#     datatojson = data.to_json(orient = "records")
-#     parsed = json.loads(datatojson)
-#     returnjson = json.dumps(parsed, indent=4)
-#     return returnjson
+@app.route("/yearcount", methods=["GET", "POST"])
+def yearcount():
+    results = db.session.query(yearcount).all()
+    return jsonify(yearcount)
+
+    # data = pd.read_sql("select * from yearcount")
+    # # print(data)
+    # datatojson = data.to_json(orient = "records")
+    # parsed = json.loads(datatojson)
+    # returnjson = json.dumps(parsed, indent=4)
+    # return returnjson
 
 
 # @app.route("/averageage")
