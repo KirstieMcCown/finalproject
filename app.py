@@ -1,8 +1,3 @@
-# class Config(object):
-#     ...
-#     SQLALCHEMY_DATABASE_URI = os.environ['DATABASE_URL']
-
-
 # Import requirements
 import os
 from flask import (
@@ -13,31 +8,33 @@ from flask import (
 
 
 # create connection to databse
-from flask_sqlalchemy import SQLAlchemy
-from sqlalchemy.ext.automap import automap_base
-from sqlalchemy.orm import Session
-from sqlalchemy import create_engine
+# from flask_sqlalchemy import SQLAlchemy
+# from sqlalchemy.ext.automap import automap_base
+# from sqlalchemy.orm import Session
+# from sqlalchemy import create_engine
 
-# Create the engine
-engine = create_engine("postgresql:///mothersandbabies.db", pool_pre_ping=True)
+# # Create the engine
+# engine = create_engine("postgresql:///mothersandbabies.db", pool_pre_ping=True)
 
-# Create session
-session = Session(engine)
+# # Create session
+# session = Session(engine)
+# connection = engine.connect()
 
-Base = automap_base()
 
-# reflect the tables
-Base.prepare(engine, reflect=True)
+# Base = automap_base()
+
+# # reflect the tables
+# Base.prepare(engine, reflect=True)
 
 # mapped classes are now created with names by default matching that of the table name.
-yearCount = Base.classes.yearcount
+# yearCount = Base.classes.yearcount
 
 app = Flask(__name__)
 
 # Remove tracking modifications
-app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+# app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
-db = SQLAlchemy(app)
+# db = SQLAlchemy(app)
 
 # app.config.from_object(os.environ['APP_SETTINGS'])
 
@@ -57,10 +54,55 @@ db = SQLAlchemy(app)
 
 @app.route("/yearcount")
 def yearcount():
+    
+    data = pd.read_sql("select * from yearcount")
+    # print(data)
+    datatojson = data.to_json(orient = "records")
+    parsed = json.loads(datatojson)
+    returnjson = json.dumps(parsed, indent=4)
+    return returnjson
 
-    results = db.session.query(yearCount).all()
-    return jsonify(results)
 
+@app.route("/averageage")
+def averageage():
+    
+    data = pd.read_sql("select * from averageage")
+    # print(data)
+    datatojson = data.to_json(orient = "records")
+    parsed = json.loads(datatojson)
+    returnjson = json.dumps(parsed, indent=4)
+    return returnjson
+
+
+@app.route("/birthstate")
+def birthstate():
+    
+    data = pd.read_sql("select * from birthstate")
+    # print(data)
+    datatojson = data.to_json(orient = "records")
+    parsed = json.loads(datatojson)
+    returnjson = json.dumps(parsed, indent=4)
+    return returnjson
+
+@app.route("/termbabiescount")
+def termbabiescount():
+    
+    data = pd.read_sql("select * from termbabiescount")
+    # print(data)
+    datatojson = data.to_json(orient = "records")
+    parsed = json.loads(datatojson)
+    returnjson = json.dumps(parsed, indent=4)
+    return returnjson
+
+@app.route("/babiessexcount")
+def babiessexcount():
+    
+    data = pd.read_sql("select * from babiessexcount")
+    # print(data)
+    datatojson = data.to_json(orient = "split")
+    parsed = json.loads(datatojson)
+    returnjson = json.dumps(parsed, indent=4)
+    return returnjson
 
 
 # HTML Page Routes
