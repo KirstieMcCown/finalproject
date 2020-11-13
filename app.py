@@ -19,7 +19,7 @@ from sqlalchemy.orm import Session
 from sqlalchemy import create_engine
 
 # Create the engine
-engine = create_engine("postgresql:///mothersandbabies.db")
+engine = create_engine("postgresql:///mothersandbabies.db", pool_pre_ping=True)
 
 # Create session
 session = Session(engine)
