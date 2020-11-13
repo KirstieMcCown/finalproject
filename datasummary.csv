@@ -1,8 +1,3 @@
-Use ,File Name(s),Source,Data Use
-Leaflet Chloropleth Map,,,
-Plots,,,
-Plots,,,
-,,https://www.aihw.gov.au/reports-data/health-welfare-services/adoptions/data,Adoptions Australia 1998 - 2019
-,,https://www.aihw.gov.au/reports-data/population-groups/mothers-babies/data,Australia's Mothers and Babies 2010 - 2018
-,,https://www.arcgis.com/home/item.html?id=66e2eac498084e218dee3a8a7f625f5f,Shape File for Primary Health Network Areas Australia
-,,https://www1.health.gov.au/internet/main/publishing.nsf/Content/PHN-Digital,Shape File for Australian States
+Use ,Source,Data
+Plots,https://www.aihw.gov.au/reports-data/health-welfare-services/adoptions/data,Adoptions Australia 1998 - 2019
+Plots & Machine Learning,https://www.aihw.gov.au/reports-data/population-groups/mothers-babies/data,Australia's Mothers and Babies 2010 - 2018
