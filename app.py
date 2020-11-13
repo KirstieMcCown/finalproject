@@ -21,6 +21,8 @@ from flask_sqlalchemy import SQLAlchemy
 # import pandas as pd
 # import json
 from sqlalchemy.orm import Session
+from sqlalchemy import create_engine
+
 session = Session(engine)
 
 
