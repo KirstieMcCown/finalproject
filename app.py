@@ -1,6 +1,5 @@
 # from models import create_classes
 import os
-from app import engine
 from flask import (
     Flask,
     render_template,
@@ -23,6 +22,8 @@ from flask_sqlalchemy import SQLAlchemy
 # import json
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine
+
+engine = create_engine(DB_URI)
 
 session = Session(engine)
 
