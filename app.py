@@ -30,7 +30,7 @@ from sqlalchemy import create_engine
 Base = automap_base()
 
 # Create the engine
-engine = create_engine('postgres://fajrsjljuyknwp:9c8f96a71116dcef2ff1f166542724869d8490f7d7e7e52e299b57ae5c5ac133@ec2-34-237-166-54.compute-1.amazonaws.com:5432/dfnqlpg5f66n80')
+engine = create_engine('project.cdgek8t95yas.ap-southeast-2.rds.amazonaws.com')
 
 # Create session
 session = Session(engine)
@@ -40,7 +40,7 @@ Base.prepare(engine, reflect=True)
 
 # mapped classes are now created with names by default
 # matching that of the table name.
-Yearcount = Base.classes.yearcount
+yearcount = Base.classes.yearcount
 Averageage = Base.classes.averageage
 Birthstate = Base.classes.birthstate
 Termbabiescount = Base.classes.termbabiescount
