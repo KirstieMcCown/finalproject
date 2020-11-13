@@ -64,7 +64,7 @@ db = SQLAlchemy(app)
 def yearcount():
 
     results = db.session.query(yearCount).all()
-    return jsonify(results)
+    return Response(generate(), jsonify(results))
 
 
 # @app.route("/averageage", methods=["GET", "POST"])
