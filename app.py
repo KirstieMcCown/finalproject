@@ -31,7 +31,7 @@ Base = automap_base()
 
 
 # Create the engine
-engine = create_engine()
+engine = create_engine(SQLALCHEMY_DATABASE_URI)
 
 # Create session
 session = Session(engine)
