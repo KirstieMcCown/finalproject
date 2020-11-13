@@ -76,19 +76,19 @@ def averageage():
 @app.route("/birthstate", methods=["GET", "POST"])
 def birthstate():
     
-      results = db.session.query(birthstate).all()
+    results = db.session.query(birthstate).all()
     return jsonify(results)
 
 @app.route("/termbabiescount", methods=["GET", "POST"])
 def termbabiescount():
     
-      results = db.session.query(termbabiescount).all()
+    results = db.session.query(termbabiescount).all()
     return jsonify(results)
 
 @app.route("/babiessexcount", methods=["GET", "POST"])
 def babiessexcount():
     
-      results = db.session.query(babiessexcount).all()
+    results = db.session.query(babiessexcount).all()
     return jsonify(results)
 
 
