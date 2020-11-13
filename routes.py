@@ -1,3 +1,4 @@
+import app
 # # Data Routes
 
 @app.route("/yearcount", methods=["GET", "POST"])

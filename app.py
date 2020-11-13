@@ -8,13 +8,13 @@ from flask import (
     redirect)
 
 
-try:
-    from config import username
-    from config import password
-    from config import database
-    from config import hostname
-except:
-    print("No config file")
+# try:
+#     from config import username
+#     from config import password
+#     from config import database
+#     from config import hostname
+# except:
+#     print("No config file")
 
 
 
@@ -50,7 +50,7 @@ yearCount = Base.classes.yearcount
 
 
 # App config & DB URL
-app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or (f"postgresql://{username}:{password}@{hostname}:5432/{database}")
+app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or ("postgresql://master:HJC2019DKSTDH@project.cdgek8t95yas.ap-southeast-2.rds.amazonaws.com:5432/mothersandbabies")
 
 # Remove tracking modifications
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
