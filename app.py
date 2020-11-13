@@ -8,33 +8,37 @@ from flask import (
 
 
 # create connection to databse
-# from flask_sqlalchemy import SQLAlchemy
-# from sqlalchemy.ext.automap import automap_base
-# from sqlalchemy.orm import Session
-# from sqlalchemy import create_engine
+from flask_sqlalchemy import SQLAlchemy
+from sqlalchemy.ext.automap import automap_base
+from sqlalchemy.orm import Session
+from sqlalchemy import create_engine
 
-# # Create the engine
-# engine = create_engine("postgresql:///mothersandbabies.db", pool_pre_ping=True)
+# Create the engine
+engine = create_engine("postgresql:///mothersandbabies.db", pool_pre_ping=True)
 
-# # Create session
-# session = Session(engine)
-# connection = engine.connect()
+# Create session
+session = Session(engine)
+connection = engine.connect()
 
+Base = automap_base()
 
-# Base = automap_base()
+# reflect the tables
+Base.prepare(engine, reflect=True)
 
-# # reflect the tables
-# Base.prepare(engine, reflect=True)
-
-# mapped classes are now created with names by default matching that of the table name.
-# yearCount = Base.classes.yearcount
+mapped classes are now created with names by default matching that of the table name.
+yearCount = Base.classes.yearcount
 
 app = Flask(__name__)
 
-# Remove tracking modifications
-# app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+os.environ['DATABASE_URL'] = "postgresql://master:HJC2019DKSTDH@project.cdgek8t95yas.ap-southeast-2.rds.amazonaws.com:5432/mothersandbabies"
 
-# db = SQLAlchemy(app)
+app.config['SQLALCHEMY_DATABASE_URI'] = os.environ['DATABASE_URL']
+
+
+# Remove tracking modifications
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+
+db = SQLAlchemy(app)
 
 # app.config.from_object(os.environ['APP_SETTINGS'])
 
@@ -46,7 +50,6 @@ app = Flask(__name__)
 # app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or ("postgresql:///mothersandbabies")
 
 # SQLALCHEMY_DATABASE_URI = os.environ.get('DATABASE_URL', '') or ("postgres://fajrsjljuyknwp:9c8f96a71116dcef2ff1f166542724869d8490f7d7e7e52e299b57ae5c5ac133@ec2-34-237-166-54.compute-1.amazonaws.com:5432/dfnqlpg5f66n80")
-
 
 
 
