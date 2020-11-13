@@ -29,7 +29,7 @@ session = Session(engine)
 Base.prepare(engine, reflect=True)
 
 # mapped classes are now created with names by default matching that of the table name.
-yearCount = Base.classes.yearcount
+# yearCount = Base.classes.yearcount
 
 # App config & DB URL
 app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or ("postgresql://master:HJC2019DKSTDH@project.cdgek8t95yas.ap-southeast-2.rds.amazonaws.com:5432/mothersandbabies")
@@ -41,11 +41,11 @@ db = SQLAlchemy(app)
 
 # Data Routes
 
-@app.route("/yearcount")
-def yearcount():
+# @app.route("/yearcount")
+# def yearcount():
 
-    results = db.session.query(yearCount).all()
-    return jsonify(results)
+#     results = db.session.query(yearCount).all()
+#     return jsonify(results)
 
 
 
