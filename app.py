@@ -31,7 +31,7 @@ from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine
 
-engine = create_engine(DB_URI)
+engine = create_engine('postgres://fajrsjljuyknwp:9c8f96a71116dcef2ff1f166542724869d8490f7d7e7e52e299b57ae5c5ac133@ec2-34-237-166-54.compute-1.amazonaws.com:5432/dfnqlpg5f66n80')
 
 session = Session(engine)
 
