@@ -32,7 +32,10 @@ Base.prepare(engine, reflect=True)
 yearCount = Base.classes.yearcount
 
 # App config & DB URL
-app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or ("postgres://fajrsjljuyknwp:9c8f96a71116dcef2ff1f166542724869d8490f7d7e7e52e299b57ae5c5ac133@ec2-34-237-166-54.compute-1.amazonaws.com:5432/dfnqlpg5f66n80")
+# app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or ("postgres://fajrsjljuyknwp:9c8f96a71116dcef2ff1f166542724869d8490f7d7e7e52e299b57ae5c5ac133@ec2-34-237-166-54.compute-1.amazonaws.com:5432/dfnqlpg5f66n80")
+
+SQLALCHEMY_DATABASE_URI = os.environ.get('DATABASE_URL', '') or ("postgres://fajrsjljuyknwp:9c8f96a71116dcef2ff1f166542724869d8490f7d7e7e52e299b57ae5c5ac133@ec2-34-237-166-54.compute-1.amazonaws.com:5432/dfnqlpg5f66n80")
+
 
 # Remove tracking modifications
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
