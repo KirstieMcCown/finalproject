@@ -31,7 +31,7 @@ Base = automap_base()
 
 
 # Create the engine
-engine = create_engine("sqlite:///db/mothersandbabies.db")
+engine = create_engine("sqlite:///mothersandbabies.db")
 
 # Create session
 session = Session(engine)
