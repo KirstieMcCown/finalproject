@@ -1,4 +1,8 @@
-# from models import create_classes
+# import pandas as pd
+# import json
+
+
+from models import create_classes
 import os
 from flask import (
     Flask,
@@ -15,11 +19,15 @@ try:
     from config import hostname
 except:
     print("No config file")
-    
+
+
+
+
+app = Flask(__name__)
+
+
 # create connection to databse
 from flask_sqlalchemy import SQLAlchemy
-# import pandas as pd
-# import json
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine
 
@@ -28,16 +36,13 @@ engine = create_engine(DB_URI)
 session = Session(engine)
 
 
-app = Flask(__name__)
-
-
 app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or (f"postgresql://{username}:{password}@{hostname}:5432/{database}")
 
 # Remove tracking modifications
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 db = SQLAlchemy(app)
-Pet = create_classes(db)
+# DB = create_classes(db)
 
 
 
