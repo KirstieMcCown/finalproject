@@ -8,13 +8,13 @@ from flask import (
     redirect)
 
 
-try:
-    from config import username
-    from config import password
-    from config import database
-    from config import hostname
-except:
-    print("No config file")
+# try:
+#     from config import username
+#     from config import password
+#     from config import database
+#     from config import hostname
+# except:
+#     print("No config file")
 
 
 
@@ -30,7 +30,7 @@ from sqlalchemy import create_engine
 Base = automap_base()
 
 # Create the engine
-engine = create_engine(f"postgresql://{username}:{password}@{hostname}:5432/{database}")
+engine = create_engine('project.cdgek8t95yas.ap-southeast-2.rds.amazonaws.com')
 
 # Create session
 session = Session(engine)
@@ -49,7 +49,8 @@ Babiessexcount = Base.classes.babiessexcount
 
 
 # App config & DB URL
-app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or (f"postgresql://{username}:{password}@{hostname}:5432/{database}")
+app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '')
+# or (f"postgresql://{username}:{password}@{hostname}:5432/{database}")
 
 # Remove tracking modifications
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
