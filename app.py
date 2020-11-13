@@ -19,8 +19,6 @@ from sqlalchemy.orm import Session
 from sqlalchemy import create_engine
 
 
-
-
 app = Flask(__name__)
 app.config.from_object(os.environ['APP_SETTINGS'])
 
@@ -36,7 +34,7 @@ Base = automap_base()
 Base.prepare(engine, reflect=True)
 
 # mapped classes are now created with names by default matching that of the table name.
-yearCount = Base.classes.yearcount
+# yearCount = Base.classes.yearcount
 
 # App config & DB URL
 # app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or ("postgresql:///mothersandbabies")
@@ -51,13 +49,11 @@ db = SQLAlchemy(app)
 
 # Data Routes
 
-# from models import Result
+# @app.route("/yearcount")
+# def yearcount():
 
-@app.route("/yearcount")
-def yearcount():
-
-    results = db.session.query(yearCount).all()
-    return jsonify(results)
+#     results = db.session.query(yearCount).all()
+#     return jsonify(results)
 
 
 
