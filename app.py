@@ -31,7 +31,7 @@ Base = automap_base()
 
 
 # Create the engine
-engine = create_engine("sqlite:///mothersandbabies.db")
+engine = create_engine("postgresql://master:HJC2019DKSTDH@project.cdgek8t95yas.ap-southeast-2.rds.amazonaws.com:5432/mothersandbabies")
 
 # Create session
 session = Session(engine)
