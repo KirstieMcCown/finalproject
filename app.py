@@ -51,7 +51,7 @@ db = SQLAlchemy(app)
 @app.route("/yearcount", methods=["GET", "POST"])
 def yearcount():
     results = db.session.query(yearcount).all()
-    return jsonify(yearcount)
+    return jsonify(results)
 
     # data = pd.read_sql("select * from yearcount")
     # # print(data)
