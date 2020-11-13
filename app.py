@@ -60,11 +60,11 @@ db = SQLAlchemy(app)
 
 # # Data Routes
 
-# @app.route("/yearcount", methods=["GET", "POST"])
-# def yearcount():
+@app.route("/yearcount", methods=["GET", "POST"])
+def yearcount():
 
-#     results = db.session.query(Yearcount).all()
-#     return jsonify(results)
+    results = db.session.query(yearcount).all()
+    return jsonify(results)
 
 
 # @app.route("/averageage", methods=["GET", "POST"])
