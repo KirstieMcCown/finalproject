@@ -16,23 +16,23 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine
 
-# Base = automap_base()
 
+Create the engine
+engine = create_engine("postgresql://master:HJC2019DKSTDH@project.cdgek8t95yas.ap-southeast-2.rds.amazonaws.com:5432/mothersandbabies")
 
-# Create the engine
-# engine = create_engine("postgresql://master:HJC2019DKSTDH@project.cdgek8t95yas.ap-southeast-2.rds.amazonaws.com:5432/mothersandbabies")
+# Create session
+session = Session(engine)
 
-# # Create session
-# session = Session(engine)
+Base = automap_base()
 
-# # reflect the tables
-# Base.prepare(engine, reflect=True)
+# reflect the tables
+Base.prepare(engine, reflect=True)
 
 # mapped classes are now created with names by default matching that of the table name.
-# yearCount = Base.classes.yearcount
+yearCount = Base.classes.yearcount
 
 # App config & DB URL
-app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or ("postgresql://master:HJC2019DKSTDH@project.cdgek8t95yas.ap-southeast-2.rds.amazonaws.com:5432/mothersandbabies")
+app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or ("postgres://fajrsjljuyknwp:9c8f96a71116dcef2ff1f166542724869d8490f7d7e7e52e299b57ae5c5ac133@ec2-34-237-166-54.compute-1.amazonaws.com:5432/dfnqlpg5f66n80")
 
 # Remove tracking modifications
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
@@ -41,11 +41,11 @@ db = SQLAlchemy(app)
 
 # Data Routes
 
-# @app.route("/yearcount")
-# def yearcount():
+@app.route("/yearcount")
+def yearcount():
 
-#     results = db.session.query(yearCount).all()
-#     return jsonify(results)
+    results = db.session.query(yearCount).all()
+    return jsonify(results)
 
 
 
