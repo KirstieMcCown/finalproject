@@ -47,7 +47,7 @@ chart.data = [{
   {
     "year": "2018",
     "count": 9862276,
-    "href": "../static/images/IMG_8704.jpg"
+    "href": "../static/images/IMG_8704.JPG"
   }
 ];
 
@@ -138,3 +138,5 @@ chart.cursor.events.on("cursorpositionchanged", function (event) {
         }
     }
 })
+
+
