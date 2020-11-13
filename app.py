@@ -42,10 +42,10 @@ Base.prepare(engine, reflect=True)
 # mapped classes are now created with names by default
 # matching that of the table name.
 # Yearcount = Base.classes.yearcount
-Averageage = Base.classes.averageage
-Birthstate = Base.classes.birthstate
-Termbabiescount = Base.classes.termbabiescount
-Babiessexcount = Base.classes.babiessexcount
+# Averageage = Base.classes.averageage
+# Birthstate = Base.classes.birthstate
+# Termbabiescount = Base.classes.termbabiescount
+# Babiessexcount = Base.classes.babiessexcount
 
 
 
@@ -61,37 +61,37 @@ db = SQLAlchemy(app)
 
 # # Data Routes
 
-@app.route("/yearcount", methods=["GET", "POST"])
-def yearcount():
+# @app.route("/yearcount", methods=["GET", "POST"])
+# def yearcount():
 
-    results = db.session.query(Yearcount).all()
-    return jsonify(results)
+#     results = db.session.query(Yearcount).all()
+#     return jsonify(results)
 
 
-@app.route("/averageage", methods=["GET", "POST"])
-def averageage():
+# @app.route("/averageage", methods=["GET", "POST"])
+# def averageage():
     
-    results = db.session.query(Averageage).all()
-    return jsonify(results)
+#     results = db.session.query(Averageage).all()
+#     return jsonify(results)
 
 
-@app.route("/birthstate", methods=["GET", "POST"])
-def birthstate():
+# @app.route("/birthstate", methods=["GET", "POST"])
+# def birthstate():
     
-    results = db.session.query(Birthstate).all()
-    return jsonify(results)
+#     results = db.session.query(Birthstate).all()
+#     return jsonify(results)
 
-@app.route("/termbabiescount", methods=["GET", "POST"])
-def termbabiescount():
+# @app.route("/termbabiescount", methods=["GET", "POST"])
+# def termbabiescount():
     
-    results = db.session.query(Termbabiescount).all()
-    return jsonify(results)
+#     results = db.session.query(Termbabiescount).all()
+#     return jsonify(results)
 
-@app.route("/babiessexcount", methods=["GET", "POST"])
-def babiessexcount():
+# @app.route("/babiessexcount", methods=["GET", "POST"])
+# def babiessexcount():
     
-    results = db.session.query(Babiessexcount).all()
-    return jsonify(results)
+#     results = db.session.query(Babiessexcount).all()
+#     return jsonify(results)
 
 
 
