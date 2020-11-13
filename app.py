@@ -32,6 +32,9 @@ Base = automap_base()
 # Create the engine
 engine = create_engine('postgres://fajrsjljuyknwp:9c8f96a71116dcef2ff1f166542724869d8490f7d7e7e52e299b57ae5c5ac133@ec2-34-237-166-54.compute-1.amazonaws.com:5432/dfnqlpg5f66n80')
 
+# Create session
+session = Session(engine)
+
 # reflect the tables
 Base.prepare(engine, reflect=True)
 
@@ -43,8 +46,7 @@ birthstate = Base.classes.birthstate
 termbabiescount = Base.classes.termbabiescount
 babiessexcount = Base.classes.babiessexcount
 
-# Create session
-session = Session(engine)
+
 
 # App config & DB URL
 app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or (f"postgresql://{username}:{password}@{hostname}:5432/{database}")
