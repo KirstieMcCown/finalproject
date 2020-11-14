@@ -47,7 +47,7 @@ chart.data = [{
   {
     "year": "2018",
     "count": 9862276,
-    "href": "../static/images/IMG_8704.JPG"
+    "href": "../static/images/bar.jpeg"
   }
 ];
 
