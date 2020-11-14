@@ -1,3 +1,6 @@
+var API_KEY =
+  "pk.eyJ1Ijoia2lyc3RpZW1jY293biIsImEiOiJja2ZkdTFuZDYwN2xrMzFwNTZodmJxMHh4In0.5mpXuTewEvMddcIFIJbqOA";
+
 // Create base layers
 
 // Streetmap Layer
@@ -68,7 +71,7 @@ L.control.layers(baseMaps, overlayMaps, {
 }).addTo(myMap);
 
 
-// Function to determine marker size based on number of women each year
+// Function to determine marker size based on number of Babies each year
 function markerSize(count) {
   return count * 2;
 }
@@ -87,10 +90,11 @@ var year2017;
 var year2018;
 
 
+
 // Load in data
-d3.json("/birthstate").then(datafromdb => {
-  data = datafromdb
+d3.csv("static/js/babiesbirthstate.csv").then(function(data) {
   // console.log(data);
+  data = data
   state = data[0].topic_disaggregation
   // console.log(state)
 
@@ -121,7 +125,7 @@ d3.json("/birthstate").then(datafromdb => {
         // Setting our circle's radius equal to the output of our markerSize function
         // This will make our marker's size proportionate to its population
         radius: markerSize(data[i].count)
-      }).bindPopup("<h1>" + state + "</h1> <hr> <p>Year: " + year + "</p><p>Number of Women: " + count + "</p>")
+      }).bindPopup("<h1>" + state + "</h1> <hr> <p>Year: " + year + "</p><p>Number of Babies: " + count + "</p>")
         .addTo(year2010layer);
     };
   
@@ -135,7 +139,7 @@ d3.json("/birthstate").then(datafromdb => {
         // Setting our circle's radius equal to the output of our markerSize function
         // This will make our marker's size proportionate to its population
         radius: markerSize(data[i].count)
-      }).bindPopup("<h1>" + state + "</h1> <hr> <p>Year: " + year + "</p><p>Number of Women: " + count + "</p>")
+      }).bindPopup("<h1>" + state + "</h1> <hr> <p>Year: " + year + "</p><p>Number of Babies: " + count + "</p>")
         .addTo(year2011layer);
     };
 
@@ -148,7 +152,7 @@ d3.json("/birthstate").then(datafromdb => {
         // Setting our circle's radius equal to the output of our markerSize function
         // This will make our marker's size proportionate to its population
         radius: markerSize(data[i].count)
-      }).bindPopup("<h1>" + state + "</h1> <hr> <p>Year: " + year + "</p><p>Number of Women: " + count + "</p>")
+      }).bindPopup("<h1>" + state + "</h1> <hr> <p>Year: " + year + "</p><p>Number of Babies: " + count + "</p>")
         .addTo(year2012layer);
     };
 
@@ -162,7 +166,7 @@ d3.json("/birthstate").then(datafromdb => {
         // Setting our circle's radius equal to the output of our markerSize function
         // This will make our marker's size proportionate to its population
         radius: markerSize(data[i].count)
-      }).bindPopup("<h1>" + state + "</h1> <hr> <p>Year: " + year + "</p><p>Number of Women: " + count + "</p>")
+      }).bindPopup("<h1>" + state + "</h1> <hr> <p>Year: " + year + "</p><p>Number of Babies: " + count + "</p>")
         .addTo(year2013layer);
     };
 
@@ -176,7 +180,7 @@ d3.json("/birthstate").then(datafromdb => {
         // Setting our circle's radius equal to the output of our markerSize function
         // This will make our marker's size proportionate to its population
         radius: markerSize(data[i].count)
-      }).bindPopup("<h1>" + state + "</h1> <hr> <p>Year: " + year + "</p><p>Number of Women: " + count + "</p>")
+      }).bindPopup("<h1>" + state + "</h1> <hr> <p>Year: " + year + "</p><p>Number of Babies: " + count + "</p>")
         .addTo(year2014layer);
     };
   
@@ -190,7 +194,7 @@ d3.json("/birthstate").then(datafromdb => {
         // Setting our circle's radius equal to the output of our markerSize function
         // This will make our marker's size proportionate to its population
         radius: markerSize(data[i].count)
-      }).bindPopup("<h1>" + state + "</h1> <hr> <p>Year: " + year + "</p><p>Number of Women: " + count + "</p>")
+      }).bindPopup("<h1>" + state + "</h1> <hr> <p>Year: " + year + "</p><p>Number of Babies: " + count + "</p>")
         .addTo(year2015layer);
     };
 
@@ -203,7 +207,7 @@ d3.json("/birthstate").then(datafromdb => {
         // Setting our circle's radius equal to the output of our markerSize function
         // This will make our marker's size proportionate to its population
         radius: markerSize(data[i].count)
-      }).bindPopup("<h1>" + state + "</h1> <hr> <p>Year: " + year + "</p><p>Number of Women: " + count + "</p>")
+      }).bindPopup("<h1>" + state + "</h1> <hr> <p>Year: " + year + "</p><p>Number of Babies: " + count + "</p>")
         .addTo(year2016layer);
     };
 
@@ -217,7 +221,7 @@ d3.json("/birthstate").then(datafromdb => {
         // Setting our circle's radius equal to the output of our markerSize function
         // This will make our marker's size proportionate to its population
         radius: markerSize(data[i].count)
-      }).bindPopup("<h1>" + state + "</h1> <hr> <p>Year: " + year + "</p><p>Number of Women: " + count + "</p>")
+      }).bindPopup("<h1>" + state + "</h1> <hr> <p>Year: " + year + "</p><p>Number of Babies: " + count + "</p>")
         .addTo(year2017layer);
     };
 
@@ -230,7 +234,7 @@ d3.json("/birthstate").then(datafromdb => {
         // Setting our circle's radius equal to the output of our markerSize function
         // This will make our marker's size proportionate to its population
         radius: markerSize(data[i].count)
-      }).bindPopup("<h1>" + state + "</h1> <hr> <p>Year: " + year + "</p><p>Number of Women: " + count + "</p>")
+      }).bindPopup("<h1>" + state + "</h1> <hr> <p>Year: " + year + "</p><p>Number of Babies: " + count + "</p>")
         .addTo(year2018layer);
     };
 

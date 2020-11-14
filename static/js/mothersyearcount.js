@@ -2,7 +2,9 @@ var chart = am4core.create("chartdiv", am4charts.SlicedChart);
 chart.hiddenState.properties.opacity = 0; // this makes initial fade in effect
 
 // Chart data from database, being passed through the Flask App (API)
-chart.dataSource.url = "/yearcount";
+chart.dataSource.url = "static/js/yearcount.csv";
+chart.dataSource.parser = new am4core.CSVParser();
+chart.dataSource.parser.options.useColumnNames = true;
 
 // Themes begin
 am4core.useTheme(am4themes_animated);

@@ -1,5 +1,7 @@
 // Create base layers
-
+var API_KEY =
+  "pk.eyJ1Ijoia2lyc3RpZW1jY293biIsImEiOiJja2ZkdTFuZDYwN2xrMzFwNTZodmJxMHh4In0.5mpXuTewEvMddcIFIJbqOA";
+  
 // Streetmap Layer
 var streetmap = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
   attribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
@@ -88,9 +90,9 @@ var year2018;
 
 
 // Load in data
-d3.json("/birthstate").then(datafromdb => {
-  data = datafromdb
+d3.csv("static/js/birthstate.csv").then(function(data) {
   // console.log(data);
+  data = data
   state = data[0].topic_disaggregation
   // console.log(state)
 

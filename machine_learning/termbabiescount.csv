@@ -1,73 +1,28 @@
-year,babies_term,topic_disaggregation,babies_count,,,,
-2010,Not stated,Female,20,,,,
-2010,Not stated,Male,43,,,,
-2010,Post-Term,Female,1125,,,,
-2010,Post-Term,Male,1235,,,,
-2010,Pre-Term,Female,11455,,,,
-2010,Pre-Term,Male,13273,,,,
-2010,Term,Female,133861,,,,
-2010,Term,Male,138999,,,,
-2011,Not stated,Female,31,,,,
-2011,Not stated,Male,36,,,,
-2011,Post-Term,Female,966,,,,
-2011,Post-Term,Male,1122,,,,
-2011,Pre-Term,Female,11679,,,,
-2011,Pre-Term,Male,13386,,,,
-2011,Term,Female,133985,,,,
-2011,Term,Male,140661,,,,
-2012,Not stated,Female,39,,,,
-2012,Not stated,Male,33,,,,
-2012,Post-Term,Female,907,,,,
-2012,Post-Term,Male,984,,,,
-2012,Pre-Term,Female,11982,,,,
-2012,Pre-Term,Male,14454,,,,
-2012,Term,Female,138313,,,,
-2012,Term,Male,145393,,,,
-2013,Not stated,Female,33,,,,
-2013,Not stated,Male,39,,,,
-2013,Post-Term,Female,759,,,,
-2013,Post-Term,Male,849,,,,
-2013,Pre-Term,Female,12203,,,,
-2013,Pre-Term,Male,14180,,,,
-2013,Term,Female,137171,,,,
-2013,Term,Male,144104,,,,
-2014,Not stated,Female,124,,,,
-2014,Not stated,Male,96,,,13273,13386
-2014,Post-Term,Female,732,,,,
-2014,Post-Term,Male,769,,,13273,13386
-2014,Pre-Term,Female,12347,,,,
-2014,Pre-Term,Male,14377,,,,
-2014,Term,Female,138821,,,,
-2014,Term,Male,145096,,,,
-2015,Not stated,Female,27,,,,
-2015,Not stated,Male,36,,,,
-2015,Post-Term,Female,593,,,,
-2015,Post-Term,Male,623,,,,
-2015,Pre-Term,Female,12296,,,,
-2015,Pre-Term,Male,14430,,,,
-2015,Term,Female,137079,,,,
-2015,Term,Male,143714,,,,
-2016,Not stated,Female,114,,,,
-2016,Not stated,Male,139,,,,
-2016,Post-Term,Female,850,,,,
-2016,Post-Term,Male,932,,,,
-2016,Pre-Term,Female,12481,,,,
-2016,Pre-Term,Male,14264,,,,
-2016,Term,Female,139468,,,,
-2016,Term,Male,146461,,,,
-2017,Not stated,Female,46,,,,
-2017,Not stated,Male,58,,,,
-2017,Post-Term,Female,730,,,,
-2017,Post-Term,Male,744,,,,
-2017,Pre-Term,Female,12376,,,,
-2017,Pre-Term,Male,14260,,,,
-2017,Term,Female,135107,,,,
-2017,Term,Male,142247,,,,
-2018,Not stated,Female,66,,,,
-2018,Not stated,Male,72,,,,
-2018,Post-Term,Female,1262,,,,
-2018,Post-Term,Male,1328,,,,
-2018,Pre-Term,Female,24388,,,,
-2018,Pre-Term,Male,28330,,,,
-2018,Term,Female,268276,,,,
-2018,Term,Male,282102,,,,
+babies_count
+222
+290773
+9220
+228
+292736
+9060
+191
+301025
+9062
+249
+300148
+9092
+219
+303207
+9116
+237
+299728
+8922
+0
+305734
+8818
+0
+296579
+32
+378
+585868
+11402
